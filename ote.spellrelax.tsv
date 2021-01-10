@@ -1,0 +1,14 @@
+# merge apostrophes
+ʼ	'	’	`	´
+
+# accept missing diacritics
+á	a
+Á	A
+í	i
+Í	I
+
+# (doesn't seem to be needed for now)
+# accept non-macron-below forms
+#e̱	e
+#o̱	o
+#u̱	u
