@@ -4,19 +4,24 @@ PATTERNS
 
 Verbs
 Nouns
-
+Determiners
 
 PATTERN Verbs
 
-Proclitics(1) [<aux>:] Proclitics(2): [+:\ ] Verb-Stem(1) [<v>:] Verb-Stem(2):
-Verb-Stem(1) [<v>:] Verb-Stem(2):
+Proclitics(1) [<aux>:] Proclitics(2): [+:\ ] Verb-Stems(1) [<v>:] Verb-Stems(2):
+
+Verb-Stems(1) [<v>:] Verb-Stems(2):
+
 
 PATTERN Nouns
 
 Noun-Stems [<n>:]
 
+PATTERN Determiners
 
-LEXICON Verb-Stem(2)
+Determiner-Stems(1) [<det>:] Determiner-Stems(2):
+
+LEXICON Verb-Stems(2)
 
 pädi:pädi					<tv>	# saber
 po̱tsʼe:po̱tsʼe				<iv>	# subir
@@ -3198,3 +3203,11 @@ zu̱sta:zu̱sta   # perrilla, orzuelo
 zu̱te:zu̱te   # regañón  
 zu̱thä:zu̱thä   # pepenador de maíz, ¶rebuscador de maíz  
 zu̱xyä:zu̱xyä   # último hijo, última cría en ¶nacer  
+
+
+LEXICON Determiner-Stems(2)
+
+ra:ra	<def><sg>
+ya:ya	<def><pl>
+
+
