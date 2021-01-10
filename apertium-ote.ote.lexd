@@ -1,0 +1,16 @@
+# Morphological Transducer for Hñähñu
+
+PATTERNS
+
+Verbs
+
+
+PATTERN Verbs
+
+Verb-Stem(1) [<v>:] Verb-Stem(2):
+
+
+LEXICON Verb-Stem(2)
+
+pädi:pädi	<tv>	# saber
+po̱tsʼe:po̱tsʼe	<iv>	# subir
