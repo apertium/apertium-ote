@@ -5,6 +5,7 @@ PATTERNS
 Verbs
 Nouns
 Determiners
+Prepositions
 
 PATTERN Verbs
 
@@ -20,6 +21,11 @@ Noun-Stems [<n>:]
 PATTERN Determiners
 
 Determiner-Stems(1) [<det>:] Determiner-Stems(2):
+
+PATTERN Prepositions
+
+Prep-Stems [<pr>:]
+
 
 LEXICON Verb-Stems(2)
 
@@ -3207,7 +3213,26 @@ zu̱xyä:zu̱xyä   # último hijo, última cría en ¶nacer
 
 LEXICON Determiner-Stems(2)
 
-ra:ra	<def><sg>
-ya:ya	<def><pl>
+ra:ra					<def><sg>
+ya:ya					<def><pl>
+ʼna\ ra				<idf><sg>
+ʼra\ ya:ʼra\ ya	<idf><pl>
+ʼna\ ya:ʼna\ ya	<idf><pl>
 
+LEXICON Prep-Stems
 
+mbo:mbo			# dentro de
+ngaʼti:ngaʼti	# bajo, abajo de
+nge:nge			# cerca de
+nsi:nsi			# sin
+nsinke:nsinke	# sin
+pa:pa				# para
+po:po				# por causa de
+ha:ha				# a, en, sobre
+änte:änte		# ante
+ko:ko				# con, por
+de:de				# de
+dega:dega		# de
+ga:ga				# de
+asta:asta		# hasta
+desde:desde		# desde
