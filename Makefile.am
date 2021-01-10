@@ -47,8 +47,8 @@ TARGETS_COMMON =			\
 $(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
 	hfst-fst2fst -O $< -o $@
 
-$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst $(LANG1).spellrelax.tsv
-	hfst-invert $< | hfst-expand-equivalences -T $(LANG1).spellrelax.tsv | hfst-fst2fst -O -o $@
+$(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst $(BASENAME).$(LANG1).spellrelax
+	hfst-invert $< | hfst-expand-equivalences -T $(BASENAME).$(LANG1).spellrelax | hfst-fst2fst -O -o $@
 
 $(LANG1).autogen.att.gz: $(LANG1).autogen.hfst
 	hfst-fst2txt $< | gzip -9 -c -n > $@
