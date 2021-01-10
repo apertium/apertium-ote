@@ -18,32 +18,39 @@ Noun-Stems [<n>:]
 
 LEXICON Verb-Stem(2)
 
-pädi:pädi			<tv>	# saber
-po̱tsʼe:po̱tsʼe		<iv>	# subir
-peni:{P}eni			<tv>	# lavar
-fu̱di:fu̱di			<iv>	# empezar
-tehmi:tehmi			<tv>	# quebrar
-tehmi:{ъ}tehmi		<iv>	# quebrarse
-ʼbai:ʼbai			<iv>	# pararse
-tai:tai				<tv>	# comprar
-thädi:thädi			<tv>	# contestar
-tsa:tsa				<tv>	# mordar
-ku̱ni:ku̱ni			<tv>	# molir
-ju̱ki:ju̱ki			<tv>	# sacar
-juadi:juadi			<tv>	# terminar
-o̱de:{ʼ}{y}o̱de		<tv>	# oír
-ähä:{ʼ}{ñ}ähä		<iv>	# dormir
-honi:h{y}oni		<tv>	# buscar
-hätsʼi:h{ñ}atsʼi	<tv>	# llevar
-thäʼti:{n}thäʼti	<iv>	# molir
-thede:{n}thede		<iv>	# reírse
-tsaya:{n}tsaya		<iv>	# descansar
-xo̱ni:{n}xo̱ni		<iv>	# apresurarse
-sagi:{n}sagi		<iv>	# brincar
+pädi:pädi					<tv>	# saber
+po̱tsʼe:po̱tsʼe				<iv>	# subir
+peni:{P}eni					<tv>	# lavar
+fu̱di:fu̱di					<iv>	# empezar
+tehmi:tehmi					<tv>	# quebrar
+tehmi:{ъ}tehmi				<iv>	# quebrarse
+ʼbai:ʼbai					<iv>	# pararse
+tai:tai						<tv>	# comprar
+thädi:thädi					<tv>	# contestar
+tsa:tsa						<tv>	# mordar
+ku̱ni:ku̱ni					<tv>	# molir
+ju̱ki:ju̱ki					<tv>	# sacar
+juadi:juadi					<tv>	# terminar
+o̱de:{ʼ}{y}o̱de				<tv>	# oír
+ähä:{ʼ}{ñ}ähä				<iv>	# dormir
+honi:h{y}oni				<tv>	# buscar
+hätsʼi:h{ñ}atsʼi			<tv>	# llevar
+thäʼti:{n}thäʼti			<iv>	# molir
+thede:{n}thede				<iv>	# reírse
+tsaya:{n}tsaya				<iv>	# descansar
+xo̱ni:{n}xo̱ni				<iv>	# apresurarse
+sagi:{n}sagi				<iv>	# brincar
+tsa:{🪅}{n}tsa				<tv>	# comer
+tse̱käza:{🪅}{n}tse̱käza	<tv>	# cortar
+pahai:{🪅}{m}pahai			<tv>	# vender
+tsithe:{🪅}{n}tsithe		<tv>	# tomar
+täte:{🪅}{n}täte			<iv>	# vencer ! FIXME: technically tä<v><tv>+te
 
 LEXICON Proclitics(2)
 
-bi:bi	<pres><p3>
+dá:dá	<pret><p1>
+gá:gá	<pret><p2>
+bi:bi	<pret><p3>
 
 LEXICON Noun-Stems
 
