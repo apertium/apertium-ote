@@ -6,6 +6,7 @@ Alphabet
  %{y%}:0 %{y%}:y
  %{ñ%}:0 %{ñ%}:ñ
  %{ʼ%}:0 %{ʼ%}:ʼ
+ %{n%}:0 %{n%}:n
 ;
 
 Sets
@@ -37,6 +38,9 @@ t:z <=> b i %  (ʼ) _ s: ;
 
 "secondary verb forms beginning in ʼ realise ʼ"
 %{ʼ%}:ʼ <=> b i %  _ ;
+
+"secondary verb forms with initial n"
+%{n%}:n <=> b i %  _ ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
