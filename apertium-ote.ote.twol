@@ -3,7 +3,9 @@ Alphabet
  a ä b c d e e̱ f g h i j k l m n ñ o o̱ p r s t u u̱ w y z ʼ
  %{ъ%}:0
  %{P%}:p %{P%}:m
- % 
+ %{y%}:0 %{y%}:y
+ %{ñ%}:0 %{ñ%}:ñ
+ %{ʼ%}:0 %{ʼ%}:ʼ
 ;
 
 Sets
@@ -14,10 +16,27 @@ Vow = A E I O U
 Rules
 
 "secondary verb form consonant lenition, except ts"
-Cx:Cy <=> b i % (ʼ) _ ;
+Cx:Cy <=> b i %  (ʼ) _ ;
+      except
+            _ s: ;
       where Cx in ( p %{P%} f b t k j )
             Cy in ( b   m   m m d g g )
       matched ;
+
+"secondary verb form in ts:z (s)"
+s:0 <=> b i %  (ʼ) t: _ ;
+
+"secondary verb form in ts:z (t)"
+t:z <=> b i %  (ʼ) _ s: ;
+
+"secondary verb forms beginning in glottals get palatals h:hy"
+%{y%}:y <=> b i %  h _ ;
+
+"secondary verb forms beginning in glottals get palatals ʼ:ʼñ (ñ)"
+%{ñ%}:ñ <=> b i %  %{ʼ%}: _ ;
+
+"secondary verb forms beginning in ʼ realise ʼ"
+%{ʼ%}:ʼ <=> b i %  _ ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
