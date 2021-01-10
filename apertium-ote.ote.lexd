@@ -3,14 +3,3176 @@
 PATTERNS
 
 Verbs
+Nouns
 
 
 PATTERN Verbs
 
+Proclitics(1) [<aux>:] Proclitics(2): [+:\ ] Verb-Stem(1) [<v>:] Verb-Stem(2):
 Verb-Stem(1) [<v>:] Verb-Stem(2):
+
+PATTERN Nouns
+
+Noun-Stems [<n>:]
 
 
 LEXICON Verb-Stem(2)
 
-pädi:pädi	<tv>	# saber
+pädi:pädi		<tv>	# saber
 po̱tsʼe:po̱tsʼe	<iv>	# subir
+peni:{P}eni		<tv>	# lavar
+fu̱di:fu̱di		<iv>	# empezar
+tehmi:tehmi		<tv>	# quebrar
+tehmi:{ъ}tehmi	<iv>	# quebrarse
+ʼbai:ʼbai		<iv>  # pararse
+
+LEXICON Proclitics(2)
+
+bi:bi	<pres><p3>
+
+LEXICON Noun-Stems
+
+agate:agate   # ágata  
+agosto:agosto   # agosto  
+ahñoli:ahñoli   # ajonjolí  
+aba:aba   # haba (tumor de las caballerías 
+abri:abri   # abril  
+Ajuä:Ajuä   #  
+Akntʼoxi:Akntʼoxi   #  
+algodo:algodo   # algodón  
+alma:alma   # 1. alma, espíritu  
+animä:animä   # 1. cuerpo del muerto, ¶cadáver  
+anjenjo:anjenjo   # ajenjo  
+aʼni:aʼni   # pulga de gallina el ¶sueño  
+apio:apio   # apio  
+Arado:Arado   #  
+arhmä:arhmä   # arma  
+ata:ata   # 1. altar  
+avio:avio   # 1. avión  
+axi:axi   # ajo  
+aʼyo:aʼyo   # pulga de perro  
+ädiza:ädiza   # madera áspera  
+ädo:ädo   # piedra áspera  
+äjua:äjua   # echadero de conejo  
+äʼye̱:äʼye̱   # 1. mano acertante  
+badu:badu   # pato  
+baga:baga   # vaca  
+balo:balo   # 1. valor, precio  
+bandera:bandera   # 1. bandera, pabellón ¶ 
+barista:barista   # varista (reg.del juez auxiliar para avisar a la ¶gente  
+barri:barri   # barril  
+baxa:baxa   # 1. basura o desecho (de la ¶mies 
+baxjua:baxjua   #  
+bayo:bayo   # rebozo  
+bayoʼme:bayoʼme   # rebozo tejido  
+bazumu̱i:bazumu̱i   # persona con barriga ¶velluda  
+bädi:bädi   # adivino  
+bämhñä:bämhñä   # sabio  
+bänte:bänte   # s súplica vt suplicar, rogar, pedir un favor ¶ 
+bäsʼbe̱hñä:bäsʼbe̱hñä   # mujer joven  
+bäsdänxu:bäsdänxu   # mujer fuerte a ¶pesar de sus años  
+bäsjäʼi:bäsjäʼi   # joven (persona 
+bäsñʼo̱ho̱:bäsñʼo̱ho̱   # hombre joven  
+bätsi:bätsi   # 1. hijo (animal o humanoadj joven  
+be:be   # 1. ladrón, ratero  
+beʼba:beʼba   # ladrón de leche (que mama ¶la leche de otra que no es su madre 
+benʼi:benʼi   # robagallinas  
+berro:berro   # berro  
+bete:bete   # 1. traicionero (que ataca ¶repentinamente 
+bexa:bexa   # 1. borrega madura  
+bexiga:bexiga   # ampolla  
+beza:beza   # ladrón de madera (leña o ¶árbol vivo que trozan 
+beʼthui:beʼthui   # ladrón de aguamiel ¡ 
+be̱nto:be̱nto   # rey (nombre dado a un rey ¶por un mal espíritu 
+bindode:bindode   # animal que tiene una ¶estrella en medio de su frente o persona con ¶pinta en la frente  
+bindode̱thä:bindode̱thä   # maíz pinto, ¶maíz negro  
+bindoju̱:bindoju̱   # frijol pinto  
+bindoʼuada:bindoʼuada   # maguey pinto, ¶maguey meco  
+bindozate:bindozate   # tigre  
+biʼthä:biʼthä   # pesadilla limpiar  
+bo:bo   # quiote, bohordo  
+boʼbahi:boʼbahi   # corazón de la palma ¶palmera  
+bodoki:bodoki   # 1. chipote, chichón  
+bohai:bohai   # cucharilla (planta de pencas ¶angostas y largas 
+boi:boi   # 1. buey negro, prieto  
+bojä:bojä   # dinero  
+boladejuego:boladejuego   # bola de fuego ¶¡ 
+bongʼbe̱to:bongʼbe̱to   # bisnieto  
+bongxu:bongxu   # bisnieta  
+bopo:bopo   # trementina  
+bordo:bordo   # 1. bordo  
+bota:bota   # odre, bota  
+botansei:botansei   # 1. cuero de pulque ¶hormiga de miel, ¶botaxäju̱ (bǒtáxäju̱ ¶busilera  
+botʼua:botʼua   # pantorrilla  
+boxi:boxi   # 1. gallo  
+boʼta:boʼta   # quiote de maguey  
+bo̱da:bo̱da   # 1. lagaña, legaña estar lagañoso  
+bo̱gu:bo̱gu   # cerilla (reg. 
+bo̱hai:bo̱hai   # 1. lodo, fango  
+bo̱jä:bo̱jä   # 1. fierro, hierro, todo metal ¶ 
+bo̱ka:bo̱ka   # bravo  
+bo̱kue̱:bo̱kue̱   # s persona irritable, ¶persona colérica  
+bo̱mu:bo̱mu   # tripa de calabaza  
+bo̱ne:bo̱ne   # sobra, desecho, desperdicio ¶(de alimento 
+bo̱ni:bo̱ni   # 1. salida  
+bo̱nju̱:bo̱nju̱   # frijol ayocote  
+bo̱ñu:bo̱ñu   # moco  
+bo̱shnä:bo̱shnä   # 1. bala  
+bo̱tʼo:bo̱tʼo   # liendre  
+bo̱the:bo̱the   # alga  
+bo̱tsu:bo̱tsu   # bisabuela  
+bo̱xta:bo̱xta   # bisabuelo 1. seso  
+bo̱za:bo̱za   # bosque ¶ 
+bo̱zaju̱:bo̱zaju̱   # frijol cimarrón  
+bo̱ʼkuä:bo̱ʼkuä   # camote  
+bo̱ʼkuäʼbastʼä:bo̱ʼkuäʼbastʼä   # camote de ¶garambullo  
+bruha:bruha   # bruja  
+bruho:bruho   # brujo  
+burru:burru   # burro  
+buxa:buxa   # 1. bolsa  
+bu̱lo:bu̱lo   # 1. persona rapada, persona ¶sin sombrero ¶2. vi despuntar, rapar  
+bu̱nthi:bu̱nthi   # 1. viento fuerte, aire ¶fuerte  
+bu̱xyä:bu̱xyä   # despeinado  
+ʼba:ʼba   # 1. leche  
+ʼbabga:ʼbabga   # leche de vaca  
+ʼbada:ʼbada   # jarro  
+ʼbadaua:ʼbadaua   # pantorrilla  
+ʼbadithä:ʼbadithä   # venta de maíz  
+ʼbafi:ʼbafi   # nido  
+ʼbafikähai:ʼbafikähai   # nido de ¶golondrina  
+ʼbafiku̱dʼbida:ʼbafiku̱dʼbida   # nido del ¶pájaro bobo  
+ʼbahi:ʼbahi   # palma  
+ʼbahnäʼñu:ʼbahnäʼñu   # camino sinuoso ¶ 
+ʼbai:ʼbai   # 1. mata (de árbol o plantavi estar parado  
+ʼbaiʼbo̱tsʼe:ʼbaiʼbo̱tsʼe   # canasta colmada ¶ 
+ʼbamngo̱:ʼbamngo̱   # carnicería  
+ʼbando:ʼbando   # pilar de piedra  
+ʼbane:ʼbane   # tartamudo tartamudear  
+ʼbanjua:ʼbanjua   # conejo  
+ʼbantfani:ʼbantfani   # leche de vaca  
+ʼbantʼyu̱ga:ʼbantʼyu̱ga   # 1. bufanda  
+ʼbantsʼi:ʼbantsʼi   # envoltorio, algo ¶envuelto  
+ʼbanxu:ʼbanxu   # 1. oyamel (árbol 
+ʼbanza:ʼbanza   # 1. poste de madera  
+ʼbaʼnxi:ʼbaʼnxi   # leche de cabra  
+ʼbase̱ju̱:ʼbase̱ju̱   # frijol sin guía, frijol ¶maleado  
+ʼbastʼä:ʼbastʼä   # garambullo (la fruta es ¶como capulín y la mata es grande con pencas ¶largas ovaladas y acanaladas con espinas 
+ʼbatäua:ʼbatäua   # pie arrugado  
+ʼbatmädo:ʼbatmädo   # huevo sancochado ¶ 
+ʼbatha:ʼbatha   # 1. llanura  
+ʼbathä:ʼbathä   # venta de maíz  
+ʼbathmi:ʼbathmi   # cara arrugada  
+ʼbatsʼi:ʼbatsʼi   # 1. bulto  
+ʼbaxʼbo̱tsʼe:ʼbaxʼbo̱tsʼe   # 1. canasta ¶grande, chiquihuite (que le cabe, en tortillas, ¶el equivalente de seis cuartillos de maíz 
+ʼbaxi:ʼbaxi   # 1. escoba moco  
+ʼbaxkahai:ʼbaxkahai   # terreno estéril, ¶terreno desierto  
+ʼbaxloma:ʼbaxloma   # loma desierta  
+ʼbaxoza:ʼbaxoza   # nombre de una planta 
+ʼbayo:ʼbayo   # venta de velas  
+ʼbaʼyo:ʼbaʼyo   # leche de cabra pastoreo  
+ʼbaza:ʼbaza   # venta de leña  
+ʼbe:ʼbe   # palo para tejer  
+ʼbebo:ʼbebo   # camilla  
+ʼbede:ʼbede   # 1. historia, cuento, relato ¶ 
+ʼbemtsʼe:ʼbemtsʼe   # tejer canastas  
+ʼbengadutu:ʼbengadutu   # 1. lavandería ¶ 
+ʼbextʼe:ʼbextʼe   # bandera  
+ʼbeza:ʼbeza   # huacal (caja hecha de ¶barrotes de madera o de tiras de tabla 
+ʼbe̱datsi:ʼbe̱datsi   # sobrino, sobrina ¶político ¶cacería de tlacuache ¶ 
+ʼbe̱fi:ʼbe̱fi   # 1. trabajo  
+ʼbe̱go:ʼbe̱go   # s peón estar de peón  
+ʼbe̱hñä:ʼbe̱hñä   # 1. mujer  
+ʼbe̱jri:ʼbe̱jri   # arco iris  
+ʼbe̱mu:ʼbe̱mu   # pilmama, niñera  
+ʼbe̱ʼmda:ʼbe̱ʼmda   # 1. tocada (reg.¶de instrumentos musicales  
+ʼbe̱ni:ʼbe̱ni   # 1. bulto, lío 1. estar acostado  
+ʼbe̱nxi:ʼbe̱nxi   # base donde se talla ¶lechuguilla  
+ʼbe̱ʼñu:ʼbe̱ʼñu   # desgracia, perdición  
+ʼbe̱pate:ʼbe̱pate   # 1. servicio doméstico ¶(en hogar ajeno 
+ʼbe̱po:ʼbe̱po   # cuñada  
+ʼbe̱snä:ʼbe̱snä   # trabajo por mes  
+ʼbe̱statsʼintsʼu̱:ʼbe̱statsʼintsʼu̱   # pájaro ¶maicero (con mancha oscura en la cara 
+ʼbe̱te:ʼbe̱te   # cacería, caza  
+ʼbe̱ti:ʼbe̱ti   # acción de limosnear  
+ʼbe̱to:ʼbe̱to   # nieto, nieta  
+ʼbe̱tri:ʼbe̱tri   # 1. mayordomo  
+ʼbe̱tʼaʼye̱:ʼbe̱tʼaʼye̱   # aplauso  
+ʼbe̱tsa:ʼbe̱tsa   # 1. vergüenza  
+ʼbe̱tsandoʼyo:ʼbe̱tsandoʼyo   # 1. ¶cementerio, camposanto  
+ʼbe̱xazate:ʼbe̱xazate   # tigre  
+ʼbe̱xui:ʼbe̱xui   # s obscuridad  
+ʼbi:ʼbi   # orina  
+ʼbida:ʼbida   # 1. guitarra, instrumento ¶musical  
+ʼbifi:ʼbifi   # humo  
+ʼbifo:ʼbifo   # gordo (persona o animal 
+ʼbimda:ʼbimda   # 1. espina de maguey (de ¶la orilla de las pencas 
+ʼbimxähi:ʼbimxähi   # guitarra  
+ʼbindri:ʼbindri   # chicalote (hierba con ¶espinas en toda la mata con semilla prieta y ¶pequeña, de flor blanca con amarillo en medio 
+ʼbintʼo:ʼbintʼo   # granjeno (planta con ¶espinas grandes 
+ʼbinza:ʼbinza   # huizache  
+ʼbipa:ʼbipa   # 1. calma (reg.; vapor o humo ¶que parcialmente oscurece la vista lejana del ¶valle 
+ʼbistʼä:ʼbistʼä   # espina de nopal  
+ʼbite:ʼbite   # aguijón, lanceta  
+ʼbitʼatʼähi:ʼbitʼatʼähi   # mezquital  
+ʼbitʼi:ʼbitʼi   # 1. orina  
+ʼbithi:ʼbithi   # petaca (reg.; canasta tejida, ¶sin asa, para tortillas 
+ʼbitso̱:ʼbitso̱   # 1. aerolito, estrella fugaz ¶ 
+ʼbixfani:ʼbixfani   # tambor  
+ʼbiʼtsei:ʼbiʼtsei   # adj negro ¶ 
+ʼbobga:ʼbobga   # vaca prieta  
+ʼboda:ʼboda   # 1. ojo negro (de persona o ¶animal 
+ʼbodehe:ʼbodehe   # 1. aguas negras  
+ʼbodga:ʼbodga   # lagartija negra  
+ʼbodintsʼu̱:ʼbodintsʼu̱   #  
+ʼbodo:ʼbodo   # piedra negra pedregal  
+ʼbofri:ʼbofri   # caballo prieto tierra negra  
+ʼbohmi:ʼbohmi   # lugar de palmas  
+ʼboho:ʼboho   # 1. pezuña 1. excusado  
+ʼbojäʼi:ʼbojäʼi   # persona de raza negra ¶ 
+ʼboju̱:ʼboju̱   # frijol negro  
+ʼbokjä:ʼbokjä   # tuna prieta  
+ʼbokʼu̱the:ʼbokʼu̱the   # tos ferina negra ¶ 
+ʼbokʼyä:ʼbokʼyä   # víbora prieta o negra ¶ 
+ʼbomu:ʼbomu   # arena zapote negro, ¶zapote prieto  
+ʼbomʼi:ʼbomʼi   # chile pasilla trasplantación de chiles ¶ 
+ʼbonda:ʼbonda   # bonda (nopal¶grande, tapón liso  
+ʼbondäpo:ʼbondäpo   # hierbazal (tupido 
+ʼbondri:ʼbondri   # cuerno prieto  
+ʼbonʼue:ʼbonʼue   # 1. mosquito negro ¶2. mosco (una clase de mosco negro y chico ¶que chupa la sangre 
+ʼbosefi:ʼbosefi   # abejita prieta  
+ʼbospi:ʼbospi   # s ceniza  
+ʼbosta:ʼbosta   # 1. persona o animal con ¶ojos negros  
+ʼbotʼañʼi:ʼbotʼañʼi   # siembra de chiles ¶ 
+ʼBotʼähi:ʼBotʼähi   #  
+ʼbotʼähi:ʼbotʼähi   # mezquital  
+ʼbotʼi:ʼbotʼi   # siembra  
+ʼbotʼo̱ho̱:ʼbotʼo̱ho̱   # cerro prieto  
+ʼbothe:ʼbothe   # 1. aguas negras  
+ʼbothfe:ʼbothfe   # sangre de drago, sangre 
+ʼbothi:ʼbothi   # hilo negro  
+ʼbotsatʼañʼi:ʼbotsatʼañʼi   # cardenal negro ¶ 
+ʼbotse̱:ʼbotse̱   # helada negra  
+ʼbotsʼintsʼu̱:ʼbotsʼintsʼu̱   # clarinero, ¶zanate, quiscal  
+ʼbotsʼni:ʼbotsʼni   # aguacatal  
+ʼboʼuada:ʼboʼuada   # magueyal ¶ 
+ʼboxätʼä:ʼboxätʼä   # nopalera  
+ʼboxiza:ʼboxiza   # encino negro hormiga prieta  
+ʼboʼyu̱ga:ʼboʼyu̱ga   # pescuezo negro  
+ʼboza:ʼboza   # 1. bosque  
+ʼbozakthuhni:ʼbozakthuhni   # 1. bosque ¶de pirul o arbolado de pirul  
+ʼbo̱e:ʼbo̱e   # trampa para cazar pájaros ¶ 
+ʼbo̱hñä:ʼbo̱hñä   # 1. ofrenda  
+ʼbo̱ngui:ʼbo̱ngui   # neblina  
+ʼbo̱nthi:ʼbo̱nthi   # red para cazar conejo ¶ 
+ʼbo̱nza:ʼbo̱nza   # 1. bandeja  
+ʼbo̱stʼe:ʼbo̱stʼe   # trampa de red  
+ʼbo̱tmänta:ʼbo̱tmänta   # manta ¶remendada  
+ʼbo̱tsʼe:ʼbo̱tsʼe   # 1. canasta  
+ʼbu̱hu̱:ʼbu̱hu̱   # barra, barreta  
+chachalaka:chachalaka   # chachalaca 
+chaketa:chaketa   # 1. chamarra, saco ¶2.  
+chala:chala   # chismoso, mentiroso chalán (reg.: ayudante del ¶albañil 
+chankaka:chankaka   # piloncillo  
+chante:chante   # marchante ¿ 
+chäʼchä:chäʼchä   # codorniz  
+chikiuite:chikiuite   # chiquihuite  
+chimänxa:chimänxa   # gusano de elote ¶ 
+chinkua:chinkua   # chincual  
+chito:chito   # chito (reg.: carne salada seca ¶de chivo y de carnero 
+chofe:chofe   # 1. chofer  
+chogiyo:chogiyo   # chonguío (ave 
+chu̱ki:chu̱ki   # cría (de varios animales ¶domésticos 
+dada:dada   # 1. papá (padre de una familiaseñor ― 
+daga:daga   # daga, puñal de dos filos  
+dahuä:dahuä   # ojo de pescado (punto ¶blanco en los pies o las manos que es sensible al ¶apretarlo 
+dai:dai   # comprador  
+dakate:dakate   # bandido, asaltante ¶ 
+dakatʼäxi:dakatʼäxi   # pastor (de ganado ¶caprino 
+damngo̱:damngo̱   # 1. comprador de ¶ganado  
+dangade̱thä:dangade̱thä   # 1. comprador ¶de maíz  
+dangahai:dangahai   # comprador de ¶terrenos  
+dangahme:dangahme   # 1. comprador de ¶tortillas  
+dangaʼronjua:dangaʼronjua   # comprador ¶de ayates  
+dangasei:dangasei   # comprador de ¶pulque  
+dangaʼuada:dangaʼuada   # comprador de ¶magueyes  
+dangaxefo:dangaxefo   # 1. comprador de ¶tripas  
+dañʼyo:dañʼyo   # comerciante de ganado ¶menor  
+daʼthi:daʼthi   # enfermo 1. estar enfermo  
+dä:dä   # madurez  
+däbehe:däbehe   # 1. cuaresma  
+däbri:däbri   # olvidadizo  
+däʼbe̱tri:däʼbe̱tri   # mayordomo principal ¶ 
+däʼbi:däʼbi   # excremento  
+dädämfo̱:dädämfo̱   # alto mandatario, ¶gran mandatario  
+dädiʼmaxi:dädiʼmaxi   # jitomate  
+däfri:däfri   # caballo grande jefe de ¶policía, comandante  
+dähmi:dähmi   # 1. cazuela grande  
+dähmyä:dähmyä   # s persona rigurosa, ¶regañón  
+dähni:dähni   # 1. ciudad  
+dähñe:dähñe   # 1. arroyo grande  
+dähuä:dähuä   # pez grande  
+däjua:däjua   # 1. liebre  
+däjuai:däjuai   # 1. espada, puñal grande ¶ 
+däju̱:däju̱   # haba  
+däkade̱thä:däkade̱thä   # desgranadora 
+däkanthähi:däkanthähi   # mecate grueso ¶ 
+däkänoya:däkänoya   # 1. palabras ¶ásperas  
+däkri:däkri   # quelite grande  
+däkʼei:däkʼei   # anciano  
+däme:däme   # 1. esposo, marido 1. señor de importancia ¶1. estómago grande, ¶dämu̱i (dämu̱ ¶barriga grande  
+dämxi:dämxi   # gato grande  
+däʼmda:däʼmda   # jarro grande  
+dämʼo̱ni:dämʼo̱ni   # güila (reg.¶ 
+däʼmu̱i:däʼmu̱i   # 1. familia numerosa ¶2. enjambres grandes (de abejas o avispashormiguero grande ¶ ¶38 ¶ 
+dändä:dändä   # rey, jefe superior máquina 
+dängo:dängo   # fiesta pomposa, fiesta ¶grande  
+dängu:dängu   # rata (más grande que el ¶ratón 
+dänjua:dänjua   # ayate, manta de ixtle ¶ 
+dänthi:dänthi   # reata  
+dänxu:dänxu   # mujer madura, señorita de ¶edad  
+dänxui:dänxui   #  
+dänzya:dänzya   # juez auxiliar propietario ¶ 
+däʼnzä:däʼnzä   # luna llena  
+däñʼoi:däñʼoi   # 1. ratón grande  
+däʼñu:däʼñu   # 1. carretera  
+däpa:däpa   # fiebre  
+däposdehe:däposdehe   # 1. manantial ¶antiguo  
+däskähä:däskähä   # pájaro huitlacoche ¶ 
+dätʼu̱:dätʼu̱   # hijo grande (estatura 
+däthe:däthe   # río  
+däthuhu:däthuhu   # 1. mucha hambre  
+dätso̱:dätso̱   # 1. estrella grande  
+dätsu:dätsu   # vieja, anciana  
+däxfo:däxfo   # intestino grande  
+däxi:däxi   # s jilote  
+däxpe:däxpe   # biznaga  
+däxʼronjua:däxʼronjua   # ayate grueso  
+däxʼyo:däxʼyo   # cobija  
+däʼye:däʼye   # aguacero  
+däʼyofani:däʼyofani   # aguja de arria  
+däza:däza   # árbol grande plátano (planta y fruta 
+däzatsʼintsʼu̱:däzatsʼintsʼu̱   #  
+däzu̱:däzu̱   # tlacuache  
+däʼchi:däʼchi   # 1. chiva grande ¶2. cabra grande  
+däʼe̱nxe̱:däʼe̱nxe̱   # ángel superior, ¶arcángel  
+däʼthä:däʼthä   # muerte (lit.: sueño largo 
+de:de   # 1. frente de de la fuerza escondidas ¶voluntad  
+debi:debi   # vientre (del ombligo para ¶abajo 
+dehe:dehe   # 1. agua  
+deheʼba:deheʼba   # 1. leche delgada  
+deheju̱ni:deheju̱ni   # 1. agua de masa  
+dehemänxa:dehemänxa   # 1. elote muy ¶tierno  
+demu:demu   # chilacayote (calabaza medio ¶pinta y de semilla negra 
+denäte:denäte   # burlón  
+dengazafri:dengazafri   # acarreador de ¶zacate  
+denhuada:denhuada   # 1. medio cuartillo 
+denthe:denthe   # acarreador de agua  
+desthi:desthi   # 1. carrizo tierno  
+detsʼni:detsʼni   # aguacate tierno  
+dexʼba:dexʼba   # leche aguada ¶ 
+dexju̱:dexju̱   # caldo de frijol  
+deza:deza   # 1. madera tierna  
+deʼta:deʼta   # maguey tierno  
+de̱:de̱   # 1. el que lleva algo  
+de̱jä:de̱jä   # higuerilla  
+de̱ju̱:de̱ju̱   # chocolate  
+de̱mpe:de̱mpe   #  
+de̱mpemexe:de̱mpemexe   # capulina, ¶viuda negra 1. nogal  
+de̱ʼmi:de̱ʼmi   # ordeñador  
+de̱ʼmxi:de̱ʼmxi   # 1. jitomate  
+de̱nda:de̱nda   # tienda  
+de̱ni:de̱ni   # luciérnaga  
+de̱nimexe:de̱nimexe   # capulina, viuda ¶negra (una araña negra y roja 
+de̱nthi:de̱nthi   # palma (usada para hacer ¶petates, sombreros, etc. 
+de̱nxi:de̱nxi   # cebolla  
+de̱nxiburru:de̱nxiburru   # cebolla ¶silvestre, cebolla de burro  
+de̱nxifani:de̱nxifani   # cebolla silvestre, ¶cebolla de caballo  
+de̱se̱:de̱se̱   # 1. capulín, capulincillo  
+de̱se̱ʼñoi:de̱se̱ʼñoi   # 1. capulín, capulín de ¶ratón  
+de̱spi:de̱spi   # brasa, ascua vi estar hecho brasa, estar ¶encendido  
+de̱ti:de̱ti   # 1. borrega  
+de̱tʼaʼronjua:de̱tʼaʼronjua   # 1.  
+de̱tʼi:de̱tʼi   # seguidor  
+de̱thä:de̱thä   # 1. maíz  
+de̱xfri:de̱xfri   # curtidor de piel  
+de̱xi:de̱xi   # tallador (que extrae la fibra 
+diʼtathiza:diʼtathiza   #  
+diʼtaze̱sthi:diʼtaze̱sthi   # 1.  
+do:do   # piedra  
+doda:doda   # ciego  
+dofo:dofo   # 1. bajo, chaparro  
+dofri:dofri   # caballo chaparro  
+doganthui:doganthui   # 1. piedra para ¶amolar, piedra para afilar  
+dogu:dogu   # s  
+dohai:dohai   # 1. adobe 1. tierra pobre, tierra sin ¶fuerza ¶2. tierra deslavada 
+dojua:dojua   # conejo chico  
+dokmänxa:dokmänxa   # cortador de elote ¶ 
+dokto:dokto   # médico, doctor  
+dokue̱:dokue̱   # 1. invertido, afeminado ¶ 
+dokʼu:dokʼu   # huanzontle (reg.(quelite con espiga comestible 
+domhi:domhi   # 1. tepalcate, tiesto  
+domi:domi   # 1. real (que equivale a doce ¶centavoss dos reales ¶hñudmi s tres reales ¶ngu̱dmi, goho domi cuatro reales 
+domingeho:domingeho   # espantajo, ¶dominguejo paloma ¶cocolera de alas blancas  
+donäni:donäni   # 1. cal inservible  
+dondri:dondri   # tronchado del cuerno ¶ 
+done:done   # boca rota 
+donefani:donefani   # hormiga parda ¶( 
+dongu:dongu   # casa antigua ¶(semidestruida o totalmente destruida 
+doni:doni   # s muchas vueltas  
+donijä:donijä   # 1. templo antiguo, ¶templo abandonado  
+doʼni:doʼni   # huevo (de gallina 
+doñäjuai:doñäjuai   # 1. cuchillo mocho ¶ 
+dopri:dopri   # tejocote  
+dopyä:dopyä   # pinacate  
+doro:doro   # 1. toro (macho de la vaca 
+dorojoʼño:dorojoʼño   # tortolita, torito, 
+dospoho:dospoho   # sin calzón  
+dosthetʼi:dosthetʼi   # piedra de malacate ¶ 
+dotʼua:dotʼua   # corva (al reverso de la ¶rodilla 
+doua:doua   # cojo  
+doxʼba:doxʼba   # pezón chico  
+doxfani:doxfani   # 1. planta no ¶desarrollada  
+doxmo:doxmo   # 1. calvo  
+doxʼu:doxʼu   # sal granulada, terrón de ¶sal  
+doxʼyo:doxʼyo   # 1. tronco de zacate  
+doʼye̱:doʼye̱   # s manco  
+doʼyo:doʼyo   # comal  
+dozgu̱:dozgu̱   # soldado s rabón  
+doʼjä:doʼjä   # 1. nopal de tuna blanca ¶( 
+doʼtfi:doʼtfi   # azúcar, azúcar en terrón ¶ 
+do̱bga:do̱bga   # coralillo (víbora 
+do̱mhi:do̱mhi   # flor de palma  
+do̱mndo:do̱mndo   #  
+do̱mxu:do̱mxu   # flor de calabaza  
+do̱mxukʼeñä:do̱mxukʼeñä   # culebra ¶casera  
+do̱ʼmähuähi:do̱ʼmähuähi   # milpero  
+do̱ni:do̱ni   # 1. flor florecer  
+do̱nibaxjua:do̱nibaxjua   # flor de ¶nochebuena  
+do̱niʼbastʼä:do̱niʼbastʼä   # flor de ¶garambullo  
+do̱nihyadi:do̱nihyadi   # flor de sol  
+do̱nijuʼta:do̱nijuʼta   # flor de zábila, ¶gualumbo de zábila  
+do̱nikämʼyo:do̱nikämʼyo   # flor de cardón 
+do̱nilimu:do̱nilimu   # flor de limón  
+do̱nixäʼta:do̱nixäʼta   # flor de zábila  
+do̱niʼe̱nxe̱:do̱niʼe̱nxe̱   # flor de angelito 
+do̱nthä:do̱nthä   # hongo de maíz  
+do̱nxi:do̱nxi   # cresa (larva de mosca verde 
+du:du   # muerte  
+duhu:duhu   # 1. cantante  
+dukade̱thä:dukade̱thä   # comprador de ¶maíz  
+dukaʼronjua:dukaʼronjua   # acaparador de ¶ayates  
+duki:duki   # rescatador  
+dukmädo:dukmädo   # comprador de ¶huevos (por mayoreo 
+dumänthuhu:dumänthuhu   # 1. muerto ¶de hambre, persona con mucha hambre ¶ 
+dumu̱i:dumu̱i   # 1. tristeza  
+dumʼi:dumʼi   # rescatador de chiles ¶ 
+dutu:dutu   # 1. ropa, indumentaria  
+dui:dui   # afilador  
+duʼti:duʼti   # s ahorrador  
+du̱gu:du̱gu   # soldado  
+du̱ki:du̱ki   # cortador (de fruta, flores, café 
+du̱ngu:du̱ngu   # lóbulo de la oreja  
+du̱ngua:du̱ngua   # 1. talón, calcañal  
+du̱tʼaxinthe:du̱tʼaxinthe   # ingle  
+du̱xʼyu̱ga:du̱xʼyu̱ga   # angina (enfermedad ¶de la garganta 
+du̱zu̱:du̱zu̱   # s rabón, rabo cortado  
+du̱ʼthi:du̱ʼthi   # cortador de mezquite  
+eda:eda   # anciano  
+efe:efe   # efés (reg.(una planta que ¶hay en el monte que produce vainas y la pepita ¶es comestible 
+ehe:ehe   # venida, llegada 1. venir  
+enero:enero   # enero  
+eʼyo:eʼyo   # limpiatuna (planta 
+eʼsfoho:eʼsfoho   # cangrejo, escarabajo ¶pelotero  
+eʼtsi:eʼtsi   # hormiga arriera 1. comprometer (reg.¶pelear  
+e̱ni:e̱ni   # 1. fracción, lote, pedazo ¶e̱ni (e̱ni1. echar afuera, desalojar  
+e̱nxe̱:e̱nxe̱   # 1. angelito, niño muerto ¶2. persona de cualquier edad que no ha ¶tenido relaciones sexuales y que fallece ¶ 
+fabo:fabo   # favor  
+facha:facha   # persona presumida  
+fagi:fagi   # 1. diarrea  
+falto:falto   # 1. persona loca, persona ¶demente  
+fanizithu:fanizithu   # 1. libélula  
+fantho̱:fantho̱   # venado  
+faspi:faspi   # 1. llamarada, llama 1. hacer llamarada  
+fatmädo:fatmädo   # huevo sancochado ¶ 
+fädi:fädi   # conocimiento  
+fähä:fähä   # olfato, olfacción  
+fe:fe   # s lo que es robado  
+feni:feni   # memoria, recuerdo (reg. 
+feʼñu:feʼñu   # camino derecho en terrreno ¶parejo  
+festʼähme:festʼähme   # tortilla tostada  
+fete:fete   # traición  
+fetʼandoʼyo:fetʼandoʼyo   # 1. cartílago  
+fetʼyo:fetʼyo   # cartílago  
+fethme:fethme   # tortilla dorada, tortilla ¶tostada  
+fe̱i:fe̱i   # s era ¶2. vt varear (para tumbar el grano 
+fe̱ni:fe̱ni   # 1. cuelga (reg., objeto que se ¶cuelga en el cuello o en el pescuezo 
+fixi:fixi   # pedo  
+foho:foho   # excremento  
+fonguñʼi:fonguñʼi   # chile piquín  
+fonthi:fonthi   # 1. polvo (del ixtle 
+foʼnthai:foʼnthai   # 1. polvo  
+fotʼye̱:fotʼye̱   # puño, medida de una ¶cuarta parte de un cuartillo ― 
+foxi:foxi   # 1. desperdicio (del ixtle de ¶maguey o de lechuguilla que se desprende al ¶cardar 
+foxyo:foxyo   # candelero  
+fo̱ʼtango̱:fo̱ʼtango̱   # pantorrilla  
+fo̱ʼte:fo̱ʼte   # cerca rústica (de pencas de ¶maguey o palma que sostiene el techo de la ¶casa 
+fu̱gi:fu̱gi   # s espuma  
+fu̱i:fu̱i   # s sombrero  
+fu̱ʼto:fu̱ʼto   # ortiga  
+gabida:gabida   # 1. capataz, sobrestante ¶ 
+gala:gala   # adorno  
+gamfri:gamfri   # creyente, persona ¶crédula  
+gaʼnthä:gaʼnthä   # persona que ronca roncar  
+gas:gas   # 1. gas  
+gatsʼi:gatsʼi   # rodeo, vuelta rondar, rodear, dar vuelta ¶ 
+gäde:gäde   # cresta de ave  
+gädo:gädo   # albañil, constructor  
+gähä:gähä   # 1. zurdo  
+gäni:gäni   # jicote  
+gäntʼmini:gäntʼmini   # tipo de maguey 
+gäntsoki:gäntsoki   # 1. portero ¶2. ama de llaves  
+gästa:gästa   # ceja  
+gätu̱:gätu̱   # colibrí, chuparrosa, ¶chupamirto  
+gätʼi:gätʼi   # pintor  
+gäxade̱ʼmxi:gäxade̱ʼmxi   # 1. trasplantador ¶de jitomate  
+gäxäntʼoxi:gäxäntʼoxi   # última cena  
+gäxmhai:gäxmhai   # fin del mundo  
+gäxyä:gäxyä   # 1. persona de pelo tupido ¶ 
+gehe:gehe   # bilis, hiel  
+gerra:gerra   # 1. revolución cerca  
+ge̱xo:ge̱xo   # queso  
+gida:gida   # lágrima  
+giʼmfi:giʼmfi   # 1. agua de humo (el agua ¶que se mezcla con el tizne del techo de la ¶cocina 
+gine:gine   # sobra, desperdicio (que queda ¶después de comer 
+gini:gini   # nejayote (agua del nixtamal 
+ginkʼri:ginkʼri   # quelite picoso  
+gintsʼyo:gintsʼyo   # chicharra  
+ginʼue:ginʼue   # mosca  
+giñʼafi:giñʼafi   # agua amarillenta ¶(estancada dentro de los magueyes raspados 
+gisei:gisei   # sanguijuela  
+gistʼä:gistʼä   # baba de nopal  
+gitarra:gitarra   # guitarra ¶ 
+githe:githe   # caldo (todo guisado de carne ¶en olla 
+gixi:gixi   # guixi (jugo del maguey 
+gixju̱:gixju̱   # caldo de frijoles  
+gixʼye̱:gixʼye̱   # mugre de la mano ¶(desprendida por líquido 
+gobernado:gobernado   # gobernador  
+gobyernu:gobyernu   # 1. gobernador del ¶estado  
+goda:goda   # ciego  
+gode̱mza:gode̱mza   # recolector de nuez ¶ 
+godo:godo   # hormigón, granzón, grava ¶ 
+gogu:gogu   # s sordo  
+gone:gone   # s mudo  
+gonhai:gonhai   # terrón, terremote  
+gorrero:gorrero   # gorrón  
+gospi:gospi   # fogón  
+gosthi:gosthi   # 1. puerta (hecha de algún ¶material 
+gosthingu:gosthingu   # puerta (de la casa 
+gotʼua:gotʼua   # pantorrilla  
+goʼthi:goʼthi   # recolector de vainas de ¶mezquite  
+go̱ne:go̱ne   # paladar  
+go̱ngaʼronjua:go̱ngaʼronjua   # persona que ¶siempre se cubre la cabeza con un ayate ¶ 
+granu:granu   # grano (de maíz, frijol 
+griyo:griyo   # grillo  
+gruesa:gruesa   # gruesa (equivale a doce ¶docenas, p. ej.: mecate, ayate, mecapal 
+gu:gu   # 1. oreja  
+gui:gui   # nube  
+guilo:guilo   # paloma  
+gunde:gunde   # mecapal con lazo (para ¶cargar cualquier bulto 
+gutʼabarato:gutʼabarato   # uno que paga ¶barato  
+gutʼe̱gi:gutʼe̱gi   # 1. ojo de hacha  
+gutʼi:gutʼi   # pagador  
+gu̱hnäte:gu̱hnäte   # guiador, guía ¶1. ampliar  
+gu̱ntsʼähni:gu̱ntsʼähni   # policía  
+gu̱tsʼi:gu̱tsʼi   # colector autorizado  
+hahala:hahala   # dinero (nombre dado al ¶dinero por el alma del que ha regresado de la ¶tumba 
+haho:haho   # zorra  
+hai:hai   # 1. terreno  
+hamhme:hamhme   # migajas de tortilla ¶ 
+haʼmni:haʼmni   # 1. espinas chicas (de ¶tuna o nopal 
+handu:handu   # 1. camposanto, panteón ¶ 
+hangango̱:hangango̱   # 1. migaja de carne ¶ 
+hangathehñä:hangathehñä   # polvo de ¶carbón  
+hangi:hangi   # polvo, migaja  
+hanxiza:hanxiza   # hojarasca, hoja seca ¶de árboles  
+hanza:hanza   # 1. aserrín, polvo de ¶madera  
+hanʼye:hanʼye   # llovizna, lluvia menuda, ¶matapolvo  
+haria:haria   # jarilla  
+haxatso̱:haxatso̱   # lucero matutino, ¶ 
+haxhme:haxhme   # tortilla de ayer mañana  
+hege:hege   # huidor 1. cuartearse, hendirse  
+heme:heme   # jeme  
+hengäʼba:hengäʼba   # distribuidor de ¶leche  
+hengähai:hengähai   # repartidor de ¶tierras  
+henthe:henthe   # repartidor de agua  
+Hesu:Hesu   #  
+hetʼadehe:hetʼadehe   # alcohol, ¶aguardiente  
+Hethe:Hethe   #  
+hethe:hethe   # profundidad de las aguas, ¶agua profunda  
+heʼtäbinu:heʼtäbinu   # aguardiente fuerte ¶ 
+heʼtäbo:heʼtäbo   # quiote picoso humo ¶picoso ¶medicamento de olor fuerte ¶alcohol fuerte aguamiel ¶picoso  
+he̱the:he̱the   # agua xoquiaque (reg.¶picosa  
+higante:higante   # gigante (árbol 
+hmafi:hmafi   # 1. grito, aullido  
+hmahni:hmahni   # discusión  
+hmaxni:hmaxni   # gritería, vocería  
+hmaʼti:hmaʼti   # 1. amonestación  
+hmädi:hmädi   # persona o cosa estimada ¶ 
+hmäkatʼu̱:hmäkatʼu̱   # hijo amado  
+hmämbate:hmämbate   # acusación, ¶denuncia  
+hmämhai:hmämhai   # temblor de tierra, ¶terremoto  
+hmända:hmända   # 1. ley, autoridad, ¶mando ¶2. mandamiento ¶hmända [¶ 
+hmängdo:hmängdo   # huevo tibio  
+hmäte:hmäte   # 1. amor  
+hmemxa:hmemxa   # gorditas de elotes con ¶piloncillo  
+hmetho:hmetho   # paz  
+hmeua:hmeua   # planta del pie  
+hmeya:hmeya   # s señal, marca (que se le ¶pone al ganado en alguna de las orejascara  
+hmibojä:hmibojä   # s acción de pedir ¶dinero prestado  
+hmihi:hmihi   # cosa prestada agarradera, mango  
+hmikate:hmikate   # prestamista, persona ¶que presta  
+hminzu̱:hminzu̱   # s nodriza, ama ¶ 
+hmiptsʼe̱di:hmiptsʼe̱di   # s compensación ¶(de trabajo por trabajo 
+hmipʼye̱:hmipʼye̱   # apretón de mano ¶ 
+hmitʼi:hmitʼi   # apretón  
+hmu:hmu   # patrón 1. montón ¶de piedras  
+hmungo̱:hmungo̱   # pantorrilla  
+hmuni:hmuni   # tablilla, pliegue  
+hmuntsjäʼi:hmuntsjäʼi   # grupo de ¶personas  
+hmuntsʼi:hmuntsʼi   # 1. recolección  
+hmuʼnxu:hmuʼnxu   # patrona  
+hmuthä:hmuthä   # semilla de maíz  
+hnahni:hnahni   # acción de calentarse ¶(ante una fogata 
+hnani:hnani   # acción de ir a aventurar ¶travesaño  
+hnämäñʼu̱:hnämäñʼu̱   # crítica  
+hnäthä:hnäthä   # 1. empacho, ¶indigestión  
+hnäʼyo:hnäʼyo   # perro pardo  
+hnäza:hnäza   # tepozán (árbol 
+hnehi:hnehi   # rifa  
+hnei:hnei   # baile, bailable  
+hneʼmi:hneʼmi   # 1. estribos  
+hneni:hneni   # hinchazón  
+hneʼñu:hneʼñu   # viaje, tránsito por ¶caminos  
+hnestarihi:hnestarihi   # 1. carrera  
+hnetʼi:hnetʼi   # 1. golpiza con los pies, ¶tunda a puntapiés  
+hneua:hneua   # rastreo, búsqueda de la ¶huella  
+hnini:hnini   # 1. pueblo, ciudad  
+hniñä:hniñä   # satisfacción por alimento ¶ 
+hnipämfeni:hnipämfeni   # 1. orientación ¶ 
+hnogo:hnogo   # locura, rabia  
+hnoho:hnoho   # 1. gordura  
+hno̱ge:hno̱ge   # 1. almuerzo que ¶corresponde al mediodía  
+hno̱ni:hno̱ni   # crítica, difamación  
+hno̱nte:hno̱nte   # 1. crítica  
+hno̱tʼe:hno̱tʼe   # desobediencia medeo (reg.; la ¶raspa del maguey al mediodía 
+hno̱ʼtse:hno̱ʼtse   # s atracadero, represa ¶ 
+hnumänsu:hnumänsu   # higiene, ¶limpieza  
+hnumäñʼu̱:hnumäñʼu̱   # desprecio a ¶alguien  
+hnupämfeni:hnupämfeni   # animación ¶ 
+hñadi:hñadi   # tizne, hollín  
+hñaha:hñaha   # exhalación, jadeo  
+hñaki:hñaki   # s mugre  
+hñandi:hñandi   # s esposo, esposa v rec trabajar a medias ¶(tierra, animales, madera, etc. 
+hñane:hñane   # bostezo  
+hñantʼyo:hñantʼyo   # tizne de comal  
+hñaʼnga:hñaʼnga   # ronquera, ronquedad ¶ 
+hñastai:hñastai   # el amanecer de un día 
+hñaʼtsi:hñaʼtsi   # s color pálido  
+hñä:hñä   # agujero 1. respiración  
+hñädo:hñädo   # 1. cueva  
+hñäfi:hñäfi   # 1. desperdicio, sobra  
+hñähni:hñähni   # 1. averiguación ¶2. vocerío  
+hñähñu:hñähñu   # lengua de los otomíes, ¶otomí  
+hñäihmu:hñäihmu   # otomí (el idioma ¶indígena del  
+hñäjuai:hñäjuai   # persona que porta ¶cuchillo  
+hñäkmanza:hñäkmanza   # persona que ¶recoge platos de la mesa  
+hñämäñʼu̱:hñämäñʼu̱   # s deseo de ¶hacerle mal a alguien (por odio o envidia 
+hñänoya:hñänoya   # intrigante  
+hñänsoki:hñänsoki   # 1. persona ¶encargada de las llaves  
+hñätʼäjuä:hñätʼäjuä   # 1. milagro  
+hñätʼo:hñätʼo   # 1. varista (reg.¶del juez auxiliar  
+hñäthe:hñäthe   # persona que acarrea ¶agua, aguador  
+hñätsʼu̱thuí:hñätsʼu̱thuí   # 1. gobierno (el ¶que manda 
+hñäxmänxa:hñäxmänxa   # asador de ¶elote  
+hñe:hñe   # 1. barranca profundo, hondo espejo s vestida (reg.vestir ¶ 
+hñeda:hñeda   # anteojos, lentes  
+hñehe:hñehe   # tos  
+hñenʼo̱ni:hñenʼo̱ni   # 1. gallina enferma ¶ 
+hñestä:hñestä   # persona de cabello ¶tupido  
+hñetitho:hñetitho   # s ser difícil, ser ¶peligroso  
+hñetʼi:hñetʼi   # hilandero, hilador  
+hñe̱nthe:hñe̱nthe   # persona que surca, ¶surcador  
+hñe̱ua:hñe̱ua   # pie desigual  
+hñiñä:hñiñä   # la satisfacción, saciedad, ¶hartadura (por comer 
+hño:hño   # 1. bien, beneficio  
+hñogajäʼi:hñogajäʼi   # s bondad  
+hñogaʼmu̱i:hñogaʼmu̱i   # vida feliz, vida ¶tranquila  
+hñogañʼo̱de:hñogañʼo̱de   # s obediencia ¶ 
+hñojäʼi:hñojäʼi   # s buena gente  
+hñoya:hñoya   # s escasez, pobreza  
+hño̱mi:hño̱mi   # 1. bajada, descenso ¶ 
+hñudmi:hñudmi   # tres reales (que equivale ¶a treinta y siete centavos y medio 
+hñumngo̱:hñumngo̱   # barbacoyero  
+hñumu̱i:hñumu̱i   # consolación  
+hñumxui:hñumxui   # tercera noche  
+hñuʼmäthuhu:hñuʼmäthuhu   # persona ¶que pone apodos se ¶ponen apodos  
+hñuni:hñuni   # 1. alimento  
+hñupa:hñupa   # tercer día  
+hñui:hñui   # tenamaxtle, tenamaste (tres ¶piedras del fogón 
+hñuʼki:hñuʼki   # 1. tres veces  
+hñuʼsfu̱i:hñuʼsfu̱i   # persona que ¶acostumbra ponerse sombrero adj pesado  
+hñu̱ntʼi:hñu̱ntʼi   # golpiza con los puños ¶ 
+hñu̱ti:hñu̱ti   # cintura  
+hñu̱xmu̱i:hñu̱xmu̱i   # rugido del ¶estómago  
+hñu̱ʼthä:hñu̱ʼthä   # sueño pesado ¡1. gustar (a alguien¶ 
+hohuä:hohuä   # 1. pescado bueno  
+hokjä:hokjä   # tuna fina  
+hoksei:hoksei   # pulque bueno, pulque ¶fino  
+hoktʼäxi:hoktʼäxi   # cabra fina  
+hokxätʼä:hokxätʼä   # 1. nopal fino ¶2. nopal bien desarrollado  
+hosko:hosko   # 1. josco (reg. 
+ho̱hnähñu̱ʼti:ho̱hnähñu̱ʼti   # cintura ¶gruesa  
+ho̱ku:ho̱ku   # hermanastro, medio ¶hermano  
+ho̱me:ho̱me   # madrastra  
+ho̱mʼi:ho̱mʼi   # 1. picante caído  
+ho̱nju:ho̱nju   # hermanastra, medio ¶hermana  
+ho̱ptʼe̱i:ho̱ptʼe̱i   # bazofia, alimento ¶almacenado en la panza del animal  
+ho̱sfani:ho̱sfani   # polvo de zacate de ¶maíz  
+ho̱ta:ho̱ta   # padrastro  
+ho̱tʼo:ho̱tʼo   # piojoso  
+ho̱tʼu̱:ho̱tʼu̱   # entenado, hijastro  
+ho̱xyä:ho̱xyä   # s persona melenuda  
+ho̱ʼxu:ho̱ʼxu   # entenada, hijastra, alnada ¶ 
+hu:hu   # horno hornear nombre  
+hua:hua   # ala  
+huada:huada   # cuartillo (medida 
+huaxi:huaxi   # s guaje vi se hace tonto  
+huä:huä   # pez  
+huähi:huähi   # milpa  
+huäkñä:huäkñä   # 1. animal que sacude la ¶cabeza  
+hudi:hudi   # 1. asiento, silla 1. sentarse 1. asentaderas  
+huekate:huekate   # persona que da ¶lástima (al verlapobre, ¶desdichado  
+huengadehe:huengadehe   # arrebato 
+huengahai:huengahai   # arrebato de ¶tierra, pleito por tierras  
+huenganzaya:huenganzaya   # discusión ¶sobre candidatos para juez auxiliar  
+hue̱i:hue̱i   # s rayo  
+huhme:huhme   # horno de pan hornear pan  
+hui:hui   # 1. nido poner huevo paloma chicalotera 
+huindähi:huindähi   # 1. lugar donde sopla ¶el aire  
+huinʼye̱:huinʼye̱   # persona gastadora (que ¶gasta su dinero sin provecho 
+huitʼua:huitʼua   # 1. calzón  
+huixni:huixni   # escozor  
+hujua:hujua   # horno de conejo hornear conejo  
+hulio:hulio   # julio  
+humngo̱:humngo̱   # horno de barbacoa ¶hornear carne  
+humu̱i:humu̱i   # 1. consolación 1. consolar orientar  
+huʼmthuhu:huʼmthuhu   # el que pone ¶sobrenombre o apodo horno de cal ¶ 
+hunio:hunio   # junio  
+hunta:hunta   # junta, asamblea, reunión ¶ 
+huʼni:huʼni   # horno de gallinas 1. nidal hornear gallina  
+huthamʼni:huthamʼni   # horno de ¶junquillo  
+huthuhme:huthuhme   # horno de pan  
+huxaxo̱ni:huxaxo̱ni   # descansadero para ¶cántaro  
+huxmäho:huxmäho   # persona de genio ¶voluble  
+hu̱bjä:hu̱bjä   # fierro pesado  
+hu̱do:hu̱do   # piedra pesada  
+hu̱fi:hu̱fi   # brazada abrazar  
+hu̱gi:hu̱gi   # aile (árbol 
+hu̱xʼye̱:hu̱xʼye̱   # jarilla de flor amarilla ¶ 
+hu̱za:hu̱za   # madera pesada  
+hu̱ʼthä:hu̱ʼthä   # persona que tiene sueño ¶pesado  
+hyadi:hyadi   # 1.  
+hyaki:hyaki   # mugre  
+hyandatʼäxi:hyandatʼäxi   # chivos a ¶medias  
+hyandi:hyandi   # cosa a medias (que se ¶reparte entre dos personas 
+hyanhuähi:hyanhuähi   # 1. milpas a ¶medias  
+hyasto:hyasto   # piedra pómez  
+hyate:hyate   # engañador, mentiroso ¶ 
+hyatmu̱i:hyatmu̱i   # hilamiento (reg.estomacal  
+hyatsʼi:hyatsʼi   # 1. luz diario  
+hyaxʼä:hyaxʼä   # el día siguiente  
+hyaʼtsi:hyaʼtsi   # claridad  
+hyekanthäti:hyekanthäti   # 1. adúltero, ¶adúltera  
+hyethe:hyethe   # quelite (toda clase de ¶verduras 
+hye̱kandäpo:hye̱kandäpo   # 1. segador de ¶alfalfa  
+hye̱kaza:hye̱kaza   # 1. cortador de árbol, ¶leñador  
+hye̱ne:hye̱ne   # persona con la boca ¶torcida  
+hye̱nthe:hye̱nthe   # persona que surca, ¶surcador  
+hye̱nza:hye̱nza   # cortador de madera, ¶trozador de árboles, leñador  
+hye̱tʼandäpo:hye̱tʼandäpo   # segador de ¶alfalfa o hierba  
+hyo:hyo   # costado  
+hyodi:hyodi   # lindero, límite  
+hyodu:hyodu   # asesino  
+hyogu:hyogu   # parte trasera de la oreja ¶ 
+hyohñe:hyohñe   # orilla de la barranca ¶ 
+hyokaʼñu:hyokaʼñu   #  
+hyokathuhme:hyokathuhme   # panadero ¶(que hace pan 
+hyokaze̱sthi:hyokaze̱sthi   # 1. fabricante ¶de zapatos  
+hyokximo:hyokximo   #  
+hyokʼbo̱tsʼe:hyokʼbo̱tsʼe   # canastero, ¶fabricante de canastas  
+hyomgo̱:hyomgo̱   # matancero (que se ¶dedica a matar animales 
+hyote:hyote   # asesino  
+hyoʼyo:hyoʼyo   # matancero del ganado ¶menor  
+hyo̱bo̱tʼo:hyo̱bo̱tʼo   # lendroso  
+hyo̱ndgu:hyo̱ndgu   # constructor de casas ¶lanzador de palabras ¶ofensivas  
+hyo̱thyä:hyo̱thyä   # persona regañona ¶ 
+hyo̱xgini:hyo̱xgini   # preparador del agua ¶para el nixtamal  
+hyo̱ʼa:hyo̱ʼa   # pulguiento (persona o ¶animal 
+hyu̱ja:hyu̱ja   # 1. nuca  
+hyu̱xʼye̱:hyu̱xʼye̱   # jarilla  
+hyu̱za:hyu̱za   # flautista  
+hyu̱ʼthä:hyu̱ʼthä   #  
+ibxi:ibxi   # birriondo (reg.(chivo o ¶borrego no castrado 
+ibzu̱:ibzu̱   # birriondo  
+idä:idä   # hermano (de mujer 
+igo:igo   # 1. higo (mata 
+iha:iha   # hija  
+ihme:ihme   # tortilla neja, tortilla pasada ¶de cal  
+iho:iho   # hijo  
+imu:imu   # calabaza chica  
+inäju̱ni:inäju̱ni   # masa neja  
+inäni:inäni   # nejo (pasado de cal 
+inäsuni:inäsuni   # nixtamal nejo (nixtamal ¶pasado de cal 
+indi:indi   # vez  
+ingadutu:ingadutu   # s tendedero ¶2. vt tender ropa  
+inthi:inthi   # 1. mecate de lechuguilla  
+ista:ista   # ojos azules  
+istʼasei:istʼasei   # pulque agrio  
+ita:ita   # abuela  
+itfixi:itfixi   # hormiga colmenera (hormiga ¶mielera amarilla y café, que entra en los ¶cajones de colmena o en los panales a comerse ¶la miel 
+itʼakʼani:itʼakʼani   # hediondilla, quelite ¶picoso  
+itʼasuni:itʼasuni   # nixtamal nejo (pasado ¶de cal 
+ithe:ithe   # 1. agua picosa  
+ithehñuni:ithehñuni   # mole de olla, ¶caldo rojo joven, hija (palabra cariñosa ¶a una mujer de menor edad por otra de ¶avanzada de edad¶122 ¶ 
+ixi:ixi   # durazno (planta y frutaagrura  
+ixiʼro̱spi:ixiʼro̱spi   # chocoyol (pron. reg. 
+ixjua:ixjua   # lengua de vaca (planta ¶comestible que tiene las hojas rizadas 
+ixju̱ni:ixju̱ni   # masa agria  
+ixkabayo:ixkabayo   # rebozo azul  
+ixkaku̱hu̱:ixkaku̱hu̱   # pintura azul  
+ixkaʼronkre:ixkaʼronkre   # gorrión azul 
+ixkähä:ixkähä   # soconostle (planta y ¶fruta 
+iʼyo:iʼyo   # birriondo (reg.(no ¶castrado 
+iʼki:iʼki   # vez  
+jadi:jadi   # 1. tercio  
+jamfri:jamfri   # 1. creencia  
+jatʼapahni:jatʼapahni   # camisa bordada ¶ 
+jatʼaʼronjua:jatʼaʼronjua   # ayate ¶bordado  
+jatʼaʼro̱zä:jatʼaʼro̱zä   # costal bordado ¶ 
+jatʼi:jatʼi   # s bordado limpiar  
+jädo:jädo   # 1. muro, pared  
+jähni:jähni   # mezquino (reg.¶ 
+jähñä:jähñä   # 1. alabanza  
+jämu:jämu   # calabaza de  
+jäne:jäne   # lengua  
+jäptehe:jäptehe   # 1. agua bendita  
+jätmädo:jätmädo   # huevos ahogados (una ¶clase de comida 
+jäxaxui:jäxaxui   # último velorio (antes de ¶llevar la cruz a la tumba 
+jäʼi:jäʼi   # gente, persona antigua, ¶gente antigua  
+jäʼtsi:jäʼtsi   # 1. jacal, enrramada, cabaña ¶1. terminar  
+je̱tsʼi:je̱tsʼi   # flema, gargajo  
+je̱ya:je̱ya   # 1. año sangre  
+jihni:jihni   # saliva  
+jijua:jijua   # sangre de conejo  
+jilgero:jilgero   # jilguero (ave 
+jinthfani:jinthfani   # sangre de res  
+jiptsʼu̱di:jiptsʼu̱di   # sangre de cerdo ¶ 
+jiʼyo:jiʼyo   # sangre de ganado menor  
+jodo:jodo   # 1. piedra pómez juntar piedras  
+jodri:jodri   # cempasúchil (planta y flor 
+jonkʼo:jonkʼo   # tórtola  
+joñʼo:joñʼo   # tórtola, torcacita, coquita ¶ 
+jothodo:jothodo   # piedra liviana  
+joxañʼi:joxañʼi   # tortilla enchilada  
+joza:joza   # madera fofa  
+joʼtu̱:joʼtu̱   # tórtola  
+joʼtsi:joʼtsi   # garlopa atizar  
+jo̱nxähi:jo̱nxähi   # ixtle (de maguey 
+jo̱ʼte:jo̱ʼte   # eructo  
+jua:jua   # conejo  
+juai:juai   # cuchillo  
+juaipada:juaipada   # obsidiana  
+juando:juando   # 1. piedra filosa  
+juaxhmi:juaxhmi   # salvia blanca (planta[ 
+juädä:juädä   # hermano mayor (de un ¶hombre 
+juänthe:juänthe   # surco derecho, surco ¶recto  
+juänza:juänza   # palo derecho  
+juäʼñu:juäʼñu   # camino recto y parejo  
+judo:judo   # barda de piedras sin mezcla ¶ 
+juhue̱:juhue̱   # hermana mayor (de una ¶mujer 
+juʼmfe:juʼmfe   # efés amargos  
+june:june   # sabor amargo en la boca  
+jusei:jusei   # pulque amargo  
+jutsdehe:jutsdehe   # agua amarga ¶ 
+jutsʼi:jutsʼi   # cerca (para cerrar algo 
+juxdo:juxdo   # cerca de piedra 
+juxʼmini:juxʼmini   # cerca de espinas ¶ 
+juxʼuada:juxʼuada   # cerca de maguey maguey amargo  
+juʼta:juʼta   # sábila  
+ju̱mbo̱jä:ju̱mbo̱jä   # cadena  
+ju̱mhai:ju̱mhai   # cacahuate 1. agarrar (cosa ¶ajena 
+ju̱ngado:ju̱ngado   # piedra triturada, ¶grava  
+ju̱ngango̱:ju̱ngango̱   # carne molida ¶ 
+ju̱ngasuni:ju̱ngasuni   # molino de ¶nixtamal  
+ju̱ngaʼu:ju̱ngaʼu   # sal molida  
+ju̱nthi:ju̱nthi   # pinole  
+ju̱stʼä:ju̱stʼä   # frijoles con nopales  
+ju̱the:ju̱the   # zanja  
+ka:ka   # cuervo  
+kaho:kaho   # 1. cajón ¶2. colmena, caja de colmenas 
+kakʼye̱:kakʼye̱   # s embozada (reg.puñado  
+kamposanto:kamposanto   # camposanto, ¶cementerio, panteón  
+kapoñʼi:kapoñʼi   # picadillo (salsa 
+kargo:kargo   # cargo, puesto (público o de ¶la comunidad 
+katade:katade   # nombre de una planta ¶ 
+kate:kate   # 1. atrayente, cautivador  
+kaxjo:kaxjo   # sobaco, axila  
+kayo:kayo   # tocayo  
+käde:käde   # cresta (de gallo, guajolote u ¶otra ave 
+kähai:kähai   # golondrina  
+kähä:kähä   # tuna (fruto del nopal o de ¶ciertos cactosde cabeza sumida ¶espinuda ¶de  
+kämiñʼyo:kämiñʼyo   # 1. cardón grande ¶ 
+kämñʼutsʼi:kämñʼutsʼi   #  
+kändehe:kändehe   # agua enfriada 
+käpta:käpta   # tuna zopilote (nopal que ¶produce tunas blancas de sabor ¶desagradable 
+käʼue̱:käʼue̱   # órgano (cacto 
+käxäntʼo̱ho̱:käxäntʼo̱ho̱   # tuna del cerro 
+kilo:kilo   # kilogramo, kilo  
+kilometro:kilometro   # kilómetro  
+klari:klari   # clarín (ave 
+klase:klase   # 1. clase (de escuela 
+ko:ko   # 1. piedra blanca y fofa cuñado conj y  
+kohi:kohi   # 1. acuerdo 1. quedar  
+kokodrilo:kokodrilo   # escorpión grande ¶(tipo de reptil 
+kolmenä:kolmenä   # colmena (reg.¶ 
+kolo:kolo   # 1. color  
+kompa:kompa   # 1. compañero  
+konga:konga   # prostíbulo  
+kongaza:kongaza   # 1. madera lisa  
+konghai:konghai   # tipo de gusano (que ¶vive dentro de la tierra, es de color amarillo y ¶no es venenoso 
+koni:koni   # flema (en la garganta de un ¶enfermo en agonía1. liso  
+kontraseñä:kontraseñä   # 1. señal, ¶contraseña  
+konza:konza   # madera lisa (planta ¶parecida a pitole 
+kopa:kopa   # 1. copa  
+koraliyo:koraliyo   # coralillo  
+koraso:koraso   # 1. corazón  
+korpo:korpo   #  
+korra:korra   # 1. corral  
+koto:koto   # 1. piel, cuero  
+koua:koua   # pitahaya, pitajaya (planta ¶cactácea chica y espinosa con flor morada 
+ku:ku   # hermano, hermana (menor 
+kuarta:kuarta   # 1. cuarta (medida del dedo ¶pulgar al dedo meñique 
+kuataʼbe̱hñä:kuataʼbe̱hñä   # concubina, ¶amasia, querida  
+kuatatʼu̱:kuatatʼu̱   # 1. entenado, hijastro ¶ 
+kuä:kuä   # tule  
+kudu:kudu   # hilacho, harapo, andrajo, ¶guiñapo  
+kueta:kueta   #  
+kuete:kuete   # cohetón (reg.¶grande pegar 1. pegar (espina 
+kue̱:kue̱   # 1. coraje, ira, enojo, cólera ¶ 
+kue̱se̱:kue̱se̱   # enojón, enojona  
+kuixi:kuixi   # 1. pellejo (de reptiles e ¶insectosencelarse (de ¶alguien 
+kuxkuru:kuxkuru   # 1. animal no ¶desarrollado  
+ku̱dʼbida:ku̱dʼbida   # pájaro bobo  
+ku̱hnäte:ku̱hnäte   # guía  
+ku̱hu̱:ku̱hu̱   # 1. pintura  
+ku̱hyadi:ku̱hyadi   # poniente, occidente ¶ 
+ku̱ksei:ku̱ksei   # pulque sabroso, pulque ¶exquisito  
+ku̱ntʼähi:ku̱ntʼähi   #  
+ku̱ʼnxui:ku̱ʼnxui   # s desmayo  
+ku̱tgu:ku̱tgu   # garrapata  
+ku̱tʼa:ku̱tʼa   # cinco  
+ku̱thä:ku̱thä   # 1. troje, recipiente donde ¶se guarda el maíz  
+ku̱thyatsʼi:ku̱thyatsʼi   # ventana  
+ku̱tsuida:ku̱tsuida   # pájaro bobo ¶ 
+ku̱tsʼi:ku̱tsʼi   # 1. cueva, caverna estar sobre (dos o más ¶objetos1. recolectar  
+ku̱xhyä:ku̱xhyä   # 1. agujero (escondite 
+ku̱ʼsta:ku̱ʼsta   # s el que agacha la frente ¶(que mira con la frente inclinada o de reojo 
+kʼade̱thä:kʼade̱thä   # maíz mojado  
+kʼado:kʼado   # piedra mojada  
+kʼamänunju̱:kʼamänunju̱   # chícharo  
+kʼamäñʼi:kʼamäñʼi   # chile verde  
+kʼamäza:kʼamäza   # 1. leña verde  
+kʼamju̱:kʼamju̱   # frijol fresco en vaina  
+kʼamxithi:kʼamxithi   # carrizo fresco, ¶carrizo verde  
+kʼangado:kʼangado   # 1. piedra de jade ¶ 
+kʼangagiʼue:kʼangagiʼue   # mosca verde ¶ 
+kʼangaʼuada:kʼangaʼuada   # maguey verde ¶(tipo que crece mucho 
+kʼani:kʼani   # quelite  
+kʼanidehe:kʼanidehe   # berro (lit.: quelite ¶de agua 
+kʼanitsʼu̱di:kʼanitsʼu̱di   # tianguis (hierba ¶del monte 
+kʼanjä:kʼanjä   # endibia (hierba 
+kʼankʼri:kʼankʼri   # “cancri” (reg.de ¶hierba (como la mostaza 
+kʼastʼaʼba:kʼastʼaʼba   # calostro  
+kʼastʼaʼbindri:kʼastʼaʼbindri   # chicalote de ¶flor amarilla  
+kʼastʼade:kʼastʼade   # animal de frente ¶amarilla  
+kʼastʼade̱thä:kʼastʼade̱thä   # maíz amarillo ¶ 
+kʼastʼagäni:kʼastʼagäni   # abejorro ¶amarillo  
+kʼastʼakʼeñä:kʼastʼakʼeñä   # víbora casera ¶ 
+kʼastʼamuza:kʼastʼamuza   # zapote ¶amarillo (mata y la fruta 
+kʼastʼando̱ni:kʼastʼando̱ni   #  
+kʼastʼasefi:kʼastʼasefi   # abeja amarilla ¶ 
+kʼastʼaʼixi:kʼastʼaʼixi   # durazno amarillo ¶(mata y fruta 
+kʼasthi:kʼasthi   # carrizo fresco  
+kʼatika:kʼatika   # hediondilla (quelite 
+kʼatsu:kʼatsu   # hediondilla, quelite picoso 
+kʼaxfani:kʼaxfani   # desnudo, encuerado ¶ 
+kʼaza:kʼaza   # 1. madera verde  
+kʼändo:kʼändo   # azotador (oruga 
+kʼeñä:kʼeñä   # víbora, culebra, serpiente ¶ 
+kʼeñädehe:kʼeñädehe   # tromba (lit.: víbora ¶de agua 
+kʼohai:kʼohai   # 1. adobe  
+kʼoi:kʼoi   # 1. dibujo  
+kʼontʼi:kʼontʼi   # 1. portillo 1. traspasar, atravesar ¶ 
+kʼontsʼahyadi:kʼontsʼahyadi   # 1. oriente, ¶este  
+kʼoʼni:kʼoʼni   # gallina clueca  
+kʼothe:kʼothe   # gaznate, garganta  
+kʼuamba:kʼuamba   # persona mentirosa, ¶persona chismosa mentir  
+kʼu̱the:kʼu̱the   # tos ferina  
+lado:lado   # lado  
+ladriyo:ladriyo   # pan de ladrillo  
+lamä:lamä   # mar  
+landro:landro   # cilantro  
+lante:lante   # lante (hierba medicinal 
+lisio:lisio   # 1. conocimiento ganado en el ¶estudio  
+lolo:lolo   # tortilla gruesa ovalada y chica, ¶gordita  
+lomio:lomio   # lomillo (clase de bordado 
+lonko:lonko   # molcate (mazorca no ¶desarrollada 
+lostro:lostro   # clase de frijol [ 
+ma:ma   # vendedor s largor, longitud s mecate largo ¶mapa s día largo ¶masthi s carrizo largo ¶mathe s surco largo 
+mabo̱jä:mabo̱jä   # 1. tren  
+mabtsʼu̱di:mabtsʼu̱di   # cuidador de ¶puercos  
+maʼba:maʼba   # pezón grande  
+mada:mada   # molcajete  
+madänthi:madänthi   # reata larga  
+madeha:madeha   # madeja  
+made̱nda:made̱nda   # empleado de la ¶tienda  
+madga:madga   # lagartija  
+madi:madi   # pastor  
+madithä:madithä   # maíz largo (grano de ¶maíz 
+mafri:mafri   # cuidador de caballo 1. hierba muro ¶de hojas grandes ¶2. hierba muro de hojas chicas 
+magu:magu   # animal de oreja larga  
+mahai:mahai   # 1. vendedor de terrenos ¶ 
+mahetsʼi:mahetsʼi   # 1. cielo (el cielo que se ¶ve 
+mahme:mahme   # páncreas (lit.: tortilla ¶largatortilla larga  
+mahmi:mahmi   # cajete, cazuela grande ¶ 
+mahni:mahni   # griterío, vocerío, ¶discusión  
+mahuähi:mahuähi   # milpa larga  
+mahue:mahue   # quisquémil  
+mahuifi:mahuifi   # 1. norte  
+mahyatsʼi:mahyatsʼi   # oriente, este  
+mai:mai   # 1. camarón  
+majä:majä   # cura, sacerdote  
+majyä:majyä   # tardío (maíz y frijol que ¶produce después de la semilla violenta; ¶animales o mujeres que tardan en criar; fruta ¶que se madura después del tiempo conveniente 
+makʼangi:makʼangi   # sur  
+mamänxätʼä:mamänxätʼä   # órgano 
+mambru:mambru   # cuidador de burros ¶ 
+mamfri:mamfri   # cuidador de caballo ¶ 
+Mando:Mando   # 1.  
+mantfani:mantfani   # cuidador de reses, ¶vaquero  
+mantʼyo:mantʼyo   # 1. canilla (de un ¶animal 
+manthähi:manthähi   # s mecate largo ¶ 
+mantsʼu̱ti:mantsʼu̱ti   # vendedor de piel ¶ 
+manza:manza   # palo largo plato  
+maʼni:maʼni   # cuidador de gallinas  
+maʼnzä:maʼnzä   # costal largo  
+maʼñu:maʼñu   # camino derecho y largo ¶ 
+mapa:mapa   # día largo  
+maptsʼu̱di:maptsʼu̱di   # cuidador de ¶puercos, porquerizo  
+mapuni:mapuni   # poniente, occidente ¶ 
+maste:maste   # defraudador, engañador ¶1. ayudante  
+masthi:masthi   # carrizo largo, carrizo ¶grande  
+matmänxa:matmänxa   # persona que ¶sancocha elote  
+matʼaʼronjua:matʼaʼronjua   #  
+matʼaze̱njua:matʼaze̱njua   #  
+Matʼäxi:Matʼäxi   #  
+mathe:mathe   # surco largo  
+matse̱:matse̱   # lombriz  
+maxhyu:maxhyu   # persona de nariz ¶larga, narigón  
+maxi:maxi   # barrendero  
+maxni:maxni   # cántaro largo  
+maxui:maxui   # noche larga  
+maxu̱gi:maxu̱gi   # musgo largo, heno ¶largo  
+mayu̱i:mayu̱i   #  
+maʼye:maʼye   # 1. roca de ¶pencas largas  
+maʼyo:maʼyo   # 1. pastor (de ganado ¶menor 
+maʼyu̱ga:maʼyu̱ga   # pescuezo largo ¶ 
+mazu:mazu   # mulo  
+mazu̱:mazu̱   # cola larga  
+mazu̱kähä:mazu̱kähä   # gracias a ¶ 
+maʼsju̱ni:maʼsju̱ni   # persona barbuda ¶ 
+maʼthä:maʼthä   # sueño eterno, muerte ¶ 
+maʼtsandäni:maʼtsandäni   # cuernudo ¶ 
+maʼtsi:maʼtsi   # baraña  
+mächu:mächu   # mulo  
+mädo:mädo   # 1. huevo tipo de nopal y ¶su fruta (tuna anaranjada de 5 a 8 cm. de ¶largo en forma de huevo 
+mäisero:mäisero   # pájaro maicero 1. hace un ¶mäje̱ya (mäje̱ ¶año  
+mäko:mäko   # catrín, persona que viste ¶mejor que cualquier campesino ¿ 
+mämä:mämä   # madre  
+mäne:mäne   # 1. comadre  
+märgarita:märgarita   # 1. margarita (flor 
+mäte:mäte   # 1. persona que ama ¶2. carácter bondadoso 1. ser amistoso  
+mäya:mäya   # s paseador  
+mbane:mbane   # compadre  
+mbatʼi:mbatʼi   # incendio, quemazón xoxa (reg. 
+Mbaxjua:Mbaxjua   #  
+mbägfani:mbägfani   # caballo salvaje  
+mbägʼuada:mbägʼuada   # maguey ¶silvestre  
+mbägʼo̱ni:mbägʼo̱ni   # gallina de agua  
+mbämhyä:mbämhyä   # 1. sabiduría ¶conejo silvestre ¶romero del monte lengua de ¶vaca silvestre (comestible para animales¶cardón grande endibia ¶silvestre epazote ¶silvestre gallina ¶silvestre ¶romero silvestre moral ¶silvestre nopal ¶silvestre girasol ¶silvestre  
+mbängi:mbängi   # 1. salvaje  
+mbängmixi:mbängmixi   # gato montés ¶ 
+mbehe:mbehe   # viernes  
+mbidi:mbidi   # 1. susto  
+mbimhai:mbimhai   # terremoto  
+mbongaxita:mbongaxita   # tatarabuelo ¶ 
+mbongʼbe̱to:mbongʼbe̱to   # tataranieto, ¶tataranieta  
+mbongi:mbongi   # 1. sobra (reg.; lo que ¶dejó 
+mbongtita:mbongtita   # bisabuelo  
+mbonthi:mbonthi   # 1. mezquital  
+mboʼnthi:mboʼnthi   # monte  
+mbostʼä:mbostʼä   # nopalera  
+mbothe:mbothe   # surco corto  
+mboxjua:mboxjua   # 1. orín, óxido  
+mboza:mboza   # bosque  
+mboʼta:mboʼta   # magueyal  
+mbo̱ʼbe̱to:mbo̱ʼbe̱to   # bisnieto, bisnieta ¶ 
+mbo̱da:mbo̱da   # s legañas  
+mbo̱ho̱:mbo̱ho̱   # señor, hombre que viste ¶con elegancia  
+mbo̱stʼä:mbo̱stʼä   # nopal sazón  
+mbo̱tsʼe:mbo̱tsʼe   # subida  
+mbo̱xhyadi:mbo̱xhyadi   # oriente  
+mbo̱xita:mbo̱xita   # tatarabuelo  
+mbudu:mbudu   # embudo  
+mbu̱tsʼi:mbu̱tsʼi   # topil (ayudante del juez ¶auxiliar 
+mbu̱xmu̱i:mbu̱xmu̱i   # rugido del ¶estómago 
+me:me   # madre, nana tejedor, tejedora 1. duro  
+medänthi:medänthi   # reata resistente (de ¶lazar 
+mede:mede   # gallo  
+medinthäti:medinthäti   # casados ¶legalmente, casados civilmente  
+medo:medo   # piedra dura  
+mefri:mefri   # dueño del caballo  
+mehyo:mehyo   # riñón  
+mejua:mejua   # 1. conejo mediano (no ¶desarrollado 
+mekjä:mekjä   # tuna empedernida (reg.no madura madrina hormiga tropero ¶mekoxäju̱ (mékoxäju̱ ¶ 
+memäti:memäti   # 1. rico  
+meMxei:meMxei   # originario de ¶ 
+meʼMända:meʼMända   # 1. capitalino ¶ 
+mende̱nda:mende̱nda   # dueño de la ¶tienda  
+mendumu̱i:mendumu̱i   # doliente  
+mengu:mengu   # 1. dueño de la casa, ¶casero  
+meni:meni   # s pariente lavandera  
+menijä:menijä   # 1. miembro de una ¶iglesia, perteneciente a una iglesia  
+menxi:menxi   # lavandera de ixtle  
+meʼnjä:meʼnjä   # gallo  
+meʼnxu:meʼnxu   # dueño de la hija (reg.: ¶padre o madre o tutor 
+meño:meño   # medio real (que equivale a ¶seis centavos 
+meñoʼbo̱tsʼe:meñoʼbo̱tsʼe   # chiquihuite ¶(canasta grande sin asas, de capacidad de seis ¶cuartillos de maíz ya en tortilla 
+meʼro̱zä:meʼro̱zä   # tejedor de costal  
+meso:meso   # mesón  
+mesto:mesto   # piedra dura  
+meta:meta   # metal  
+metʼaʼbo̱tsʼe:metʼaʼbo̱tsʼe   # canastero, ¶tejedor de canastas  
+metʼafani:metʼafani   # caballo de baja ¶estatura, caballo chaparro  
+metʼajua:metʼajua   # conejo mediano no ¶desarrollado ¶met 
+metʼaxo̱ni:metʼaxo̱ni   # cántaro resistente 
+metʼe:metʼe   # tejedor  
+metʼixu:metʼixu   # dueño de la hija (padre ¶o madre o tutor 
+metʼo̱ho̱:metʼo̱ho̱   # 1. persona que vive en ¶el cerro ¶2. demonio adueñado de un cerro  
+methe:methe   # 1. agua espesa  
+metsi:metsi   # 1. muchacho  
+metsogi:metsogi   # dueño de lo dejado, ¶heredero  
+mexa:mexa   # 1. mesa zorrillo, mofeta 
+mexkodo:mexkodo   # 1. molleja  
+mexni:mexni   # 1. cántaro mediano  
+mexʼye̱:mexʼye̱   # guau (hierba que al estar ¶en contacto con la persona hace que le broten ¶ronchas 
+mexʼe:mexʼe   # araña  
+mexʼyo:mexʼyo   # tejedor de cobijas  
+meʼyo:meʼyo   # 1. cabrío, caprino  
+meza:meza   # madera maciza  
+mezu̱:mezu̱   # tlacuache no bien desarrollado  
+meʼjä:meʼjä   # madrina  
+meʼtho̱:meʼtho̱   # 1. persona que vive en ¶los cerros  
+me̱:me̱   # cazador  
+me̱däzu̱:me̱däzu̱   # tlacuachero (reg.que caza tlacuaches  
+me̱fantho̱:me̱fantho̱   # venadero, cazador ¶de venado  
+me̱fi:me̱fi   # 1. peón  
+me̱huä:me̱huä   # pescador  
+me̱hyu̱za:me̱hyu̱za   # flautista  
+me̱jua:me̱jua   # conejero, cazador de ¶conejos ¶me̱ki [ 
+me̱kʼyä:me̱kʼyä   # alcaudón, verdugo, 
+me̱mäpa:me̱mäpa   # jornalero  
+me̱mi:me̱mi   # s laderoso 
+me̱mnä:me̱mnä   # cazador de ardillas ¶ 
+me̱ʼmda:me̱ʼmda   # músico  
+me̱mʼyo:me̱mʼyo   # cazador de coyotes ¶ 
+me̱ne:me̱ne   # pico torcido, boca torcida ¶ 
+me̱ngua:me̱ngua   # pie ladeado de pata ¶chueca  
+me̱nxu̱ni:me̱nxu̱ni   # cazador de águilas ¶ 
+me̱ñʼäi:me̱ñʼäi   # cazador de zorrillos 
+me̱ñʼoi:me̱ñʼoi   # cazador de ratones 
+me̱pate:me̱pate   # 1. criada  
+me̱sefi:me̱sefi   # panalero (que busca ¶panal 
+me̱shnä:me̱shnä   # el que trabaja por mes ¶ 
+me̱stʼä:me̱stʼä   # nopal empedernido, no ¶bien desarrollado  
+me̱stʼekʼei:me̱stʼekʼei   # s persona ¶respetuosa  
+me̱taʼba:me̱taʼba   # s mendigo de leche, ¶pedigueña de leche  
+me̱tate:me̱tate   # imitador  
+me̱te:me̱te   # cazador (animal que caza 
+me̱ti:me̱ti   # mendigo, limosnero 1. propiedad de  
+me̱thu̱za:me̱thu̱za   # flautista ¶ 
+me̱tsathä:me̱tsathä   # cazador de tejones ¶ 
+me̱tsjamädi:me̱tsjamädi   # persona ¶agradecida  
+me̱tsʼintsʼu̱:me̱tsʼintsʼu̱   # pajarero, ¶cazador de pájaros ¶me̱ui [ 
+me̱xandähi:me̱xandähi   # lugar airoso ¶(donde hace mucho aire 
+me̱xfani:me̱xfani   # tamborilero  
+me̱ʼtsi:me̱ʼtsi   # ahorrador  
+mfada:mfada   # s fastidio  
+mfantʼi:mfantʼi   # s golpe  
+mfatsʼi:mfatsʼi   # 1. ayuda  
+mfaxaʼbe̱fi:mfaxaʼbe̱fi   # trabajo de ayuda ¶mutua, trabajo colectivo ¶ 
+mfädi:mfädi   # 1. estudio  
+mfe:mfe   # robo  
+mfege:mfege   # 1. gotera  
+mfeni:mfeni   # 1. mente, pensamiento ¶palpitar  
+mfeʼtse:mfeʼtse   # 1. tropezón 1. equivocarse  
+mfe̱i:mfe̱i   # 1. tunda  
+mfe̱tate:mfe̱tate   # acción de arremedar 
+mfe̱tʼi:mfe̱tʼi   # vareada ¶mfe̱ts aleteada  
+mfe̱tsi:mfe̱tsi   # chispiadera (reg.chisquero  
+mfidi:mfidi   # s cama  
+mfixʼye̱:mfixʼye̱   # empalme de manos  
+mfiʼtsi:mfiʼtsi   # carona estar juntos, estar ¶contiguos  
+mfoʼmi:mfoʼmi   # 1. jorongo  
+mfoxjuai:mfoxjuai   # persona que porta ¶cuchillo  
+mfoxyo:mfoxyo   # candelero  
+mfoxʼa:mfoxʼa   # pulga que se clava en la ¶carne  
+mfoʼye̱:mfoʼye̱   # 1. anillo  
+mfoʼye̱kʼeñä:mfoʼye̱kʼeñä   # coralillo 
+mfoʼtsi:mfoʼtsi   # clavija (para sacar el gas ¶del fermento al pulque 
+mfo̱ke:mfo̱ke   # dinamita explosiva romper roca ¶(con explosión 
+mfo̱mi:mfo̱mi   # porrazo  
+mfo̱stʼe:mfo̱stʼe   # partida y mancha de la ¶piel  
+mfo̱xjo:mfo̱xjo   # 1. andrajoso  
+mfu̱ki:mfu̱ki   # batidor ¶mfu̱ki vr jabonarse  
+mfu̱ña:mfu̱ña   # gorra, gorro  
+mfu̱tʼi:mfu̱tʼi   # 1. batidor  
+mfu̱ʼtsi:mfu̱ʼtsi   # rozón  
+midoui:midoui   # otra piedra (de igual ¶calidad 
+mihniniui:mihniniui   # otro pueblo de la ¶misma categoría  
+mijäʼi:mijäʼi   # 1. prójimo  
+miki:miki   # concuña (esposas de ¶hermanos 
+mikʼei:mikʼei   # 1. prójimo  
+mimfo̱ui:mimfo̱ui   # señor de su misma ¶categoría  
+minä:minä   # ardilla  
+minza:minza   # ardilla de árbol (que anida ¶en los árboles 
+miñʼyo:miñʼyo   # 1. coyote  
+miptai:miptai   # albañil (nombre de una ¶avispa grande y medio azul¶embarradora  
+mithe:mithe   # escurrimiento de aguas ¶ 
+mixi:mixi   # gato pedorro 
+mixkle:mixkle   # cacomiztle (animal ¶carnívoro 
+moʼba:moʼba   # lechera (reg.; que produce ¶mucha leche 
+mohi:mohi   # 1. plato  
+moho:moho   # cóncavo (lugar 
+mokʼuada:mokʼuada   # 1. tajadera ¶(herramienta de podar magueyes 
+mone:mone   # 1. pico torcido  
+motmu̱i:motmu̱i   # s persona con ¶estómago sumido ¶2. vi tener la panza trasijada  
+moto:moto   # abrevadero (de piedra ¶cóncavade piedra  
+motʼandehe:motʼandehe   #  
+motʼaxiñu:motʼaxiñu   # persona de nariz ¶respingona  
+motʼaza:motʼaza   # plantador de árboles ¶ 
+motʼi:motʼi   # s sembrador (persona 
+mothe:mothe   # 1. charco (desde un poco ¶de agua detenida, hasta un charco grande que ¶tiene salida y entrada de agua 
+mothmi:mothmi   # persona que tiene ¶hoyuelos  
+motsa:motsa   # 1. canoa  
+moʼstʼabi:moʼstʼabi   # pala cucharada ¶ 
+moʼthyu̱ja:moʼthyu̱ja   # nuca sumida  
+moʼtsi:moʼtsi   # resembrador (personahacerse jorobado  
+mo̱xmanza:mo̱xmanza   # persona que ¶pone platos en la mesa  
+mo̱xmohi:mo̱xmohi   # persona que pone ¶platos en la mesa  
+mo̱ʼtaze̱sthi:mo̱ʼtaze̱sthi   # reparador de ¶zapatos, huaraches, zapatero remendón ¶ 
+mpa:mpa   # puesto (mercancía¶187 ¶ ¶ ¶mpa 1. vti revender (compl. indet. 
+mpaka:mpaka   # empacador  
+mpakatsʼani:mpakatsʼani   # empacador de ¶aguacates  
+mpakaʼixi:mpakaʼixi   # empacador de ¶duraznos  
+mpaʼmi:mpaʼmi   # tunda, golpiza 
+mpangamädo:mpangamädo   # huevo ¶tibio  
+mpatabojä:mpatabojä   # 1. persona que ¶cambia dinero ¶2. banco, tienda que cambia el dinero ¶ 
+Mpathe:Mpathe   #  
+mpaʼanimä:mpaʼanimä   # día de los ¶muertos  
+mpädi:mpädi   # conocido  
+mpengi:mpengi   # vuelto ¶mpeni vti lavar ropa (compl. indet. 
+mpe̱mfo:mpe̱mfo   # columpio 
+mpe̱pi:mpe̱pi   # utensilio, instrumento ¶ 
+mpe̱tku:mpe̱tku   # bofetada  
+mpe̱ʼti:mpe̱ʼti   # s abofetada 
+mpoʼba:mpoʼba   # recipiente destinado ¶para la leche ¶mpoki vti podar (compl. indet. 
+mpomʼi:mpomʼi   # olla para la salsa ¶ 
+mpothe:mpothe   # recipiente para agua, ¶pileta  
+mpovinu:mpovinu   # garrafón, botellón, ¶castaña (para licor 
+mpoʼtsi:mpoʼtsi   # mancha negra (de ¶plantas 
+mpo̱ho̱:mpo̱ho̱   # s salvación ¶2. vr salvarse  
+mpo̱ngahñä:mpo̱ngahñä   # válvula ¶respiradora, clavija  
+mpo̱nthe:mpo̱nthe   # salida de agua  
+mpo̱tanzaya:mpo̱tanzaya   # juez auxilio, ¶suplente  
+mpo̱te:mpo̱te   # 1. reemplazo, substituto ¶ 
+mpu̱ni:mpu̱ni   # golpe (dado con el puño1. pelechar  
+mpu̱ntsʼi:mpu̱ntsʼi   # s volcadura  
+mpu̱tʼi:mpu̱tʼi   # s picotazo  
+mpu̱ʼtsi:mpu̱ʼtsi   # topetada, tope  
+mu:mu   # calabaza  
+mudu:mudu   # cuñada (de mujer 
+mula:mula   # mula  
+mulinu:mulinu   # molino 
+mundo:mundo   # s montón  
+Mundotso̱:Mundotso̱   #  
+munera:munera   # mojonera ¶ 
+muntsʼäde̱mza:muntsʼäde̱mza   # colector ¶de nuez  
+mura:mura   # mora 
+murado:murado   # morado (color 
+murko:murko   # librillo (estómago de los ¶rumiantes 
+muroñʼethi:muroñʼethi   # hierbamuro 
+murra:murra   # morral  
+mutʼi:mutʼi   # grupo  
+muza:muza   # zapote  
+mu̱di:mu̱di   # s principio  
+mu̱i:mu̱i   # 1. estómago  
+mu̱ki:mu̱ki   # 1. roña  
+mu̱kxäxi:mu̱kxäxi   # manchas blancas en ¶la cara, jiote, grano, costra  
+mu̱ngua:mu̱ngua   # planta del pie  
+mu̱ntsdehe:mu̱ntsdehe   # agua turbia ¶ 
+mu̱ntsʼi:mu̱ntsʼi   # s recaída (enfermedad 
+mu̱ñhe:mu̱ñhe   # 1. fondo del arroyo  
+mu̱ñʼye̱:mu̱ñʼye̱   # palma de la mano ¶ 
+mu̱xmi:mu̱xmi   # s llovizna  
+mu̱ʼhmi:mu̱ʼhmi   # 1. persona que maja la ¶palma ¶2. mazo de majar palma ¶3. corazón de palma, cogollo de palma ¶ 
+mu̱ʼste:mu̱ʼste   # embestidor (res, ganado ¶lanar o cabra 
+mu̱ʼta:mu̱ʼta   # corazón de maguey  
+ʼma:ʼma   # 1. puesto (de ventas 
+ʼmahai:ʼmahai   # terreno comprado  
+ʼmahnäʼñu:ʼmahnäʼñu   # camino sinuoso ¶ 
+ʼmahni:ʼmahni   # curva ¶s arruga (piel, fruta 
+ʼmai:ʼmai   # 1. estatura  
+ʼmaki:ʼmaki   # gancho (palo o carrizo largo ¶con un clavo o púa en la punta para cortar ¶tunas 
+ʼmantʼaʼyu̱ga:ʼmantʼaʼyu̱ga   # bufanda ¶ 
+ʼmantʼi:ʼmantʼi   # 1. envoltorio (tela, papel, ¶penca de maguey, cueropañal  
+ʼmantsʼahme:ʼmantsʼahme   # envoltorio ¶de tortillas (tela, papel 
+ʼmatsʼi:ʼmatsʼi   # colador, coladera, ¶cedazo  
+ʼmaxhme:ʼmaxhme   # servilleta (para ¶tortillas 
+ʼmetʼanthähi:ʼmetʼanthähi   # mecate ¶trenzado (tejido en trenza 
+ʼmetʼanthiʼti:ʼmetʼanthiʼti   # tejida de ¶aventadores  
+ʼmetʼe:ʼmetʼe   # tejido  
+ʼme̱hni:ʼme̱hni   # 1. enviado, mensajero, ¶mandadero de ¶ 
+ʼme̱i:ʼme̱i   # 1. vara  
+ʼme̱mbru:ʼme̱mbru   # perezoso 
+ʼme̱nhyadi:ʼme̱nhyadi   # perezoso  
+ʼme̱tate:ʼme̱tate   # acción de imitar  
+ʼme̱thme:ʼme̱thme   # tortillera (reg.para hacer tortillas  
+ʼme̱tsʼintsʼu̱:ʼme̱tsʼintsʼu̱   # 1. trampa de ¶pájaro (jaula u otra cosa 
+ʼme̱ʼsbojä:ʼme̱ʼsbojä   # 1. banco 
+ʼme̱ʼsbo̱jä:ʼme̱ʼsbo̱jä   # 1. cajón para ¶herramientas  
+ʼmifi:ʼmifi   # acocote (una especie de ¶calabaza muy larga con la cual se chupa el ¶aguamiel del centro escarbado del magueyhumear, hacer mucho ¶humo  
+ʼmimda:ʼmimda   # púa de maguey  
+ʼmindri:ʼmindri   # chicalote (hierba 
+ʼmini:ʼmini   # espina  
+ʼmintʼo:ʼmintʼo   # granjeno  
+ʼminza:ʼminza   # 1. huizache  
+ʼmistʼä:ʼmistʼä   # espina de nopal  
+ʼmithe:ʼmithe   # escurridera de agua (tubos ¶de los techos de las casas 
+ʼmiʼki:ʼmiʼki   # 1. vez  
+ʼmoʼba:ʼmoʼba   # 1. ubre, mama, teta (de ¶animales hembras 
+ʼmodehe:ʼmodehe   # recipiente para agua ¶ 
+ʼMonda:ʼMonda   # 1.  
+ʼmoni:ʼmoni   # montón (de cualquier ¶mercancía vendible 
+ʼmoñä:ʼmoñä   # calandria (pájaro 
+ʼmosifi:ʼmosifi   # utensilio para machigues 
+ʼMospi:ʼMospi   #  
+ʼmothä:ʼmothä   # maíz pinto, maíz negro ¶ 
+ʼmothe:ʼmothe   # recipiente para agua ¶ 
+mʼotho:mʼotho   # miles, número muy ¶grande  
+ʼmo̱e:ʼmo̱e   # ofrenda (para el difunto 
+ʼmo̱gu:ʼmo̱gu   # orejas colgadas  
+ʼmo̱täkudu:ʼmo̱täkudu   # hilacho ¶remendado  
+ʼmo̱ʼte:ʼmo̱ʼte   # 1. remiendo  
+ʼmuhu:ʼmuhu   # 1. león  
+ʼmu̱hmi:ʼmu̱hmi   # 1. mazo de majar ¶palma  
+ʼmu̱i:ʼmu̱i   # 1. vida  
+ʼmu̱ni:ʼmu̱ni   # 1. espolón  
+ʼmu̱nxi:ʼmu̱nxi   # mazo (para machacar las ¶pencas de magueyto¶3.  
+nagi:nagi   # cuarta, palmo (medidajeme (medida 
+nanatʼu̱:nanatʼu̱   # 1. hijo que trabaja en la ¶ciudad (que deja sus padres y hermanos para ¶ganarse la vidahijo aventurero  
+nani:nani   # aventurero, andariego 1. atravesarse ¶2. atorarse  
+nanxa:nanxa   # 1. naranjo (mata 
+navaha:navaha   # navaja 
+nänä:nänä   # s madre, mamá ¶2. vi hacerse madre, hacerse tutora ¶señora (palabra de respeto ¶dirigida a ella 
+nästʼi:nästʼi   # 1. disentería  
+ndadri:ndadri   # presentación de una ¶ofrenda floral semilla de flores  
+ndagi:ndagi   # 1. caída  
+ndaju̱:ndaju̱   # 1. grano de frijol ¶2. frijol cocido sin caldo  
+Ndamu̱i:Ndamu̱i   # montaña de  
+ndamu̱i:ndamu̱i   # el que tiene volteado el ¶bazo, volteado del bazo ¶ndandiñähmu (ndǎndiñähmu, ¶ndandiñähmuarrodillarse, hincarse ¶ 
+ndaro:ndaro   # soldado  
+ndatʼi:ndatʼi   # 1. mal aire (enfermedad 
+ndaʼthi:ndaʼthi   # semilla de mezquite ¶ 
+ndä:ndä   # s presidente 1. grande ¶2. grueso  
+ndägahñu̱ʼti:ndägahñu̱ʼti   # cintura ¶gruesa  
+ndähi:ndähi   # 1. aire, atmósfera  
+ndähme:ndähme   # tortilla bien cocida ¶ 
+ndähñei:ndähñei   # 1. flojera  
+ndämdo:ndämdo   # huevo cocido  
+ndämfri:ndämfri   # 1. res  
+ndämxa:ndämxa   # elote sancochado ¶ 
+Ndämxei:Ndämxei   #  
+ndäni:ndäni   # 1. borrego (ndäníjä̌, ndäníjä, ndä́níjä¶templo matriz, iglesia principal  
+Ndäpa:Ndäpa   #  
+ndäpo:ndäpo   # hierba  
+ndäsni:ndäsni   # nixtamal pasado de ¶sancochado  
+Ndästʼo̱ho̱:Ndästʼo̱ho̱   #  
+Ndäthe:Ndäthe   #  
+ndäthe:ndäthe   # agua hervida  
+ndäxjua:ndäxjua   # viejo hacerse viejo  
+ndäza:ndäza   # palo grueso  
+Ndedo:Ndedo   #  
+ndehe:ndehe   # mar 1. hacerse aguada 1. cumbre  
+Ndeʼmä:Ndeʼmä   #  
+ndemʼye:ndemʼye   # 1. despeñadero  
+ndengi:ndengi   # 1. orilla  
+ndeni:ndeni   # acarreador  
+ndentʼi:ndentʼi   # malonqueada (reg.golpeada  
+ndentho̱:ndentho̱   # cumbre del cerro ¶ 
+nde̱ga:nde̱ga   # manteca  
+nde̱snä:nde̱snä   # 1. idioma mejicano, ¶náhuatl ¶2. náhuatl, azteca (indígena de esta tribupollo pinto ¶4. búlico (gallina amarilla con manchas 
+ndinthe:ndinthe   # alga verde limón  
+ndisthi:ndisthi   # persona que calza ¶zapatos  
+ndo:ndo   # granizo ¶ndo (ndoendurecerse  
+ndokjä:ndokjä   # tuna empedernida  
+ndomingo:ndomingo   # domingo ¶ 
+ndosei:ndosei   # pulque graniento (cuando ¶el pulque tiene como bolitas de masa 
+ndoʼyo:ndoʼyo   # 1. hueso 
+ndo̱:ndo̱   # 1. viejo  
+ndo̱ʼba:ndo̱ʼba   # pezón grande 
+ndo̱dro:ndo̱dro   # toro grande 
+ndo̱fri:ndo̱fri   # caballo grande 
+ndo̱hñä:ndo̱hñä   # suegro 
+ndo̱mänxätʼä:ndo̱mänxätʼä   # flor de ¶garambullo  
+ndo̱mbo:ndo̱mbo   # golumbo (reg.del quiote (capullos del quiote 
+ndo̱mxi:ndo̱mxi   # gato grande  
+ndo̱ʼmähuähi:ndo̱ʼmähuähi   # hortelano, ¶milpero  
+ndo̱ʼmängu:ndo̱ʼmängu   # encargado de la ¶casa  
+ndo̱ʼmfe:ndo̱ʼmfe   # flor de efés  
+ndo̱ʼmi:ndo̱ʼmi   # 1. velorio ¶2. casa  
+ndo̱ni:ndo̱ni   # florecimiento  
+ndo̱stʼä:ndo̱stʼä   # nopal grande  
+ndo̱te:ndo̱te   # grande 
+ndo̱tfe:ndo̱tfe   # soguillero (de ganado ¶menor o porcino, reg.: bolsitas de la misma piel ¶que se penden en el pescuezo 
+ndo̱xjo:ndo̱xjo   # pantalón con tirante y ¶pechera ¶ndo̱ 
+ndo̱ʼta:ndo̱ʼta   # maguey grande  
+ndubinu:ndubinu   # trajinante de ¶aguardiente, cargador de aguardiente  
+ndubxa:ndubxa   # borrega enferma, ¶borrega entelerida  
+nduʼbeza:nduʼbeza   # cargador de ¶huacales  
+nduhyadi:nduhyadi   # eclipse de sol ¶ 
+ndujuai:ndujuai   # persona que porta ¶cuchillo  
+ndumu̱i:ndumu̱i   # s tristeza  
+nduʼni:nduʼni   # 1. gallina muerta (de ¶enfermedad 
+nduptsʼu̱di:nduptsʼu̱di   # enfermedad de ¶los puercos  
+ndusei:ndusei   # trajinero de pulque, ¶cargador de pulque  
+ndutäpa:ndutäpa   # grupo de personas ¶que felicitan cantando  
+nduti:nduti   # cargador 
+nduthä:nduthä   # cargador de maíz  
+nduthe:nduthe   # sed  
+ndutsʼe̱di:ndutsʼe̱di   # débil (del cuerpo 
+nduxjäʼi:nduxjäʼi   # 1. autobús ¶2. carro transportador de gente  
+nduza:nduza   # cargador de leña  
+nduzafri:nduzafri   # cargador de zacate ¶ 
+nduznä:nduznä   # eclipse de luna ¶ 
+nduʼti:nduʼti   # amarrador  
+nduʼtse̱:nduʼtse̱   # escalofrío ¶ 
+ndu̱i:ndu̱i   # base, raíz 
+ndu̱ki:ndu̱ki   # cortador (de frutos de ¶ciertas plantass cortador de algodón; ¶corte de algodón flor del órgano ¶ 
+ndu̱ndri:ndu̱ndri   # raíz del cuerno del ¶animal  
+ndu̱nza:ndu̱nza   # tronco de árbol  
+ndu̱stʼi:ndu̱stʼi   # ampolla 
+ndu̱tsʼi:ndu̱tsʼi   # encía  
+ndu̱xʼyo:ndu̱xʼyo   # caña de azúcar  
+nega:nega   # fanega  
+negu:negu   # horcón ¶nehe [ 
+nehmyä:nehmyä   # s persona ¶pendenciera  
+nehñe:nehñe   # orilla de la barranca  
+nei:nei   # bailador, bailadora ¶nei (néibailar, danzar  
+neʼmhai:neʼmhai   # planta del pie  
+nengadehe:nengadehe   # ribera ¶ 
+nenthe:nenthe   # ribera  
+nesida:nesida   # necesidad  
+nesio:nesio   # necio  
+nespi:nespi   # 1. fogón  
+neua:neua   # s rastrero (animal que sigue ¶el rastro de personas u otros animales 
+nexni:nexni   # boca de cántaro de allá  
+ngande:ngande   # abuela  
+ngani:ngani   # ronquido  
+nganmu̱i:nganmu̱i   # retortijón 
+ngantsʼi:ngantsʼi   # s pachorra  
+ngaʼnthä:ngaʼnthä   # ronquido  
+ngañʼye:ngañʼye   # trueno de lluvia  
+ngatʼatsʼe:ngatʼatsʼe   # último hijo (lit.: el ¶que limpia el residuo de la comida en la olla 
+ngatʼi:ngatʼi   # 1. alrededor  
+ngatsʼi:ngatsʼi   # 1. alrededor bajo, abajo de ¶ 
+ngähä:ngähä   # izquierda (mano o ladoespiga espigar de lanté 
+ngäi:ngäi   # 1. bajada (camino 
+ngänsoki:ngänsoki   # alcaide ¶ 
+ngätsʼi:ngätsʼi   # trasplantador ¶adv después ¶2. s el último 
+ngäxaxida:ngäxaxida   # ceja (de los ojos 
+ngäxmhai:ngäxmhai   # fin del mundo  
+ngäʼtsi:ngäʼtsi   # suspiro ¿ 
+nge:nge   # gruñido (animalprep cerca de ¶2. s causa ¶nge 
+ngeni:ngeni   # zumbido  
+ngi:ngi   # jugo  
+ngibxi:ngibxi   # jugo de uva  
+ngo:ngo   # fiesta  
+ngochi:ngochi   # morral, bolsa ¶ 
+ngoda:ngoda   # ceguera  
+ngofo:ngofo   # constipación  
+ngogu:ngogu   # sordera  
+ngone:ngone   # mudez (fig. 
+ngo̱:ngo̱   # 1. carne  
+ngo̱btudi:ngo̱btudi   # carne de carnero  
+ngo̱bxa:ngo̱bxa   # carne de borrega  
+ngo̱de:ngo̱de   # falda, enagua ¶ 
+ngo̱nfani:ngo̱nfani   # carne de res  
+ngo̱ñä:ngo̱ñä   # calvo  
+ngo̱stʼä:ngo̱stʼä   # la carne extraída de las ¶pencas del nopal  
+ngo̱tho:ngo̱tho   # pulpa (carne sin hueso 
+ngo̱tsʼi:ngo̱tsʼi   # encía  
+ngo̱ze̱xjo:ngo̱ze̱xjo   # persona que se pone ¶calzones  
+ngu:ngu   # 1. casa adv como que  
+nguani:nguani   # cuesta, subida, ¶pendiente, ladera, inclinada  
+nguatra:nguatra   # 1. cuartilla (moneda ¶antigua equivalente a tres centavos 
+nguatʼi:nguatʼi   # resguardo (reg. 
+nguaxfo̱ʼte:nguaxfo̱ʼte   # gorrón (en una ¶fiesta 
+nguaxki:nguaxki   # quemada (piel¶chiquero (de puerco 
+ngude̱thä:ngude̱thä   # troje  
+ngudohai:ngudohai   # casa de adobe ¶ 
+ngufri:ngufri   # caballeriza  
+ngugadäskähä:ngugadäskähä   # nido del ¶pájaro huitlacoche  
+ngugagätu̱:ngugagätu̱   # nido del ¶chuparrosa, nido del colibrí  
+ngugajoñʼo:ngugajoñʼo   # nido de la ¶tórtola  
+ngugakähai:ngugakähai   # nido de ¶golondrina  
+ngugaku̱dʼbida:ngugaku̱dʼbida   # nido del ¶pájaro bobo  
+ngugaʼmoñä:ngugaʼmoñä   # nido de la ¶calandria  
+ngugaʼrokne:ngugaʼrokne   # nido del ¶gorrión  
+ngugateʼhñä:ngugateʼhñä   # nido del ¶zenzontle  
+ngugaxithyä:ngugaxithyä   # nido del ¶pájaro pinto  
+nguhmi:nguhmi   # casa techada de palma ¶ 
+nguhmu:nguhmu   # casa del amo, casa ¶del patrón  
+ngumfri:ngumfri   # corral de reses  
+ngunäni:ngunäni   # casa construida con ¶argamasa  
+nguntʼyo:nguntʼyo   # 1. camposanto, ¶cementerio  
+ngunzado̱ni:ngunzado̱ni   # cárcel  
+nguʼni:nguʼni   # gallinero, granja de ¶gallinas  
+nguñʼo:nguñʼo   # corral de ganado menor ¶ 
+ngusfani:ngusfani   # jacal techado de ¶zacate de maíz  
+ngutʼe̱i:ngutʼe̱i   # casa de pasto  
+nguxju̱:nguxju̱   # hormiguero  
+nguxu̱ʼta:nguxu̱ʼta   # casa de penca de ¶maguey  
+nguʼta:nguʼta   # casa techada de penca de ¶maguey  
+ngu̱dmi:ngu̱dmi   # cuatro reales (moneda ¶antigua equivalente a cincuenta centavos 
+ngu̱hme:ngu̱hme   # molenderas ¶(encargadas de hacer tortillas 
+ngu̱huä:ngu̱huä   # pescador, pesquero ¶ 
+ngu̱ki:ngu̱ki   # acarreador  
+ngu̱stai:ngu̱stai   # recolector de impuestos ¶del mercado  
+ngu̱tsʼi:ngu̱tsʼi   # colector autorizado; ¶actividad de recolectar 
+ngu̱xbojä:ngu̱xbojä   # recolector de ¶dinero, cobrador de dinero  
+nhñu:nhñu   # tercero  
+nhñupa:nhñupa   # tercer día  
+nhñuʼki:nhñuʼki   # tercera vez  
+nhuebe:nhuebe   # jueves 
+nhue̱ti:nhue̱ti   # 1. resplandor, brillo ¶2. reflejo  
+nhue̱xkitho:nhue̱xkitho   # brillido (reg. 
+nhuistʼi:nhuistʼi   # s herrada (reg.¶del dueño en los animales mayores ¶2. adj chamuscado  
+nhuitsʼi:nhuitsʼi   # 1. acurrucada ¶2. cobijada  
+nhuixki:nhuixki   # 1. quemada ¶2. chamuscada  
+nidi:nidi   #  
+nidu:nidu   # infierno  
+nihi:nihi   # 1. velocidad, rapidez  
+nijä:nijä   # templo, iglesia  
+nimfeni:nimfeni   # inteligente  
+niñu:niñu   # niño (un insecto grande que ¶anda despacio 
+nisto:nisto   # listón (tira angosta de seda 
+nita:nita   # abuela  
+Nitsʼi:Nitsʼi   # … ni (nixi … nini … ni  
+njamädi:njamädi   # gracias, gratitud ¶ 
+njamfri:njamfri   # persona de confianza ¶ 
+njaui:njaui   # pariente abajo  
+njädri:njädri   # florero  
+njäfoxi:njäfoxi   # escopeta  
+njähni:njähni   # mezquino, verruga  
+njäʼmi:njäʼmi   # trampa de kä 
+njändo:njändo   # azotador de mezquite 
+Njäpde̱nthi:Njäpde̱nthi   #  
+njätsʼi:njätsʼi   # s trasplante, acción de ¶trasplantar [participio de kä́ts 
+njäxäzafri:njäxäzafri   # zacatera (reg.; en ¶donde se hacina zacate 
+njäxdutu:njäxdutu   # tendedero de ropa ¶(usando plantas, hilo, etc. 
+nje̱ya:nje̱ya   # año (con el número de años 
+njohni:njohni   # s ruido (del viento 
+njokdoʼyo:njokdoʼyo   # escobetilla de ¶limpiar comal hablar en secreto ¶ 
+njostʼi:njostʼi   # 1. masaje, fricción 
+njotʼajua:njotʼajua   # conejera  
+njotʼatsa:njotʼatsa   # s disimulo, ¶fingimiento (apariencia de lo que no es la ¶verdad 
+njotʼtsʼu̱di:njotʼtsʼu̱di   # chiquero de ¶puerco 
+njotʼyu̱ga:njotʼyu̱ga   # ronquera  
+nju:nju   # hermana (mayor de hombreamargo  
+njuai:njuai   # s puñal, cuchillo grande ¶2. vi convertirse en puñal, convertirse en ¶cuchillo  
+njuando:njuando   # piedra filosa y ¶puntiaguda  
+njuatʼi:njuatʼi   # silla  
+njuäʼñu:njuäʼñu   # camino recto  
+njute:njute   # acción de expulsar  
+njutʼi:njutʼi   # pago, salario, recompensa ¶ 
+njui:njui   # tapón, tapadera correteada  
+njuxʼuthe:njuxʼuthe   # agua salada  
+nju̱mfo:nju̱mfo   # pájaro bobo  
+nju̱nbo̱jä:nju̱nbo̱jä   # tren ¶ 
+nju̱spi:nju̱spi   # incensario  
+nju̱stʼadehe:nju̱stʼadehe   # escurridera (del ¶techo 
+nju̱tʼutsʼi:nju̱tʼutsʼi   # contenedor de ¶incienso, incensario  
+nju̱thä:nju̱thä   # 1. buche ¶2. troje (lugar a donde se guarda el maíz 
+nju̱xi:nju̱xi   # nopal de cuixa (reg.¶de cuixo (la mata crece de 2 a 3 m. de altura ¶con pencas verde obscuro y espinas de 1 a 1.5 ¶cm.  
+nju̱xkähä:nju̱xkähä   # 1. nopal de cuixa 
+nju̱ʼtsi:nju̱ʼtsi   # 1. asa, asidero de algunas ¶cosas  
+nkamtʼo̱ho̱:nkamtʼo̱ho̱   # cerro ladeado ¶ 
+nkarga:nkarga   # 1. dinamita, explosivo ¶ 
+nkaza:nkaza   # palo ganchudo, vara ¶ganchuda  
+nkädri:nkädri   # florero (vasija 
+nkäfoxi:nkäfoxi   # escopeta  
+nke:nke   # señor, patrón  
+Nkeretaro:Nkeretaro   #  
+nkomañä:nkomañä   # aseo del cabello ¶ 
+nkomi:nkomi   # aseo (del pelo 
+nkoʼstʼe̱di:nkoʼstʼe̱di   # pespunte, punto ¶atrás (cierta clase de costura 
+nku̱bojä:nku̱bojä   # 1. alcancía ¶2. caja fuerte (donde se guarda el dinero 
+nku̱hi:nku̱hi   # sabor exquisito  
+nku̱hyadi:nku̱hyadi   #  
+nku̱hyatsʼi:nku̱hyatsʼi   # ventana ¶ 
+nku̱ntsʼi:nku̱ntsʼi   # cosquillas  
+nku̱stithä:nku̱stithä   # troje de maíz  
+nku̱tʼa:nku̱tʼa   # quinto, cinco  
+nku̱thä:nku̱thä   # buche de gallina (que ¶contiene maíz 
+nku̱xhyä:nku̱xhyä   # covacha, agujero ¶para escondite  
+nku̱ʼtsuäda:nku̱ʼtsuäda   # s mirada de ¶reojo ¶2. v rec levantarse la mirada (el uno al ¶otro 
+nkʼalo:nkʼalo   # desnudo 
+nkʼami:nkʼami   # boj (plantaforraje verde, verdura ¶ 
+nkʼashni:nkʼashni   # nixtamal mojado ¶ 
+nkʼatʼi:nkʼatʼi   # ansia, deseo  
+nkʼe:nkʼe   # pujido  
+nkʼe̱tʼi:nkʼe̱tʼi   # desecho (del jitomate, ¶tomate, higo 
+nkʼe̱tsuni:nkʼe̱tsuni   # 1. molino (de ¶nixtamal 
+nkʼinjua:nkʼinjua   # armadillo  
+nkʼohai:nkʼohai   # adobera  
+nkʼoʼmi:nkʼoʼmi   # 1. adobera  
+nkʼonmu̱i:nkʼonmu̱i   # retortijón del ¶estómago  
+nkʼoʼni:nkʼoʼni   # clueca (gallinas ¶persona que copia bordados  
+nkʼoto:nkʼoto   # 1. chapulín  
+nkʼoxji:nkʼoxji   # clueca  
+nkʼoxmu̱i:nkʼoxmu̱i   # retortijón de ¶estómago  
+nkʼuemda:nkʼuemda   # parpadeo ¶continuo  
+nkʼu̱ʼti:nkʼu̱ʼti   # deshila (costura en que ¶sacan hilos de una telapunzada (dolor agudo 
+nkʼu̱ʼtsaʼuada:nkʼu̱ʼtsaʼuada   # acción de ¶arrancar maguey  
+nogo:nogo   # s rabia  
+nojhmi:nojhmi   # persona con cara gorda ¶ 
+nonxi:nonxi   # lunes  
+norte:norte   #  
+noxado̱ni:noxado̱ni   # rosa (mata y flor 
+noya:noya   # 1. palabra  
+no̱ngaʼñu:no̱ngaʼñu   # camino de curvas, ¶camino sinuoso  
+no̱nte:no̱nte   # s persona que critica, ¶criticón ¶2. s crítica ¶3. vti difamar (compl. indet. 
+no̱ntʼyu:no̱ntʼyu   # camino ondulado ¶ 
+no̱ntsʼñu:no̱ntsʼñu   # camino ondulado ¶ 
+nraso:nraso   # razón, noticia  
+Nrroma:Nrroma   #  
+nsa:nsa   # segada  
+nsabdo:nsabdo   # sábado 
+nsadi:nsadi   # ensayo  
+nsaha:nsaha   # 1. baño (acción de bañarse 
+nsahnäte:nsahnäte   # enseñanza  
+nsamänʼatsi:nsamänʼatsi   # huapango 
+nsaʼmi:nsaʼmi   # rasguño  
+nsani:nsani   # peine (de peinar y de tejer1. volar  
+nsati:nsati   # bañada, baño (con líquido o ¶con polvorascada, rascadura ¶ 
+nsaxki:nsaxki   # escobetilla  
+nsändaʼo̱ni:nsändaʼo̱ni   # granja (de ¶gallina 
+nsäntʼi:nsäntʼi   # desmonte (de la milpa 
+nsätʼi:nsätʼi   # quemada, quemadura  
+nseni:nseni   # trasculcada (reg. 
+nseñä:nseñä   # adelanto de dinero ¶nse̱he̱ s orgullo  
+nse̱ki:nse̱ki   # 1. permiso  
+nse̱pi:nse̱pi   # invitación  
+nse̱tʼi:nse̱tʼi   # pellizco  
+nsifi:nsifi   # 1. machigues (heces del agua ¶en que se humedecen las manos las molenderas ¶de maíz 
+nsihni:nsihni   # 1. rasgón  
+nsitsʼi:nsitsʼi   # colado (de techo o piso 
+nsogi:nsogi   # s abertura  
+nsohni:nsohni   # s rendija  
+nsokdehe:nsokdehe   # compuerta, ¶bitoque  
+nsoki:nsoki   # llave  
+nsokʼyu̱ga:nsokʼyu̱ga   # cosa que abre la ¶garganta  
+nsoxpa:nsoxpa   # bochorno, calentura 
+nso̱ge:nso̱ge   # lacra, rajadura  
+nsu:nsu   # s honor ¶2. s honra, castidad  
+nsudaʼthi:nsudaʼthi   # 1. enfermera  
+nsufadi:nsufadi   # alcaide  
+nsugosthi:nsugosthi   # portero  
+nsuhuähi:nsuhuähi   # milpero  
+nsunda:nsunda   # 1. hermosura  
+nsundämfri:nsundämfri   # vaquero ¶ 
+nsute:nsute   # guarda  
+nsuʼo̱ni:nsuʼo̱ni   # cuidador de gallinas ¶ 
+nsu̱katsʼi:nsu̱katsʼi   # cepillo dental  
+nsu̱kmanza:nsu̱kmanza   # plato lavado ¶ 
+nsu̱mboi:nsu̱mboi   # garrocha  
+nsu̱mʼntʼe̱di:nsu̱mʼntʼe̱di   # punto de ¶escapín (costura de dos vistas 
+nsu̱ni:nsu̱ni   # garrocha  
+nsu̱tʼamu̱i:nsu̱tʼamu̱i   # lavativa ¶ 
+nsu̱tʼi:nsu̱tʼi   # 1. lanza  
+nsu̱ʼye̱:nsu̱ʼye̱   # lavabo  
+nsu̱ʼti:nsu̱ʼti   # s inyección  
+ntai:ntai   # s plaza, tianguis  
+nteko:nteko   # pájaro carpintero 
+nte̱hni:nte̱hni   # golpe con la mano 
+nte̱mfo:nte̱mfo   # bolitas de estiércol 
+nti:nti   # s borrachera, ebriedad ¶2. vi emborracharse  
+ntihni:ntihni   # cosquilleo  
+ntiki:ntiki   # s patada  
+ntitsʼi:ntitsʼi   # base 
+ntixatraste:ntixatraste   # trastero  
+ntixfani:ntixfani   # ebriedad, borrachera 
+ntixmada:ntixmada   # embrocadero del ¶molcajete (lugar en que lo colocan boca abajo 
+ntixmohi:ntixmohi   # embrocadero de ¶platos, trastero  
+ntoʼmi:ntoʼmi   # s pisada (de guitarra 
+ntoʼtsi:ntoʼtsi   # represa 
+nto̱kandoʼyo:nto̱kandoʼyo   # coyuntura ¶ 
+nto̱ʼmi:nto̱ʼmi   # s el que espera  
+nto̱tsʼe:nto̱tsʼe   # s forcejeo  
+nto̱ʼtse:nto̱ʼtse   # s golpe  
+ntuki:ntuki   # cornada, embestida  
+ntuʼmi:ntuʼmi   # tunda ¶ntutä 
+ntutfani:ntutfani   # cargador (que le echa ¶la carga a las bestias 
+ntuti:ntuti   # s machetero, cargador embarrarse  
+ntutsʼi:ntutsʼi   # s arrebato  
+ntu̱hu̱:ntu̱hu̱   # s sopeo, sopeteo  
+ntu̱ni:ntu̱ni   # s explosión romper (compl. indet. 
+ntʼade̱spi:ntʼade̱spi   # pedida de brasas, ¶pedida de lumbre  
+ntʼagi:ntʼagi   # 1. sepulcro  
+ntʼai:ntʼai   # sacador (de líquido; utensilio 
+ntʼakhñuni:ntʼakhñuni   # sacador de ¶comida (como cuchara u otra cosa 
+ntʼaki:ntʼaki   # s porción (de comida o ¶bebida 
+ntʼaksei:ntʼaksei   # sacador de pulque 
+ntʼamxa:ntʼamxa   # 1. pedida de misa  
+ntʼaʼmi:ntʼaʼmi   # erosión (que ocasiona el ¶agua 
+ntʼani:ntʼani   # actividad de servir algo ¶1. pregunta  
+ntʼathe:ntʼathe   # s utensilio para sacar ¶agua (cubeta o pocillo, taza 
+ntʼatsahñuni:ntʼatsahñuni   # cuchara para ¶servir la comida  
+ntʼatsi:ntʼatsi   # cuchara  
+ntʼaxki:ntʼaxki   # 1. aseo, limpieza  
+ntʼaʼthä:ntʼaʼthä   # desvelada (privación de ¶dormir 
+ntʼägi:ntʼägi   # covacha  
+ntʼähi:ntʼähi   # abundancia de la vaina del ¶mezquite  
+ntʼäni:ntʼäni   # meneador (utensilio de ¶palo 
+ntʼästʼaju̱ni:ntʼästʼaju̱ni   # rastrillo de ¶afeitar  
+ntʼätʼi:ntʼätʼi   # poxol (reg.¶revoltijo (plato regionalpuntería  
+ntʼäxi:ntʼäxi   # 1. corte de pelo ganado caprino  
+ntʼäxʼyo:ntʼäxʼyo   # trasquilada  
+ntʼeʼbe̱hñä:ntʼeʼbe̱hñä   # polígamo  
+ntʼedi:ntʼedi   # 1. permiso  
+ntʼehya:ntʼehya   # salud, alegría 
+ntʼejäʼi:ntʼejäʼi   # polígamo, adúltero ¶ 
+ntʼekʼuamba:ntʼekʼuamba   # hecho ¶mentiroso  
+ntʼemei:ntʼemei   # 1. creencia ¶2. fe, confianza 
+ntʼendro:ntʼendro   # corrida de toros  
+ntʼeni:ntʼeni   # 1. juego  
+ntʼensfeni:ntʼensfeni   # 1. sospecha  
+ntʼentʼi:ntʼentʼi   # 1. empujón  
+ntʼenza:ntʼenza   # peón, peonza, trompo ¶(juguete de madera 
+ntʼeñä:ntʼeñä   # 1. peine  
+ntʼete:ntʼete   # brujería, hechicería  
+ntʼetsate:ntʼetsate   # conflicto (por ¶insinuación de otros 
+ntʼetsʼi:ntʼetsʼi   # s presunción, elogio  
+ntʼexansu:ntʼexansu   # presunción  
+ntʼexke:ntʼexke   # escobetilla, lechuguilla ¶(escobeta hecha de pencas del tronco de la ¶mata con puntas gruesas de la hebra 
+ntʼexmada:ntʼexmada   # embrocadero del ¶molcajete  
+ntʼe̱di:ntʼe̱di   # cosido 
+ntʼe̱i:ntʼe̱i   # yunta  
+ntʼe̱ndo:ntʼe̱ndo   # honda  
+ntʼe̱ngansu̱tʼi:ntʼe̱ngansu̱tʼi   # arco para ¶flechas  
+ntʼe̱ngua:ntʼe̱ngua   # zancadilla, el hacer ¶caer con el pie o la pierna  
+ntʼe̱ni:ntʼe̱ni   # manea medida  
+ntʼe̱ntsʼamäñʼu̱:ntʼe̱ntsʼamäñʼu̱   # persona ¶excomulgada  
+ntʼe̱ntsʼapa:ntʼe̱ntsʼapa   # felicitación 
+ntʼe̱ntsʼate:ntʼe̱ntsʼate   # blasfemia  
+ntʼe̱ntsʼi:ntʼe̱ntsʼi   # pilón, adehala, ¶alipego  
+ntʼe̱tbo̱jä:ntʼe̱tbo̱jä   # manejada de ¶vehículo  
+ntʼe̱te:ntʼe̱te   # venganza  
+ntʼe̱tʼi:ntʼe̱tʼi   # arreada  
+ntʼe̱thuí:ntʼe̱thuí   # rejada, quebrador (de ¶maguey 
+ntʼingadutu:ntʼingadutu   # 1. tendedero ¶de ropa  
+ntʼingamboʼni:ntʼingamboʼni   # 1. ¶pesebre  
+ntʼistʼi:ntʼistʼi   # rajada 
+ntʼistho:ntʼistho   # tronadera, ¶rechinamiento 
+ntʼite:ntʼite   # convite  
+ntʼixke:ntʼixke   # vejez  
+ntʼo:ntʼo   # 1. vaina  
+ntʼofo:ntʼofo   # casamiento por lo civil ¶s lápiz, lapicero, pluma ¶ 
+ntʼohni:ntʼohni   # 1. persignada, ¶persignación ¶2. escrito ¶3. algo con qué escribir  
+ntʼonte:ntʼonte   # persignada, santiguada ¶ 
+ntʼostʼä:ntʼostʼä   # actividad de cortar ¶nopales  
+ntʼotate:ntʼotate   # orientación  
+ntʼoti:ntʼoti   # enseñanza, orientación ¶ 
+ntʼotʼi:ntʼotʼi   # s toalla  
+ntʼotʼye̱:ntʼotʼye̱   # toalla para secar las ¶manos  
+ntʼotsʼi:ntʼotsʼi   # 1. tapanco, troje  
+ntʼoxbätsi:ntʼoxbätsi   # placenta del bebé ¶ 
+ntʼoxi:ntʼoxi   # s cena  
+ntʼoʼye̱:ntʼoʼye̱   # guantes  
+ntʼo̱de:ntʼo̱de   # 1. conocimiento  
+ntʼo̱ste:ntʼo̱ste   # oidor  
+ntʼo̱the:ntʼo̱the   # curación  
+ntʼo̱tsaʼuada:ntʼo̱tsaʼuada   # arrancado de ¶maguey  
+ntʼo̱tsʼe:ntʼo̱tsʼe   # despegada 1. oído  
+ntʼudi:ntʼudi   # 1. enseñanza  
+ntʼunthe:ntʼunthe   # riego  
+ntʼuspi:ntʼuspi   # fogón  
+ntʼutuate:ntʼutuate   # enseñanza ¶ 
+ntʼu̱da:ntʼu̱da   # ojos chicos  
+ntʼu̱fri:ntʼu̱fri   # caballo chico  
+ntʼu̱gu:ntʼu̱gu   # orejas chicas  
+ntʼu̱nte:ntʼu̱nte   # lastimada  
+ntʼu̱ti:ntʼu̱ti   # fertilizante, abono mal consejo  
+ntʼu̱tʼi:ntʼu̱tʼi   # plantación  
+ntʼu̱tsa:ntʼu̱tsa   # odio  
+ntʼu̱tsate:ntʼu̱tsate   # aborrecimiento, ¶odio, rencor  
+ntʼu̱xade̱thä:ntʼu̱xade̱thä   # troje de maíz ¶ 
+ntʼu̱xni:ntʼu̱xni   # cántaro chico  
+nthaki:nthaki   # bordo, atajadizo  
+nthamhai:nthamhai   # 1. compra de ¶terreno  
+nthantʼi:nthantʼi   # ahumazo (reg.; ¶curación 
+nthanthyä:nthanthyä   # careo, ¶enfrentamiento  
+nthate:nthate   # engaño  
+nthähi:nthähi   # mecate barbiquejo 
+nthähiʼme:nthähiʼme   # mecate de tejer ¶ 
+nthähmi:nthähmi   # s piedra de tallar ¶(para lavar el cuerpo 
+nthämbadehe:nthämbadehe   # arrebato ¶de agua  
+nthämfeni:nthämfeni   # cálculo, ¶aproximación  
+nthäʼmi:nthäʼmi   # molde 
+nthäntʼañʼi:nthäntʼañʼi   # 1. salsa ¶2. molida del chile  
+nthäntʼi:nthäntʼi   # tejolote, mano del ¶molcajete  
+nthäspi:nthäspi   # traída de lumbre  
+nthäthä:nthäthä   # 1. desgranadora 
+nthätsʼi:nthätsʼi   # 1. llevada ¶2. transporte  
+nthege:nthege   # desgaste separación  
+nthegi:nthegi   # acción de ahondar 
+nthekate:nthekate   # misericordia, ¶compasión, piedad  
+ntheki:ntheki   # cosa agujerada, cosa ¶perforada [participio de hueki] ¶compadecido ¶2. s misericordia, compasión  
+nthendi:nthendi   # 1. delirio  
+ntheni:ntheni   # distribución acarrida  
+nthese̱:nthese̱   #  
+nthestʼi:nthestʼi   # berbinquín (reg. 
+nthetʼi:nthetʼi   # 1. procesión [pasiva de het 
+nthetsʼe:nthetsʼe   # estornudo  
+nthetsʼi:nthetsʼi   # 1. alrededor  
+ntheʼtahe̱ʼmi:ntheʼtahe̱ʼmi   # lectura ¶ 
+ntheʼti:ntheʼti   # apagador  
+ntheʼtsi:ntheʼtsi   # 1. barreno de he1. altura ¶2. acrecentada 
+nthe̱kansaha:nthe̱kansaha   # natación ¶ 
+nthe̱kʼbede:nthe̱kʼbede   # 1. parábola  
+nthe̱ni:nthe̱ni   # cortada  
+nthe̱ti:nthe̱ti   # correteada leña (para encender un ¶fuego 
+nthe̱tʼi:nthe̱tʼi   # raya, sueldo, pago, ¶salario  
+nthe̱tsʼi:nthe̱tsʼi   # segada  
+nthe̱xfri:nthe̱xfri   # 1. tenería  
+nthe̱xi:nthe̱xi   # talla  
+nthihni:nthihni   # 1. inflamación (reg.intestinal [ 
+nthistʼi:nthistʼi   # 1. herrada (reg.¶con hierro caliente que se le pone a los ¶animales grandes  
+nthisthi:nthisthi   # calzador 
+nthiʼti:nthiʼti   # 1. aventador  
+ntho:ntho   # trueno, tronada  
+nthokmänxa:nthokmänxa   # tronchadero 
+nthokthä:nthokthä   # pizcador, 
+nthontʼi:nthontʼi   # s paliza  
+nthote:nthote   # homicidio  
+nthotʼi:nthotʼi   # pólvora 
+nthoʼti:nthoʼti   # caricia de to 
+ntho̱de̱nda:ntho̱de̱nda   # construccón de ¶tiendas  
+ntho̱jäʼtsi:ntho̱jäʼtsi   # construcción de ¶chozas  
+ntho̱kdedo:ntho̱kdedo   # nudillos de los ¶dedos  
+ntho̱ʼmäte:ntho̱ʼmäte   # 1. lugar donde se ¶espía ¶2. esperanza  
+ntho̱sthai:ntho̱sthai   # calumnia, ¶acusación falsa  
+ntho̱thyä:ntho̱thyä   # regaño ¶ 
+ntho̱tsdehe:ntho̱tsdehe   # represa (que ¶detiene la corriente del agua 
+ntho̱xango̱:ntho̱xango̱   # 1. olla para cocer ¶carne ¶1. preparación del nixtamal  
+ntho̱xju̱:ntho̱xju̱   # 1. cocida de frijoles  
+ntho̱xni:ntho̱xni   # s revolución  
+ntho̱ʼthyä:ntho̱ʼthyä   # regaño  
+nthubo̱jä:nthubo̱jä   # esmeril (para afilar ¶metal 
+nthuhñä:nthuhñä   # almohada ¶ 
+nthukdoʼyo:nthukdoʼyo   # escobetilla de ¶limpiar comal  
+nthuki:nthuki   # 1. compra (al mayoreos limpia (para curar 
+nthumi:nthumi   # atascadero  
+nthumu̱i:nthumu̱i   # 1. consolación ¶2. tranquilidad, sosiego  
+nthuntʼyo:nthuntʼyo   # escobetilla para ¶limpiar comal  
+nthutsʼi:nthutsʼi   # montura, silla 
+nthuʼtañäxu:nthuʼtañäxu   # listón, ¶cordón, cinta para atar el cabello ¶ 
+nthu̱fi:nthu̱fi   # abrazo  
+nthu̱hu̱:nthu̱hu̱   # sopeteo  
+nthu̱ki:nthu̱ki   # corte  
+nthu̱mʼyoni:nthu̱mʼyoni   # barboquejo 
+nthu̱stʼi:nthu̱stʼi   # chiflido de ¶luminarias ¶ ¶nthu̱t 
+nthu̱tʼi:nthu̱tʼi   # manteca  
+nthu̱xni:nthu̱xni   # s gorgoteo ¶2. vi gorgotear  
+nthu̱ʼtsi:nthu̱ʼtsi   # 1. acción de lazar ¶2. lazada ¶3. mangana  
+ntsaya:ntsaya   # hospitalidad  
+ntsätʼi:ntsätʼi   # s quemada  
+ntse̱ki:ntse̱ki   # machetazo, hachazo 
+ntse̱tuate:ntse̱tuate   # conformidad, ¶apoyo, tolerancia  
+ntsitbinu:ntsitbinu   # recipiente para licor ¶ 
+ntso:ntso   # s caída  
+ntsotsʼi:ntsotsʼi   # s condimento  
+ntso̱hui:ntso̱hui   # algo que le queda ¶ 
+ntsu:ntsu   # s miedo  
+ntsu̱ʼtsi:ntsu̱ʼtsi   # s beso  
+ntsʼangi:ntsʼangi   # s verguenza encoger  
+ntsʼani:ntsʼani   # aguacatal  
+ntsʼante:ntsʼante   # maldición  
+ntsʼate:ntsʼate   # mordida  
+ntsʼati:ntsʼati   # 1. golpe (del martillo de la ¶pistolafreno de caballo  
+ntsʼaua:ntsʼaua   # pie chueco  
+ntsʼä:ntsʼä   # s punta ¶2. adj puntiagudo 
+ntsʼägu:ntsʼägu   # orejas paradas, orejas ¶puntiagudas  
+ntsʼänza:ntsʼänza   # palo puntiagudo ¶ 
+ntsʼätʼui:ntsʼätʼui   # pala chica y ¶puntiaguda  
+ntsʼe̱ki:ntsʼe̱ki   # 1. machetazo, herida con ¶filo de machete  
+ntsʼe̱ni:ntsʼe̱ni   # cortada  
+ntsʼi:ntsʼi   # chillido ¶ntscarrizo delgado y resistente 
+ntsʼigu:ntsʼigu   # orejas chicas (ganado ¶menor 
+ntsʼimfi:ntsʼimfi   # carpintero (pájaro 
+ntsʼiʼmi:ntsʼiʼmi   # s apretura  
+ntsʼise̱he̱:ntsʼise̱he̱   # persona de voz ¶delgada 
+ntsʼiti:ntsʼiti   # acción de abrevar  
+Ntsʼitheʼo̱ni:Ntsʼitheʼo̱ni   #  
+ntsʼitsi:ntsʼitsi   # 1. esclavitud  
+ntsʼohme:ntsʼohme   # tlacualeo (reg.de dejar la comida  
+ntsʼoʼmu̱i:ntsʼoʼmu̱i   # maldad ¶ ¶255 ¶ ¶ 
+ntsʼoʼyo:ntsʼoʼyo   # guzguería (glotoneríadesobediencia 
+ntsʼo̱ge:ntsʼo̱ge   # encendedor, chispero 
+ntsʼu̱di:ntsʼu̱di   # suciedad 
+ntsʼu̱i:ntsʼu̱i   # regañada, regaño  
+ntsʼu̱ngu:ntsʼu̱ngu   # arete  
+ntsʼu̱ni:ntsʼu̱ni   # 1. cuna  
+ntsʼu̱te:ntsʼu̱te   # regañada 
+ntsʼu̱ti:ntsʼu̱ti   # cuero, piel  
+numfeni:numfeni   # orientación ¶nupa ra mfeni anima a otro ¶ ¶257 ¶ ¶ 
+numxa:numxa   # s asistente a la misa ¶ 
+nungo:nungo   # s fiestero  
+nunju̱:nunju̱   # arverja  
+nxanthe:nxanthe   # sudor sudar  
+nxatsʼi:nxatsʼi   # segada, corte de plantas ¶ 
+nxägu:nxägu   # sordera 
+nxähi:nxähi   # s comezón  
+nxängri:nxängri   # mayate  
+nxäñä:nxäñä   # zopilote  
+nxäpta:nxäpta   # zopilote  
+nxemähe:nxemähe   # excavador de fosas 
+nxemhñä:nxemhñä   # excavador de fosas 
+nxeni:nxeni   # trasculcón (reg.¶ 
+nxentʼagi:nxentʼagi   # excavador de fosas 
+nxe̱ndo:nxe̱ndo   # 1. piedra que se ¶desmorona  
+nxe̱ne:nxe̱ne   # amante del esposo, ¶combleza  
+nximbi:nximbi   # macollo; retoño de la ¶mata de maíz  
+nximbo:nximbo   # penca del corazón del ¶maguey 
+nxinde:nxinde   # frente ancha 
+nxingua:nxingua   # pie ancho (planta del ¶pie 
+nxinguanxätʼä:nxinguanxätʼä   #  
+nxinjuai:nxinjuai   # cuchillo ancho  
+nxokʼyu̱ga:nxokʼyu̱ga   # garganta ¶despejada  
+nxo̱ndo:nxo̱ndo   # 1. piedra que ¶fácilmente se abre  
+nxo̱ʼtshme:nxo̱ʼtshme   # hollejo de tortilla ¶ 
+nxu:nxu   # hembra  
+nxufri:nxufri   # yegua  
+nxumfo̱:nxumfo̱   # s señora, dama  
+nxumxi:nxumxi   # gata  
+nxuʼni:nxuʼni   # gallina  
+nxuptsʼu̱di:nxuptsʼu̱di   # puerca  
+nxutsi:nxutsi   # niña, muchacha ser jovencita  
+nxuʼyo:nxuʼyo   # perra  
+nxu̱katsʼi:nxu̱katsʼi   # cepillo dental  
+nxu̱ni:nxu̱ni   # 1. águila  
+nzabi:nzabi   # 1. cansancio  
+nzafi:nzafi   # 1. cohete  
+nzaki:nzaki   # 1. salud nzaki rá mu̱i es desconsiderado (lit.: ¶es fuerte su corazón 
+nzathu:nzathu   # guzgo (reg.¶comilón, glotón  
+nzaya:nzaya   # 1. juez (auxiliar1. ser juez  
+nzänä:nzänä   # mes (con el número de ¶meses1. ortiga  
+nzänfani:nzänfani   # 1. amansador de ¶caballo  
+nzäñä:nzäñä   # altivo, terco  
+nzätʼaʼba:nzätʼaʼba   # 1. leche 
+nzätʼi:nzätʼi   # 1. quemada (herida 
+nze̱di:nze̱di   # itacate (provisiones para ir de ¶viaje 
+nze̱ngua:nze̱ngua   # saludo ¶ 
+nziki:nziki   # grasa  
+nzimxudi:nzimxudi   # s almuerzo  
+nziʼme:nziʼme   # algo carcomido  
+nzimʼye:nzimʼye   # llovizna penetrante ¶ 
+nzintsʼähni:nzintsʼähni   # persona que ¶trajo la persona citada por la autoridad ¶ 
+nzipate:nzipate   # 1. alcahuete  
+nzistemä:nzistemä   # persona necia 
+nzitʼandähi:nzitʼandähi   # huevo chupado ¶ 
+nzoi:nzoi   # fermentación  
+nzomxudi:nzomxudi   # lugar sombreado ¶ 
+nzothe:nzothe   # 1. ahogado  
+nzotsʼi:nzotsʼi   # nube en el ojo, catarata ¶ 
+nzo̱:nzo̱   # 1. calentura  
+nzo̱ho̱:nzo̱ho̱   # 1. forastero  
+nzo̱mu̱i:nzo̱mu̱i   # ardor de estómago ¶ 
+nzo̱tmu̱i:nzo̱tmu̱i   # 1. disgusto, coraje ¶ 
+nzo̱the:nzo̱the   # creciente de aguas, ¶corrientes de aguas ocasionales  
+nzuthe:nzuthe   # temor al agua  
+nzu̱:nzu̱   # la que amamanta  
+nzu̱ʼbe̱hñä:nzu̱ʼbe̱hñä   # mujer que ¶amamanta  
+nzu̱di:nzu̱di   # 1. lugar con laderas  
+nzu̱juai:nzu̱juai   # ajolote (tipo de lagartija ¶prieta y chica 
+nzu̱ki:nzu̱ki   # descargador (peón 
+nzu̱mu̱i:nzu̱mu̱i   # barrigón, panzón  
+nzu̱nde:nzu̱nde   # fleco  
+nzu̱ndu:nzu̱ndu   # toque de campana por ¶muerto, doblar de campana por muerto  
+nzu̱ngu:nzu̱ngu   # persona humilde ¶nzu̱ni [ 
+nzu̱ni:nzu̱ni   # s sonido  
+nzu̱ntʼatʼe̱gi:nzu̱ntʼatʼe̱gi   # campanero ¶ 
+nzu̱ntʼe̱gi:nzu̱ntʼe̱gi   # repique de ¶campana sonido, repiquetero 
+nzu̱nza:nzu̱nza   # colgadero de madera ¶(donde cuelgan cosas comestibles para que no ¶estén al alcance del perro o del gato 
+nzu̱pa:nzu̱pa   # 1. mono, chango, ¶chimpancé  
+nzu̱tbi:nzu̱tbi   # policía del juez, topil  
+nzu̱tʼi:nzu̱tʼi   # bruja  
+nzu̱ʼyo:nzu̱ʼyo   # perra que amamanta  
+nzyolo:nzyolo   # gusano del elote adj uno cuantos ambos, ¶los dos, tanto el uno como el otro  
+ʼnangu:ʼnangu   # vecino  
+ʼnaʼtsi:ʼnaʼtsi   # brinco, zangoloteo  
+ʼne̱tʼamäku̱tʼa:ʼne̱tʼamäku̱tʼa   # quincena ¶ 
+ʼnohni:ʼnohni   # golpeteo 
+ʼnoki:ʼnoki   # coscorrón  
+ʼno̱ʼmi:ʼno̱ʼmi   # alfiler  
+ʼno̱ndo:ʼno̱ndo   # burro, asno  
+ʼno̱tse:ʼno̱tse   # 1. puntal, atracadero  
+ñastʼi:ñastʼi   # s resbalón  
+ñaxki:ñaxki   # 1. la que aborta  
+ñäʼba:ñäʼba   # pezón  
+ñädithä:ñädithä   # cabeza del maíz  
+ñähmu:ñähmu   # rodilla  
+ñähñu:ñähñu   # persona de habla otomí ¶hablar otomí  
+ñäkankʼoʼni:ñäkankʼoʼni   # habla a clueca ¶ 
+ñämo:ñämo   # 1. yema (la parte blandita de ¶la punta de los dedos 
+ñäʼmfi:ñäʼmfi   # tronco, mezote, piña de ¶maguey ya raspado  
+ñäni:ñäni   # 1. orilla aliviarse 1. defender torrecilla del ¶templo, remate del templo  
+ñänte:ñänte   # 1. abogado  
+ñänthe:ñänthe   # ribera cima de un cerro, ¶cumbre  
+ñäʼni:ñäʼni   # 1. cabeza de gallina  
+ñäsni:ñäsni   # cabeza de nixtamal  
+ñästhi:ñästhi   # carrizo sazón  
+ñäte:ñäte   # acusador ¶ñäte (ñä́te1. quejarse (ante alguien 
+ñäxʼba:ñäxʼba   # punta del pezón, punta ¶de la teta leche buena  
+ñäxjäʼi:ñäxjäʼi   # s persona madura, ¶persona sazón  
+ñäxu:ñäxu   # cabeza  
+ñäxujäʼi:ñäxujäʼi   # calavera humana ¶ 
+ñäxundoʼyo:ñäxundoʼyo   # calavera  
+ñäʼti:ñäʼti   # 1. promesa (ofrenda 
+ñäʼthi:ñäʼthi   # 1. mezquite crudo  
+ñenä:ñenä   # luna llena  
+ñodmi:ñodmi   # dos reales, veinticinco ¶centavos  
+ñogisei:ñogisei   # pulque fuerte  
+ñotʼi:ñotʼi   # s luz  
+ñoʼki:ñoʼki   # segunda vez  
+Ñoʼtho̱:Ñoʼtho̱   #  
+ñunde:ñunde   # cresta (de gallo o ¶guajolote 
+ñuntsʼi:ñuntsʼi   # s alboroto  
+ñu̱tsʼi:ñu̱tsʼi   # dolor de estómago (reg.de la matriz  
+ʼñade̱spi:ʼñade̱spi   # pedidor de brasas ¶ 
+ʼñafi:ʼñafi   # carpintero (pájaro 
+ʼñaspi:ʼñaspi   # el pedir lumbre  
+ʼñathe:ʼñathe   # nado  
+ʼñaxhai:ʼñaxhai   # el que avienta tierra ¶ 
+ʼñaxmu̱i:ʼñaxmu̱i   # náusea  
+ʼñä:ʼñä   # 1. crudo, verde (fruta y carne 
+ʼñäbätsi:ʼñäbätsi   # estéril (persona o ¶animal que no procrean 
+ʼñäʼba:ʼñäʼba   # leche cruda escasez de leche  
+ʼñädithä:ʼñädithä   # maíz crudo  
+ʼñäfädi:ʼñäfädi   # persona ignorante ¶ 
+ʼñägamfri:ʼñägamfri   # incrédulo  
+ʼñähme:ʼñähme   # escasez de tortilla ¶tortilla cruda  
+ʼñähuekʼei:ʼñähuekʼei   # persona ¶despiadada, persona cruel  
+ʼñäi:ʼñäi   # 1. zorrillo, mofeta  
+ʼñäjamädi:ʼñäjamädi   # mal agradecido ¶ 
+ʼñäjamfri:ʼñäjamfri   # falta de fe ¶ 
+ʼñäjähñä:ʼñäjähñä   # persona que no sabe ¶rezar  
+ʼñäju̱ni:ʼñäju̱ni   # hombre lampiño  
+ʼñämänxa:ʼñämänxa   # elote crudo  
+ʼñämäxa:ʼñämäxa   # escasez de elote ¶ 
+ʼñämdo:ʼñämdo   # huevo medio cocido ¶ 
+ʼñämfeni:ʼñämfeni   # loco, demente, ¶trastornado mentalmente  
+ʼñäntʼu̱:ʼñäntʼu̱   # broma chancear, bromear  
+ʼñänthekate:ʼñänthekate   # persona que le ¶falta compasión, persona que le falta ¶consideración  
+ʼñänthi:ʼñänthi   # 1. desgracia  
+ʼñäste:ʼñäste   # 1. tijeras ¶2. peluquero 
+ʼñätʼekʼei:ʼñätʼekʼei   # persona ¶irrespetuosa  
+ʼñäthe:ʼñäthe   # agua cruda escasez de agua  
+ʼñäxʼyo:ʼñäxʼyo   # trasquilador  
+ʼñäza:ʼñäza   # 1. escasez de leña chípil ( 
+ʼñäʼthi:ʼñäʼthi   # mezquite verde  
+ʼñeʼbe̱hñä:ʼñeʼbe̱hñä   # mujeriego  
+ʼñejäʼi:ʼñejäʼi   # hombre mujeriego, mujer ¶que tiene varios hombres  
+ʼñekʼei:ʼñekʼei   # persona respetuosa 
+ʼñekʼuamba:ʼñekʼuamba   # chismoso (que ¶levanta chismes 
+ʼñendro:ʼñendro   # torero  
+ʼñeni:ʼñeni   # jugador jugar  
+ʼñethi:ʼñethi   # 1. remedio planta para ¶curar el cáncer (lit.: medicina―cáncer 
+ʼñetsʼi:ʼñetsʼi   # s persona presumida ¶ 
+ʼñeʼtsate:ʼñeʼtsate   # persona que enciende ¶rencillas en la vecindad, persona intrigante ¶ 
+ʼñe̱bru:ʼñe̱bru   # tordo (pájaro 
+ʼñe̱i:ʼñe̱i   # 1. vómito  
+ʼñe̱mbaya:ʼñe̱mbaya   # s arrebato (por ¶envidia 
+ʼñe̱ni:ʼñe̱ni   # s medidor, geómetra 
+ʼñe̱ntsʼapa:ʼñe̱ntsʼapa   #  
+ʼñe̱ntsʼate:ʼñe̱ntsʼate   # palabra blasfema, ¶persona blasfema 
+ʼñe̱tʼi:ʼñe̱tʼi   # s arreador  
+ñʼi:ñʼi   # s chile  
+ñʼikʼni:ñʼikʼni   # quelite picoso, ¶hediondilla  
+ʼñista:ʼñista   # ojos azules  
+ñʼitʼo:ñʼitʼo   # chile piquín  
+ñʼiza:ñʼiza   # chilecuao (reg.de una ¶planta ¶ 
+ʼñofri:ʼñofri   # arriero  
+ʼñogospi:ʼñogospi   # fogonero  
+ʼñoi:ʼñoi   # ratón  
+ʼñotʼi:ʼñotʼi   # cosa seca  
+ʼñoui:ʼñoui   # s compañero  
+ʼño̱ho̱:ʼño̱ho̱   # hombre  
+ʼño̱ste:ʼño̱ste   # 1. espía secreto  
+ʼñu:ʼñu   # 1. camino, carretera  
+ʼñudehe:ʼñudehe   # camino hacia el agua, ¶camino del agua  
+ʼñudo:ʼñudo   # calle empedrada, camino ¶empedrado  
+ʼñuji:ʼñuji   # 1. vena (de sangre 
+ʼñujua:ʼñujua   # camino de conejo  
+ʼñumñʼo:ʼñumñʼo   # camino de coyote  
+ʼñunthe:ʼñunthe   # s regador  
+ʼñunthi:ʼñunthi   # camino de hilar mecate ¶ 
+ʼñuspi:ʼñuspi   # 1. persona que hace ¶lumbre  
+ʼñustʼä:ʼñustʼä   # hilera de matas de nopal ¶ 
+ʼñustha:ʼñustha   # 1. espina dorsal  
+ʼñutate:ʼñutate   # profesor ¶ 
+ʼñuthe:ʼñuthe   # canal, zanja  
+ʼñuthyä:ʼñuthyä   # carbonero incensar (compl. ¶indet. 
+ʼñutsʼi:ʼñutsʼi   # s fermentación  
+ʼÑuxithi:ʼÑuxithi   # 1. vereda que pasa por ¶el  
+ʼñuza:ʼñuza   # 1. hilera de leña (cortada 
+ʼñuzafri:ʼñuzafri   # gavilla de zacate  
+ʼñuʼta:ʼñuʼta   # hilera de magueyes, línea 
+ʼñuʼthi:ʼñuʼthi   # hilera de mezquites  
+ñʼu̱gi:ñʼu̱gi   # dolor rencor, odio, resentimiento ¶ 
+ñʼu̱i:ñʼu̱i   # s empacador (personaplantarse, quedarse inmóvil ¶ 
+ñʼu̱ni:ñʼu̱ni   # s trabajo que cansa  
+obxi:obxi   # 1. viñedo, viña  
+odi:odi   # s parturienta  
+okxu:okxu   # fosa nasal  
+okza:okza   # 1. palo hueco (a alguien 
+ornu:ornu   # horno  
+ospi:ospi   # fogonero  
+otate:otate   # partera, partero  
+otitä:otitä   # jarilla  
+oxʼbeza:oxʼbeza   # pan grande 
+oʼsku:oʼsku   # agujero del oído  
+o̱näte:o̱näte   # s parto la muerte ¶ 
+pada:pada   # 1. zopilote  
+padi:padi   # s suelto, feria  
+padiʼmaxi:padiʼmaxi   # coyolito, ¶jaltomate  
+padithä:padithä   # casa de maicería ¶nixtamal recién ¶quitado del fuego  
+pafi:pafi   # s fastidioso  
+pagui:pagui   # niebla caliente  
+paha:paha   # paja (tallo del trigo, cebada o ¶de avena1. gusto tierra caliente  
+pahme:pahme   # tortilla caliente tortillería  
+pahni:pahni   # camisa  
+pahyadi:pahyadi   # sol caliente  
+pala:pala   # pala 
+pamngo̱:pamngo̱   # carnicería, expendio ¶de carne vender carne  
+pamʼi:pamʼi   # s puesto de chiles  
+pando:pando   # saltapared (pájaro 
+pangdehe:pangdehe   # agua tibia ¶huevo tibio  
+pantyo:pantyo   # 1. panteón ¶2. tumba 
+panthi:panthi   # viento solano (de febrero o ¶principios de marzovender lazos, vender ¶mecates  
+panxido:panxido   # viuda (pájaro 
+pañä:pañä   # día de hoy  
+pañʼi:pañʼi   # puesto de chiles  
+papa:papa   # papa  
+paretso̱:paretso̱   # par de estrellas  
+patfi:patfi   # aguamiel caliente  
+patju̱:patju̱   # frijol pataquín ¶ 
+patxu̱tha:patxu̱tha   # remolino de vellos ¶en la espalda  
+patʼadehe:patʼadehe   # remolino de agua ¶ 
+patʼsefi:patʼsefi   # abeja de panal guaricho ¶ 
+pathe:pathe   # 1. agua caliente  
+patsefi:patsefi   # panal guaricho  
+paxi:paxi   # basura barrer (compl. indet. 
+paya:paya   # hoy  
+payo:payo   # puesto de velas  
+päʼta:päʼta   # mosquito pequeño  
+päʼtada:päʼtada   # mosca pequeña  
+pehai:pehai   # 1. tierra chiclosa  
+peju̱ni:peju̱ni   # masa chiclosa  
+peloʼyu̱ga:peloʼyu̱ga   # pescuezo sin ¶plumas de la gallina  
+peʼmni:peʼmni   # cadillo, espina cardón ¶ 
+pene:pene   # 1. persona que come muy ¶lento (lit.: boca pegajosa 
+penzu̱:penzu̱   # alacrán  
+perehi:perehi   # perejil 
+pestʼo:pestʼo   # pestón (planta 
+petʼahai:petʼahai   # tierra pegajosa, tierra ¶chiclosa  
+petʼaju̱ni:petʼaju̱ni   # masa chiclosa, masa ¶pegajosa  
+petʼandäpo:petʼandäpo   # hierba pegajosa ¶ 
+peua:peua   # uno que camina muy ¶despacio  
+peʼye̱:peʼye̱   # 1. manos pegajosas ¶2. uno que trabaja despacio con las manos ¶ 
+pe̱fi:pe̱fi   # s herramienta  
+pe̱gu:pe̱gu   # oreja colgada  
+pe̱gufu̱i:pe̱gufu̱i   # sombrero gacho (del ¶ala 
+pe̱guʼyo:pe̱guʼyo   # 1. perro de oreja ¶colgada ¶2. ganado menor de oreja colgada  
+pe̱ngodo:pe̱ngodo   # mosca grande y ¶colorada 
+pe̱ni:pe̱ni   # durazno ¡ 
+pe̱nitsʼintsʼu̱:pe̱nitsʼintsʼu̱   #  
+pe̱ntʼo:pe̱ntʼo   # pestón (planta 
+pe̱tku:pe̱tku   # bofetada (golpe con la mano ¶abierta cerca de la oreja 
+pe̱txu:pe̱txu   # 1. nariz chata  
+pe̱xni:pe̱xni   # cántaro aplanado ¶cazar águilas  
+pe̱ʼtxo̱ni:pe̱ʼtxo̱ni   # cántaro aplanado 
+picho:picho   # pichón 
+pinthe:pinthe   # gárgola, salida del agua ¶(de los techos 
+pite:pite   # espantajo, dominguejo espantar (compl. indet. 
+pontʼantʼe̱di:pontʼantʼe̱di   # costura ¶cruzada, punto de cruz  
+pontʼaʼñu:pontʼaʼñu   # encrucijada, 
+pontʼi:pontʼi   # s cruz  
+ponza:ponza   # cruz de madera  
+ponzañʼethi:ponzañʼethi   # hierba de la ¶cruz  
+potrero:potrero   # tomate 
+potsakʼangi:potsakʼangi   # verde obscuro ¶ 
+poxʼuada:poxʼuada   # tronco de la penca ¶de maguey  
+pozu̱:pozu̱   # víbora de cascabel  
+po̱ho̱te:po̱ho̱te   # salvador  
+po̱ʼmhyatsʼi:po̱ʼmhyatsʼi   # vaso de cristal ¶ 
+po̱nju̱:po̱nju̱   # frijol ayocote sacar frijol  
+po̱sto:po̱sto   # 1. puesto, empleo  
+po̱the:po̱the   # manantial  
+po̱xandähi:po̱xandähi   # agujeros  
+po̱xhai:po̱xhai   # montón de tierra sacada ¶ 
+po̱xhyä:po̱xhyä   # agujero de escapatoria, ¶agujero de escondite  
+po̱ʼthi:po̱ʼthi   # goma de mezquite, ¶trementina de mezquite  
+primuko:primuko   # primo (político 
+puʼni:puʼni   # s sello  
+pu̱:pu̱   # correcaminos (pájaro 
+pu̱tambo:pu̱tambo   # pájaro carpintero ¶¡ 
+pu̱xjuai:pu̱xjuai   # lechuza  
+rabadebuey:rabadebuey   # sembrada a ¶rabo de buey 
+rasa:rasa   # raza  
+raya:raya   # sueldo  
+rehistro:rehistro   # registro, boleta de ¶nacimiento  
+rekua:rekua   # burro  
+relo:relo   # 1. reloj ¶2.  
+rui:rui   # ruin, avariento, mezquino  
+ʼrada:ʼrada   # ciego  
+ʼradänxu:ʼradänxu   # mujer única 
+ʼrafri:ʼrafri   # caballo único  
+ʼragi:ʼragi   # huidor huir  
+ʼrahme:ʼrahme   # comer tortilla sin ¶comida  
+ʼrame:ʼrame   # 1. viudo 
+ʼramʼo:ʼramʼo   # ciempiés, escolopendra ¶ 
+ʼranätʼähi:ʼranätʼähi   # mezquites ralos ¶ 
+ʼrani:ʼrani   # puente ralo 
+ʼrantʼo:ʼrantʼo   # rantó (arbusto 
+ʼranthe:ʼranthe   # persona con remolino, ¶persona con coronilla  
+ʼranxu:ʼranxu   # 1. soltera ¶2. viuda ¶1. ser mujer soltera  
+ʼranza:ʼranza   # puente provisional de ¶madera uno a cada uno ¶ 
+ʼranʼmai:ʼranʼmai   # 1. siembra que ¶germina salteada  
+ʼrañʼojäʼi:ʼrañʼojäʼi   # bondadoso, persona ¶buena  
+ʼraʼñu:ʼraʼñu   # vereda  
+ʼrato:ʼrato   # seis  
+ʼratomäpa:ʼratomäpa   # 1. día seis  
+ʼratʼu̱:ʼratʼu̱   # único hijo 1. pasar, cruzar, ¶atravesar  
+ʼraxe̱di:ʼraxe̱di   # persona con remolino, ¶persona con coronilla  
+ʼrede:ʼrede   # escalera  
+ʼrendo:ʼrendo   # 1. grada, escalón ¶ 
+ʼrihi:ʼrihi   # 1. diarrea, deposición  
+ʼroho:ʼroho   # 1. retoño, renuevo, ¶vástago  
+ʼrokʼa:ʼrokʼa   # 1. papa  
+ʼronjua:ʼronjua   # 1. ayate  
+ʼronzu:ʼronzu   # clavel (planta medicinal 
+ʼrothi:ʼrothi   # retoño de mezquite 1. manar  
+ʼro̱ge:ʼro̱ge   # burro, asno  
+ʼro̱spi:ʼro̱spi   # chocoyol, socoyol lezna (instrumento de ¶punta muy fina para agujerar 
+ʼro̱tsʼe:ʼro̱tsʼe   # horcón mora, zarzamora ¶costal  
+ʼro̱zänthähi:ʼro̱zänthähi   # costal de ixtle ¶torcido  
+ʼro̱zäxiʼyo:ʼro̱zäxiʼyo   # costal de lana ¶ 
+sabdo:sabdo   # sábado 
+sabo:sabo   # sabor  
+sadi:sadi   # 1. rezo  
+sagi:sagi   # brinco brincar, saltar  
+saha:saha   # 1. uña ¶2. garra  
+salado:salado   # 1. malgastador  
+samänʼatsi:samänʼatsi   # huapango (baile 
+samu̱i:samu̱i   #  
+saʼmhye:saʼmhye   # zanjón (en donde ¶escarba el agua cuando llueve 
+sani:sani   # peine (de carrizo de tejer o para ¶peinar el cabello 
+sankudu:sankudu   # zancudo, mosquito ¶ 
+sanoria:sanoria   # zanahoria (mata y raíz 
+santo:santo   # gracia, nombre ¶santo domingo (sánto dómíngo¶santo domingo  
+santhe:santhe   # 1. ixtle de maguey, fibra ¶de maguey extraído ¶(de la punta de la penca del maguey tierno 
+sastme:sastme   # ciempiés, escolopendra ¶áspero 
+säki:säki   # 1. conocimiento  
+säsi:säsi   # 1. grano, sarpullido  
+säʼye:säʼye   # puente  
+sefi:sefi   # 1. panal (de abeja silvestre 
+sei:sei   # pulque s pulque dulce ¶xäsei s pulque apestoso ¶xisei s fabricante de pulque ¶zisei s persona muy afecta al pulque 
+sekjä:sekjä   # pulque curado de tuna  
+sepe:sepe   # biznaga grande  
+sera:sera   # 1. cera  
+sethu:sethu   # avispa  
+se̱hme:se̱hme   # tortilla despedazada ¶ 
+se̱thme:se̱thme   # 1. tortilla remojada con ¶cualquier caldo de comida  
+sifi:sifi   # machigües (reg.que se ¶mezcla en el agua al enjuagarse las manos la ¶molendera ¡ 
+sinäzafri:sinäzafri   # hacina de zacate ¶ 
+sistehe:sistehe   # bautismo  
+sitsʼi:sitsʼi   # bimbalete, cigoñal  
+siʼtsi:siʼtsi   # ahijado, ahijada ¶ 
+skuela:skuela   # escuela  
+so:so   # son (música 
+Sofo:Sofo   # cosecha  
+sokdehe:sokdehe   # compuerta, bitoque ¶ 
+soldado:soldado   # soldado  
+sotsʼi:sotsʼi   # destapada del maíz  
+so̱hni:so̱hni   # consuegro, consuegra  
+so̱kambeni:so̱kambeni   # 1. adoración ¶ 
+so̱kaza:so̱kaza   # 1. corte de leña ¶2. raja de palos ¶3. leña rajada  
+so̱ni:so̱ni   # prisa, apuración  
+so̱tʼe:so̱tʼe   # 1. tercio  
+so̱ʼtaza:so̱ʼtaza   # 1. corte de leña  
+stä:stä   # 1. cabello  
+sudaʼthi:sudaʼthi   # enfermera ¶ 
+sufadi:sufadi   # alcaide  
+suhuähi:suhuähi   # milpero  
+suni:suni   # nixtamal  
+su̱:su̱   # 1. corte de leña  
+su̱ʼmänenthe:su̱ʼmänenthe   # martín 
+su̱za:su̱za   # cortada de leña  
+ta:ta   # 1. macho (animal 
+taba:taba   # astrágalo, taba  
+tafri:tafri   # caballo macho  
+tai:tai   # s tianguis, plaza, mercado ¶ 
+tajä:tajä   # padrino  
+takakʼani:takakʼani   # quelite cenizo  
+tamxi:tamxi   # gato, macho de la gata ¶ 
+tangra:tangra   # araña zancuda  
+tanthe:tanthe   # cascada comprar agua  
+taʼni:taʼni   # guajolote, pavo  
+tanʼmatha:tanʼmatha   # cardón pequeño y ¶espinudo  
+taʼnxi:taʼnxi   # chivo, cabrío  
+tata:tata   # semental  
+taxʼo:taxʼo   # 1. rebaño, hato, hatajo ¶ 
+taʼye̱:taʼye̱   # persona descuidada  
+taʼye̱mu:taʼye̱mu   # calabacillo 
+taze̱gu:taze̱gu   # tazegu  
+tädo:tädo   # piedra áspera; piedra de ¶restregar  
+täktʼähä:täktʼähä   # persona que se da ¶vueltas al dormir  
+tänängunzabo̱jä:tänängunzabo̱jä   # tren ¶ 
+tede:tede   # s el que se cría  
+teko:teko   # pájaro carpintero  
+testigo:testigo   # testigo ¶ 
+teʼhñä:teʼhñä   # zenzontle (ave 
+te̱nängunzabo̱jä:te̱nängunzabo̱jä   # tren 
+te̱ngodo:te̱ngodo   # mosca grande y ¶colorada (que, cuando se le tiran piedras, las ¶persigue 
+tiaho̱me:tiaho̱me   # tía y madrastra (al ¶mismo tiempo 
+tiato:tiato   # hermana de la suegra  
+tihñä:tihñä   # zoyate (palma(tǐhñävi sofocarse  
+tiñä:tiñä   # 1. pecho  
+tiosko:tiosko   # kiosko 
+tita:tita   # abuelo  
+tithä:tithä   #  
+tixfani:tixfani   # s borracho, ebrio  
+tixmada:tixmada   # 1. tipo de escarabajo ¶( 
+tixmanza:tixmanza   # trastero  
+tiya:tiya   # 1. tía ¶2. anciana  
+tiyo:tiyo   # 1. tío  
+tiyoho̱ta:tiyoho̱ta   # padrastro y tío (al ¶mismo tiempo 
+tiyoko:tiyoko   # cuñado y tío  
+tiyondo̱hñä:tiyondo̱hñä   # hermano del ¶suegro  
+tizi:tizi   # tuberculosis  
+to:to   # suegra  
+tonthe:tonthe   # surco corto  
+tontsʼi:tontsʼi   # s brincadero, ¶trastumbadero 1. trastumbar, traspasar ¶ 
+topo:topo   # topo (reg.: una medida de ¶aguardiente, la capacidad del envase de una ¶ 
+to̱fri:to̱fri   # jinete  
+to̱kandoʼyo:to̱kandoʼyo   # 1. coyuntura ¶2.  
+to̱kbo̱jä:to̱kbo̱jä   # cadena ¶ 
+to̱kxo̱ni:to̱kxo̱ni   # comején  
+to̱ngu:to̱ngu   # casa de dos plantas, casa ¶de dos pisos trepar ¶to̱tue (to̱ tuepegar (juntar con algo ¶pegajoso 
+to̱ua:to̱ua   # con base en el fondo ¶to̱uacanasta con base ¶en el fondo 
+trasista:trasista   # persona bromista, ¶persona chistosa  
+tren:tren   # cardador, milpiés (gusano 
+troha:troha   # troje 
+trompo:trompo   # trompo, peón, peonza ¶ 
+tuhni:tuhni   # s pleito  
+tukaza:tukaza   # el que compra leña o ¶árboles s piedra blanda  
+tukmänxa:tukmänxa   # elote tierno  
+tukru:tukru   # tecolote, búho  
+tule:tule   # tule  
+tuʼmhai:tuʼmhai   # tierra suave, tierra ¶blandita  
+tuʼnzä:tuʼnzä   # costal blandito, suavecito ¶ 
+tuʼhme:tuʼhme   # tortilla blandita  
+tuʼti:tuʼti   # s manojo (p.ej.: trigo, alfalfa, ¶cebolla(de zacatevt atar, amarrar  
+tu̱:tu̱   # señor  
+tu̱ʼbi:tu̱ʼbi   # meón  
+tu̱di:tu̱di   # ocote, piñón 
+tu̱i:tu̱i   # poco  
+tu̱käkʼani:tu̱käkʼani   # quelite tierno ¶ 
+tu̱mu̱:tu̱mu̱   # mariposa  
+tu̱mxi:tu̱mxi   # gato montés  
+tu̱ntmu̱i:tu̱ntmu̱i   # tintimui (planta ¶medicinal 
+tu̱nthe:tu̱nthe   # bramido del mar  
+tʼabi:tʼabi   # 1. arado, coa  
+tʼadi:tʼadi   # s petición  
+tʼafi:tʼafi   # raspador 1. aguamiel ¶2. azúcar ¶t 
+tʼafisei:tʼafisei   # pulque dulce  
+tʼasda:tʼasda   # 1. ojo blanco  
+tʼasde:tʼasde   # frente blanca, mancha ¶blanca en la frente  
+tʼasdehe:tʼasdehe   # 1. agua limpia ¶2. agua potable  
+tʼasde̱thä:tʼasde̱thä   # maíz blanco ¶ 
+tʼasdo̱ni:tʼasdo̱ni   # flor blanca  
+tʼaxäʼñoi:tʼaxäʼñoi   # rata tlachiquera (rata ¶de panza blanca, comestible 
+tʼaxbojä:tʼaxbojä   # moneda de plata ¶ 
+tʼaxʼba:tʼaxʼba   # savia blanca  
+tʼaxʼbindri:tʼaxʼbindri   # chicalote (de flor ¶blanca 
+tʼaxgui:tʼaxgui   # nube blanca 1. tierra blanca ¶ 
+tʼaxi:tʼaxi   # 1. blanco  
+tʼaxjäʼi:tʼaxjäʼi   # persona blanca, persona ¶de sangre blanca  
+tʼaxju̱:tʼaxju̱   # frijol blanco tuna ¶blanca  
+tʼaxkʼani:tʼaxkʼani   # quelite cenizo  
+tʼaxmaʼraʼyo:tʼaxmaʼraʼyo   #  
+tʼaxmuza:tʼaxmuza   # 1. zapote blanco 
+tʼaxʼuada:tʼaxʼuada   # maguey cenizo  
+tʼaxʼyo:tʼaxʼyo   # chivo blanco  
+tʼaxʼixi:tʼaxʼixi   # durazno blanco  
+tʼaxʼo̱ni:tʼaxʼo̱ni   # gallina blanca  
+tʼähä:tʼähä   # 1. sueño dormilón (insecto 
+tʼähi:tʼähi   # 1. mezquite (árbol 
+tʼäste:tʼäste   # tijera  
+tʼäxi:tʼäxi   # 1. cabra (hembra del cabrío o ¶del chivo 
+tʼehi:tʼehi   # esquites, maíz tostado  
+tʼei:tʼei   # atole  
+tʼeke:tʼeke   # 1. carda  
+tʼekʼei:tʼekʼei   # 1. respeto  
+tʼestʼatsʼi:tʼestʼatsʼi   # cepillo dental  
+tʼexansu:tʼexansu   # presunción  
+tʼeʼto:tʼeʼto   # piedra de amolar, piedra de ¶afilar  
+tʼeʼtse:tʼeʼtse   # rascada  
+tʼe̱di:tʼe̱di   # costura  
+tʼe̱gi:tʼe̱gi   # 1. regalo s campana  
+tʼe̱huä:tʼe̱huä   # pescado en tamal  
+tʼe̱i:tʼe̱i   # 1. pasto (hierba que comen los ¶animales 
+tʼe̱ni:tʼe̱ni   # s dimensión  
+tʼe̱nza:tʼe̱nza   # vara de medir, metro ¶hecho de madera  
+tʼe̱thuí:tʼe̱thuí   # 1. acción de quebrar ¶maguey  
+tʼe̱xu̱:tʼe̱xu̱   # hoz  
+tʼi:tʼi   # sueño tronar  
+tʼingamboʼni:tʼingamboʼni   # pesebre ¶ 
+tʼite:tʼite   # acción de dar de comer, ¶tlacualear  
+tʼiʼue:tʼiʼue   # rana  
+tʼixaha:tʼixaha   # gavilucho  
+tʼixke:tʼixke   # anciana 
+tʼixu:tʼixu   # hija  
+tʼo:tʼo   # piojo  
+tʼohai:tʼohai   # piojo de tierra (gusano de ¶como de un centímetro, de color medio negro; ¶hay otro como un punto y de color anaranjado, ¶de movimiento rápido 
+tʼoʼni:tʼoʼni   # piojo de gallina  
+tʼosistehe:tʼosistehe   # boleta de bautismo ¶ 
+tʼostʼä:tʼostʼä   # corte de nopales  
+tʼotsʼi:tʼotsʼi   # placenta  
+tʼoxi:tʼoxi   # cena 1. cama  
+tʼoʼsthi:tʼoʼsthi   # ovillo de hilo  
+tʼoʼtsi:tʼoʼtsi   # ovillo  
+tʼo̱ho̱:tʼo̱ho̱   # cerro  
+tʼo̱tʼathuhme:tʼo̱tʼathuhme   # panadería ¶ 
+tʼo̱tʼaʼye̱:tʼo̱tʼaʼye̱   # trabajo manual  
+tʼo̱tʼe:tʼo̱tʼe   # 1. acto  
+tʼo̱tsazafri:tʼo̱tsazafri   # montón de zacate ¶ 
+tʼo̱ʼtse:tʼo̱ʼtse   # s fardo  
+tʼunza:tʼunza   # luminaria, fogata  
+tʼuspi:tʼuspi   # fogón ¶tencendida de lumbre  
+tʼutate:tʼutate   # enseñanza ¶thorno  
+tʼutsʼi:tʼutsʼi   # incienso, sahumerio  
+tʼuʼtuate:tʼuʼtuate   # enseñanza  
+tʼu̱:tʼu̱   # hijo  
+tʼu̱bga:tʼu̱bga   # becerra  
+tʼu̱btsʼu̱di:tʼu̱btsʼu̱di   # puerco chico ¶ 
+tʼu̱ʼbi:tʼu̱ʼbi   # orina  
+tʼu̱dro:tʼu̱dro   # toro chico, becerro  
+tʼu̱hnini:tʼu̱hnini   # 1. ciudad pequeña ¶2. pueblo pequeño  
+tʼu̱i:tʼu̱i   # s urdidera (dos palos enterrados ¶para urdir los hilos 
+tʼu̱jäne:tʼu̱jäne   # lengüeta (reg.¶municipal ¶tdelgado 
+tʼu̱kjä:tʼu̱kjä   # tunas chiquitas (en proceso ¶de crecimiento 
+tʼu̱mu:tʼu̱mu   # 1. calabaza chica ¶2. calabaza tierna  
+tʼu̱mxi:tʼu̱mxi   # gato chico  
+tʼu̱ʼmda:tʼu̱ʼmda   # jarro chico  
+tʼu̱ʼmni:tʼu̱ʼmni   # espina chica  
+tʼu̱ndä:tʼu̱ndä   # hijo del rey  
+tʼu̱nzä:tʼu̱nzä   # costal chico  
+tʼu̱ʼni:tʼu̱ʼni   # pollitos  
+tʼu̱ñä:tʼu̱ñä   # cabeza chica  
+tʼu̱ʼñäi:tʼu̱ʼñäi   # epazote de riego, zorrillo ¶chico, zorrillo enano  
+tʼu̱pa:tʼu̱pa   # día corto  
+tʼu̱peʼmni:tʼu̱peʼmni   # espina chica  
+tʼu̱stʼä:tʼu̱stʼä   # nopalito (tierno 
+tʼu̱tudi:tʼu̱tudi   # cordero recién nacido ¶ 
+tʼu̱tʼabi:tʼu̱tʼabi   # pala chica  
+tʼu̱tʼado:tʼu̱tʼado   # piedra enterrada  
+tʼu̱tʼañʼi:tʼu̱tʼañʼi   # plantación de chiles ¶ 
+tʼu̱tʼuada:tʼu̱tʼuada   # 1. plantada de ¶maguey 
+tʼu̱xʼba:tʼu̱xʼba   # teta chica  
+tʼu̱xiʼmini:tʼu̱xiʼmini   # espina chica hormiga chica  
+tʼu̱xni:tʼu̱xni   # cántaro chico  
+tʼu̱xui:tʼu̱xui   # noche corta  
+tʼu̱znä:tʼu̱znä   # luna creciente  
+tʼu̱zu̱:tʼu̱zu̱   # s la que cría consecutivamente  
+tʼu̱ʼchi:tʼu̱ʼchi   # chivito  
+tʼu̱ʼta:tʼu̱ʼta   # maguey chico acción de plantar maguey ¶ 
+thai:thai   # s deuda  
+thakandähi:thakandähi   # resguardo para ¶el aire  
+thakhyadi:thakhyadi   # sombrilla 1. asoleada  
+thakʼye:thakʼye   # paraguas  
+thaʼmni:thaʼmni   # junquillo  
+thandi:thandi   # 1. vista, facultad de ver ¶ 
+thangahai:thangahai   # terreno comprado ¶ 
+thä:thä   # mazorca  
+thähä:thähä   # s ganancia  
+thähi:thähi   # hilo 1. pelada ¶de nopales  
+thäʼmxätʼä:thäʼmxätʼä   # pulpa extraída de ¶las pencas de nopal  
+thäntʼañʼi:thäntʼañʼi   # salsa (molida en ¶molcajete 
+thäxmänxa:thäxmänxa   # 1. asada de ¶elotes  
+thäxni:thäxni   # gallina ciega (gusano 
+the:the   # surco tequesquite  
+thebe:thebe   # 1. rosario  
+thedi:thedi   # 1. película  
+thehe:thehe   # tos  
+thehñä:thehñä   # carbón  
+thekate:thekate   # 1. compasión ¶2. consideración  
+thendi:thendi   # s inquietud, bochorno ¶ 
+thengo̱:thengo̱   # tamal  
+theʼnthe:theʼnthe   # remolino de agua ¶ 
+these̱he̱:these̱he̱   # s persona risueña  
+thetʼadehe:thetʼadehe   # remolino de ¶agua  
+thetʼi:thetʼi   # 1. procesión (para honrar a ¶la malacate  
+thetsʼe:thetsʼe   # estornudo  
+the̱fo:the̱fo   # persona desnuda ¶ 
+the̱ki:the̱ki   # serrucho, serrote 1. romper  
+the̱mda:the̱mda   # ojos rojos, ojos ¶inflamados  
+the̱ʼmabaga:the̱ʼmabaga   # vaca de ¶ordeña de ¶chiva o cabra ¶the̱ 
+the̱ngadoʼtfi:the̱ngadoʼtfi   # gragea, azúcar ¶roja  
+the̱ngado̱ni:the̱ngado̱ni   # flor roja  
+the̱ngatsatʼañʼi:the̱ngatsatʼañʼi   # cardenal ¶rojo  
+the̱ngde̱thä:the̱ngde̱thä   # maíz rojo ¶ 
+the̱ngtʼo:the̱ngtʼo   # planta de cáscara ¶rosada hormiga colorada ¶the̱ngxäju̱ (thě̱ngxäju̱ ¶ 
+the̱ngxíza:the̱ngxíza   # encino colorado ¶ 
+the̱ngzu̱:the̱ngzu̱   # víbora chirrionera (lit.: ¶cola roja 
+the̱ni:the̱ni   # rojo  
+the̱nju̱:the̱nju̱   # frijol rojo ¶ 
+the̱nkʼue̱:the̱nkʼue̱   # chinicuil (reg.colorado del maguey  
+the̱nza:the̱nza   # corte de madera  
+the̱tʼue:the̱tʼue   # chicharra (reg.¶blanco de maguey que se mantiene de la ¶penca del ¶nopal  
+the̱tsʼi:the̱tsʼi   # ahijado, ahijada cargar en los brazos  
+the̱xi:the̱xi   # 1. palo para tallar ¶(lechuguilla o junquilloixtle (de lechuguilla o ¶junquillo 
+thini:thini   # cosa hallada, hallazgo enterrar brasas para el día ¶siguiente  
+thiza:thiza   # huarache  
+thiʼthfi:thiʼthfi   # sacada de aguamiel  
+thokathuhme:thokathuhme   # panadería ¶ 
+thote:thote   # 1. asesinato  
+thotʼi:thotʼi   # 1. hoja de mazorca 1. tronar  
+thoʼtate:thoʼtate   # 1. consolación  
+tho̱de:tho̱de   # 1. collar  
+tho̱dri:tho̱dri   # collar floral (que se le pone ¶a las reses el 15 de mayo 
+tho̱ʼmähuähi:tho̱ʼmähuähi   # jacal ¶milpero  
+tho̱ngu:tho̱ngu   # construcción de casa  
+tho̱thyä:tho̱thyä   # s regañada, regaño ¶ 
+tho̱ʼsdehe:tho̱ʼsdehe   # bordo (para el ¶riegoagua hervida  
+tho̱ʼtsahñuni:tho̱ʼtsahñuni   # mole de ¶olla, caldo rojo  
+thudo:thudo   # mollejón  
+thufri:thufri   # trasportador de caballos ¶ 
+thuhme:thuhme   # pan  
+thuhmeñʼethi:thuhmeñʼethi   # nombre de ¶una planta (lit.: pan medicinal 
+thuhmeʼanimä:thuhmeʼanimä   # pan de ¶muerto (para adulto 
+thuhmeʼe̱nxe̱:thuhmeʼe̱nxe̱   # pan de ¶ángel (para criatura fallecida 
+thuhni:thuhni   # banco (para sentarse 
+thuhu:thuhu   # canción hambre nombre  
+thuksei:thuksei   # pulque comprado al ¶mayoreo, pulque rescatado  
+thukza:thukza   # leña comprada, leña ¶rescatada  
+thumngo̱:thumngo̱   # barbacoa, carne ¶horneada en la tierra  
+thuntʼyo:thuntʼyo   # escobetilla (para ¶limpiar comal 
+thuʼni:thuʼni   # gallina horneada [ 
+thuxfani:thuxfani   # 1. montura del ¶caballo ¶2. caballo de silla  
+thuxʼyo:thuxʼyo   # cobija  
+thuʼye̱:thuʼye̱   # rebozo  
+thuʼtsi:thuʼtsi   # nudo  
+thu̱kañʼi:thu̱kañʼi   # corte de chiles  
+thu̱mʼi:thu̱mʼi   # pizca de chile, cosecha ¶de chile  
+thu̱ʼmxi:thu̱ʼmxi   # moqueo hachón (tipo de cacto 
+thu̱ndehe:thu̱ndehe   # agua hervida 1. tocar, palpar  
+thu̱tmädo:thu̱tmädo   # huevo frito  
+thu̱tʼango̱:thu̱tʼango̱   # carne frita  
+thu̱tʼañʼi:thu̱tʼañʼi   # salsa frita  
+thu̱xi:thu̱xi   # chiflido  
+thu̱za:thu̱za   # flauta  
+thu̱zu̱:thu̱zu̱   # deposición, diarrea  
+tsa:tsa   # vergüenza poder 1. comer mucho, muy sentir  
+tsanmpada:tsanmpada   # zopilote chico, ¶zopilote redondo (las puntas de sus alas son ¶blancas 
+tsantʼapada:tsantʼapada   # zopilote ¶redondo  
+tsantʼi:tsantʼi   # s rueda  
+tsanza:tsanza   # 1. torno  
+tsanʼbada:tsanʼbada   # jarro mediano  
+tsastju̱:tsastju̱   # revoltijo, frijoles ¶quebrados (con condimentos 
+tsateginʼue:tsateginʼue   # 1. tábano  
+tsatʼañʼi:tsatʼañʼi   # cardenal (ave 
+tsatʼñu:tsatʼñu   # vereda curvada  
+tsatʼyo:tsatʼyo   # perro  
+tsathä:tsathä   # tejón  
+tsatsa:tsatsa   # codorniz  
+tsaxmagu:tsaxmagu   # murciélago  
+tsaʼthi:tsaʼthi   # lagarto  
+tsäkʼyu̱i:tsäkʼyu̱i   # colilla de cigarro  
+tsängañʼi:tsängañʼi   # chile frito  
+tsänʼue̱:tsänʼue̱   # rana  
+tse̱gui:tse̱gui   # niebla fría  
+tse̱hme:tse̱hme   # tortilla fría  
+tse̱nthi:tse̱nthi   # aire frío  
+tse̱ñʼethi:tse̱ñʼethi   # hierba caliente  
+tse̱tfi:tse̱tfi   # 1. aguamiel fría  
+tse̱the:tse̱the   # agua fría  
+tsibi:tsibi   # 1. lumbre  
+tsihme:tsihme   # xopepe, chonpepe (reg. 
+tsija:tsija   # camaleón  
+tsiji:tsiji   # sanguijuela  
+tsimanxa:tsimanxa   # gusano del maíz ¶ 
+tsimxi:tsimxi   # 1. caracol  
+tsinda:tsinda   # 1. cinta (de atarlentejuelilla (reg.; planta ¶medicinal 
+tsindauaxjo:tsindauaxjo   # cinta de la ¶manga del calzón  
+tsitheʼo̱ni:tsitheʼo̱ni   # bebedero de ¶gallina  
+tsokmo:tsokmo   # escorpión grande  
+tsoxpa:tsoxpa   # bochorno, calentura  
+tso̱:tso̱   # estrella  
+tsuju̱:tsuju̱   # frijol cimate  
+tsutʼango̱:tsutʼango̱   # chicharrón  
+tsutʼathuhme:tsutʼathuhme   # pan ¶dorado, pan tostado  
+tsutʼi:tsutʼi   # s chicharrón  
+tsuʼthme:tsuʼthme   # tortilla tostada ¶ 
+tsu̱ʼba:tsu̱ʼba   #  
+tsu̱ntʼo:tsu̱ntʼo   # cargapalito (gusano que ¶hace su casa con palos chicos y la cuelga con su ¶líquido 
+tsʼafi:tsʼafi   # muela  
+tsʼai:tsʼai   # ombligo 
+tsʼakʼñu:tsʼakʼñu   # camino ondulado ¶ 
+tsʼakʼye̱:tsʼakʼye̱   # mano paralizada  
+tsʼamne:tsʼamne   # huíngaro (reg.; ¶herramienta para cortar hierbas 
+tsʼanango:tsʼanango   # representación ¶dramática (que recuerda la vida y costumbres ¶pasadas 
+tsʼani:tsʼani   # aguacate  
+tsʼante:tsʼante   # maldición 
+tsʼapo:tsʼapo   # chicle 
+tsʼapto:tsʼapto   # sampedro (planta 
+tsʼastä:tsʼastä   # cabello rizado  
+tsʼatai:tsʼatai   # el mero día de mercado ¶ 
+tsʼatne:tsʼatne   # freno (para caballo o ¶asno 
+tsʼatʼñu:tsʼatʼñu   # vereda curvada  
+tsʼaua:tsʼaua   # pie cojo  
+tsʼähni:tsʼähni   # reo 
+tsʼäjuai:tsʼäjuai   # puñal, daga  
+tsʼändri:tsʼändri   # cuerno puntiagudo, ¶asta puntiaguda  
+tsʼäsju̱ni:tsʼäsju̱ni   # señor de importancia 
+tsʼäxyu:tsʼäxyu   # nariz respingona cerro puntiagudo  
+tsʼe:tsʼe   # olla  
+tsʼebe:tsʼebe   # quiote de lechuguilla  
+tsʼensuni:tsʼensuni   # olla del nixtamal ¶ 
+tsʼentʼei:tsʼentʼei   # olla para atole  
+tsʼe̱di:tsʼe̱di   # fuerza ¶ts 
+tsʼihue̱:tsʼihue̱   # nuera  
+tsʼijua:tsʼijua   # hábito de comer conejos ¶ 
+tsʼikabo̱jä:tsʼikabo̱jä   # fierro corto  
+tsʼikʼyä:tsʼikʼyä   # ocotillo, espina de ¶ 
+tsʼimhñä:tsʼimhñä   # voz delgada ¶ 
+tsʼiʼmfi:tsʼiʼmfi   # pájaro aguamielero, ¶pájaro carpintero  
+tsʼintʼñu:tsʼintʼñu   # camino angosto ¶ 
+tsʼintsʼu̱:tsʼintsʼu̱   # pájaro azul (que se para sobre la res o el ¶caballo 
+tsʼithe:tsʼithe   # 1. abrevadero, jagüey  
+tsʼoʼba:tsʼoʼba   # leche mala, calostro ¶ 
+tsʼoʼbede:tsʼoʼbede   # mal cuento, ¶mentira  
+tsʼoʼbe̱fi:tsʼoʼbe̱fi   # mala obra, trabajo ¶feo  
+tsʼodäti:tsʼodäti   # mal borracho  
+tsʼodu:tsʼodu   # mala muerte (por ¶asesinato, hechicería o por accidente 
+tsʼofo:tsʼofo   # s amonestación, consejo ¶2. [ 
+tsʼohmi:tsʼohmi   # mal semblante, mala ¶cara  
+tsʼohñeni:tsʼohñeni   # mala enfermedad ¶ 
+tsʼojäʼi:tsʼojäʼi   # persona mala  
+tsʼojohya:tsʼojohya   # mala alegría  
+tsʼomfeni:tsʼomfeni   # mal pensamiento ¶ 
+tsʼoʼmu̱i:tsʼoʼmu̱i   # 1. bravo  
+tsʼomʼyo:tsʼomʼyo   # perro negro (espíritu ¶de un difunto transformado en perro 
+tsʼonäte:tsʼonäte   # 1. paralítico ¶ 
+Tsʼondähi:Tsʼondähi   #  
+tsʼondäpo:tsʼondäpo   # hierba mala  
+tsʼone:tsʼone   # 1. maldición  
+tsʼoni:tsʼoni   # lloro 1. ensuciar  
+tsʼonkʼatʼi:tsʼonkʼatʼi   # concupiscencia ¶ 
+tsʼontʼudi:tsʼontʼudi   # mala enseñanza ¶ 
+tsʼonthate:tsʼonthate   # engaño ¶perjudicial  
+tsʼopa:tsʼopa   # 1. canícula  
+tsʼotʼadi:tsʼotʼadi   # petición en contra de ¶alguien  
+tsʼotʼe̱i:tsʼotʼe̱i   # bazofia, alimento ¶almacenado en la panza del animal  
+tsʼotʼo̱tʼe:tsʼotʼo̱tʼe   # obra mala  
+tsʼothe:tsʼothe   # agua sucia, agua turbia ¶ 
+tsʼothogi:tsʼothogi   # desgracia, mal ¶acontecimiento  
+tsʼothu:tsʼothu   # apodo, apellido  
+tsʼoxiʼmhai:tsʼoxiʼmhai   # mundo malo, ¶perversidad mundana  
+tsʼoʼyo:tsʼoʼyo   # 1. guzgo desobediente  
+tsʼozuʼue:tsʼozuʼue   # gusano malo  
+tsʼu̱di:tsʼu̱di   # 1. cerdo mecate de tejer (mecate ¶delgado y corto de color blanco hecho del ixtle ¶ ¶359 ¶ ¶ ¶del maguey 
+tsʼu̱dithä:tsʼu̱dithä   # maíz de grano chico; ¶maíz de grano delgado  
+tsʼu̱mʼi:tsʼu̱mʼi   # 1. chile de resoca (reg.; lo ¶que queda después de la cosechaacción de pepenar chiles ¶ 
+tsʼu̱ngu:tsʼu̱ngu   # arete  
+tsʼu̱ntʼu̱:tsʼu̱ntʼu̱   # 1. joven  
+tsʼu̱nthi:tsʼu̱nthi   # lazo delgado, mecate ¶delgado  
+tsʼu̱ti:tsʼu̱ti   # cuelga de mazorcas (dos o ¶más mazorcas seleccionadas mancornadas con ¶sus hojascolgar 
+tsʼu̱tkʼani:tsʼu̱tkʼani   # verdolaga cardón ¶delgado ¶tslazo ¶delgado ayate de ¶hilos delgados 
+tsʼu̱tʼañʼi:tsʼu̱tʼañʼi   # chile delgado  
+tsʼu̱tʼo:tsʼu̱tʼo   # 1. vara  
+tsʼu̱xfani:tsʼu̱xfani   # 1. correa  
+tsʼu̱za:tsʼu̱za   # vara delgada, palo delgado ¶ 
+tsʼu̱ʼta:tsʼu̱ʼta   # lechuguilla  
+tsʼu̱ʼtui:tsʼu̱ʼtui   # 1. autoridad  
+u:u   # s sal  
+ua:ua   # 1. pie 1. tal vez  
+uabru:uabru   # guabru (reg.; lit.: casco de ¶asnode muerto (hecho de dos gordas ¶redondas y encimadas, con un hoyo en medio ¶que se hace con el codo humano 
+uadañä:uadañä   # guadaña  
+uadi:uadi   # fin  
+uafri:uafri   # 1. herradura  
+uakʼri:uakʼri   # vara de quelite, raíz de ¶quelite  
+uamʼño:uamʼño   # 1. huella de coyote  
+uande:uande   # mecapal  
+uantfani:uantfani   # 1. huella de res  
+uaʼni:uaʼni   # 1. pata de gallina ¶2.  
+uañʼi:uañʼi   # cola de chile  
+uaptsʼu̱di:uaptsʼu̱di   # 1. pata de cerdo  
+uaro:uaro   # persona netamente otomí 
+uatra:uatra   # doce medidas  
+uatʼbi:uatʼbi   # 1. mango (para la pala 
+uatʼi:uatʼi   # persona arrimada  
+uatsanza:uatsanza   # 1. manija de torno 
+uaxhne:uaxhne   # chimuelo  
+uaxʼyo:uaxʼyo   # borrego sin cuernos tronco del zacate 
+uaʼyo:uaʼyo   # 1. huella de perro  
+uaza:uaza   # 1. pie de palo (prótesis de ¶madera para un piepersona que tiene un pie de palo  
+uaʼchi:uaʼchi   # 1. huella de cabra  
+uaʼtho̱:uaʼtho̱   # pie del cerro  
+uäde̱mxi:uäde̱mxi   # 1. jitomatal  
+uäfri:uäfri   # gañán arar (con animales 
+uähi:uähi   # gañán arar, escardar (con yunta y ¶cultivadorafrijolar  
+uäkyä:uäkyä   # culebra casera ¶uämmilpa de picante, ¶milpa de chiles  
+uäñä:uäñä   # huaña (reg.tiernos ¶de la flor del efés  
+uäsʼni:uäsʼni   # aguacatal  
+uästʼä:uästʼä   # nopalera  
+uästhi:uästhi   # carrizal  
+uätrigo:uätrigo   # trigal ¶ 
+uäthä:uäthä   # mazorcal (reg.; milpa de ¶maíz con mazorcas bien desarrolladas 
+uäthe:uäthe   # tierras de riego  
+uäxitsʼo:uäxitsʼo   # sauzal  
+uäʼyo:uäʼyo   # cañaveral  
+uäza:uäza   # 1. huerta  
+uäʼobxi:uäʼobxi   # viñedo, plantío de vid ¶ 
+uäʼta:uäʼta   # magueyal, magueyera  
+udehe:udehe   # 1. agua dulce  
+ueni:ueni   # s arrebatamiento brazada  
+ue̱mä:ue̱mä   # gigante, hombre de alta ¶estatura  
+ue̱nda:ue̱nda   # 1. propiedad  
+uhme:uhme   # pan de dulce  
+uingaro:uingaro   # huíngaro (reg.; ¶herramienta para cortar hierbas 
+ukjä:ukjä   # tuna dulce  
+usei:usei   # pulque dulce  
+usto:usto   # piedra pómez  
+utʼfi:utʼfi   # s aguamiel dulce  
+utʼnäni:utʼnäni   # horno de cal  
+uxkadehe:uxkadehe   # 1. agua salada  
+uza:uza   # palo dulce (planta 
+ʼuada:ʼuada   # maguey  
+ʼuajä:ʼuajä   # agave lechuguilla, henequén ¶de lechuguilla  
+ʼuä:ʼuä   # culebra casera  
+ʼuäxju̱:ʼuäxju̱   # frijol pataquín ¶ 
+ʼuestʼä:ʼuestʼä   # gusano de nopal  
+ʼue̱di:ʼue̱di   # costurero  
+ʼue̱ne:ʼue̱ne   # 1. niño pequeño  
+u̱da:u̱da   # 1. dolor de ojos  
+u̱gi:u̱gi   # dolor  
+u̱hmi:u̱hmi   # gesto de la cara  
+u̱hyo:u̱hyo   # dolor de costado, dolor de ¶caderas  
+u̱mfeni:u̱mfeni   # 1. resentimiento  
+u̱mu̱i:u̱mu̱i   # dolor de estómago  
+u̱ñä:u̱ñä   # 1. la gripe  
+u̱ñähmu:u̱ñähmu   # dolor de rodilla  
+u̱stha:u̱stha   # dolor de espalda  
+u̱ti:u̱ti   # tarántula  
+u̱tsate:u̱tsate   # persona que odia  
+u̱tsʼafi:u̱tsʼafi   # dolor de muela  
+u̱tsʼi:u̱tsʼi   # dolor de dientes, dolor de ¶muela 1. poner, echar (sobre algo 
+u̱xjua:u̱xjua   # 1. demonio  
+u̱ʼye̱:u̱ʼye̱   # 1. dolor de brazos  
+vaso:vaso   # vaso  
+veta:veta   # 1. orla (franja de adorno 
+vinu:vinu   # aguardiente hormiga de miel  
+viudo:viudo   # viudo  
+xabo:xabo   # jabón  
+xabo̱hai:xabo̱hai   # persona que saca ¶lodo  
+xada:xada   # 1. ciego  
+xade:xade   # fleco  
+xadi:xadi   # s rezandero  
+xadithä:xadithä   # maíz fresco  
+xagyä:xagyä   # s persona con el pelo ¶enmarañado  
+xaha:xaha   # 1. humedad tortuga refrescarse  
+xahai:xahai   # 1. tierra húmeda ¶2.  
+xahnäte:xahnäte   # profesor, maestro  
+xaju̱:xaju̱   # frijol fresco  
+xamju̱ni:xamju̱ni   # barbudo “ 
+xamu:xamu   # 1. chayote (fruto 
+xaʼmni:xaʼmni   # xaminí (tipo de maguey 
+xandäpo:xandäpo   # segador de hierba 1. segar alfalfa ¶2. desyerbar  
+xangdo:xangdo   # grava  
+xani:xani   # feria, suelto vt esparcir  
+xano:xano   # jarro  
+xanthe:xanthe   # sudor sudar  
+xañä:xañä   # pelo despeinado  
+xaste:xaste   # provocador provocar (compl. indet. 
+xathe:xathe   # agua fresca  
+xaua:xaua   # jáquima pata plumada  
+xaue:xaue   # jagüey  
+xaxni:xaxni   # 1. uña de gato chico ¶(arbusto y árbol 
+xaʼye:xaʼye   # llovizna, lluvia menuda, ¶matapolvo  
+xaza:xaza   # leña húmeda  
+xaʼtsabo̱hai:xaʼtsabo̱hai   # sacador de ¶lodo  
+xädu:xädu   # víbora que se enrosca en ¶medio de la vereda ¶̌ hormiga apestosa ¶xäfoxäju̱ (xäfoxäju̱ ¶ 
+xägu:xägu   # 1. mangana corrediza, ¶lazada corrediza, trampa de la reata hormiga ¶xäju̱ (xäju̱ ¶ 
+xäkxäxi:xäkxäxi   # grano que da comezón ¶ 
+xäkʼri:xäkʼri   # hierbabuena  
+xäkʼye̱:xäkʼye̱   # travieso  
+xämdo:xämdo   # huevo apestoso  
+xäʼmfe:xäʼmfe   # efés apestoso  
+xäʼñäi:xäʼñäi   # epazote de zorrillo, ¶epazote silvestre  
+xäsei:xäsei   # pulque apestoso  
+xäthe:xäthe   # agua apestosa 
+xätʼä:xätʼä   # 1. nopal  
+xätʼo:xätʼo   # chinche  
+xäʼue:xäʼue   # gusano de mezquite  
+xäxi:xäxi   # grano, salpullido  
+xäʼta:xäʼta   # zábila  
+xefo:xefo   # intestino, tripa  
+xehai:xehai   # s escarbador de tierra mosca  
+xemhñä:xemhñä   # excavador de fosa 
+xe̱di:xe̱di   # 1. remolino  
+xe̱hme:xe̱hme   # 1. pedazo de tortilla de barro ¶ 
+xe̱te:xe̱te   # pellizcador  
+xe̱thme:xe̱thme   # tortilla remojada en ¶cualquier caldo de comida 
+xibjä:xibjä   # 1. hojalata  
+xibo:xibo   # la parte de en medio del ¶zacate, cosa bofa 
+xiʼbi:xiʼbi   # meón  
+xida:xida   # pestaña  
+xide:xide   # liebre  
+xidiju̱:xidiju̱   # ejote  
+xidinthähi:xidinthähi   # sudadero  
+xidithä:xidithä   # polvo de maíz, tamo ¶maíz ancho  
+xido:xido   # tepetate cerca de ¶ 
+xidohai:xidohai   # tierra tepetatosa  
+xifi:xifi   # petate, esterilla de palma  
+xifikʼeñä:xifikʼeñä   # ciempiés, ¶escolopendra  
+xifri:xifri   # 1. cuero (animal 
+xigaʼñeni:xigaʼñeni   # juguetón  
+xigu:xigu   # oreja  
+xigunxätʼä:xigunxätʼä   #  
+xihme:xihme   # tortilla delgada  
+xihñe:xihñe   # bofe  
+xiho:xiho   # nailon, plástico 
+xija:xija   # nevada, nieve ¶xijhme [ 
+xikua:xikua   # descalzo  
+xikuni:xikuni   # malva  
+ximdo:ximdo   # cascarón de huevo  
+ximhai:ximhai   # 1. mundo, (hierba 
+ximo:ximo   # 1. jícara 1. insecto que pica en los ¶balnearios ¶2. insecto que perjudica al frijol 
+ximu̱i:ximu̱i   # carne delgada del ¶abdomen  
+ximxi:ximxi   # pelo de gato  
+xiʼmastʼä:xiʼmastʼä   # chimasta (planta 
+xiʼmfe:xiʼmfe   # cáscara de vaina de 
+xiʼmfi:xiʼmfi   # mechal de maguey, ¶raspadura de maguey  
+xiʼmini:xiʼmini   # cardón, cardón ¶espinudo tipo de ¶cardón (lit.: cardón endulzado 
+xiʼmtsibi:xiʼmtsibi   # chispa de la lumbre ¶ 
+xindo:xindo   # 1. laja delgada  
+xindo̱:xindo̱   # hombre pobre 
+xine:xine   # labio  
+xingri:xingri   # cabello de elote  
+xingu:xingu   # vello  
+xingua:xingua   # pie ancho  
+xinguʼye̱:xinguʼye̱   # mano velluda  
+xinthe:xinthe   # muslo  
+xiʼni:xiʼni   # pluma de gallina  
+xiʼnxi:xiʼnxi   # 1. hombro ¶2. omóplato  
+xiñu:xiñu   # 1. nariz  
+xiñʼye̱:xiñʼye̱   # 1. espaldilla  
+xirgo:xirgo   # 1. xirgo (reg.; velludopeludo (animales, personaspachón (animales, cactohebrudo (ayate, mecate, costal de ixtle 
+xistehe:xistehe   # s persona bautizada ¶ 
+xitando̱hñä:xitando̱hñä   # abuelo o ¶bisabuelo del cónyugue  
+xite̱:xite̱   # xite (reg.de la ¶lechuguilla después de sacar la fibra  
+xito:xito   # 1. vidrio  
+xitʼa:xitʼa   # s red  
+xitʼe̱i:xitʼe̱i   # pasto  
+xitha:xitha   # quintonil (quelite 
+xithe̱:xithe̱   # tabla  
+xithi:xithi   # 1. carrizo  
+xithu:xithu   # paludismo  
+xithyä:xithyä   #  
+xithyäju̱:xithyäju̱   # frijol moro, frijol ¶pinto  
+xithyätsʼintsʼu̱:xithyätsʼintsʼu̱   # urraca 
+xitse̱:xitse̱   # helada blanca y delgada  
+xitsʼa:xitsʼa   # huapilla (agave de penca ¶pequeña 
+xitsʼafani:xitsʼafani   # huapilla del monte ¶ 
+xitsʼatʼo̱ho̱:xitsʼatʼo̱ho̱   # pan de huapilla 
+xitsʼni:xitsʼni   # hoja de aguacate  
+xitsʼo:xitsʼo   # sauce  
+xixixabo:xixixabo   # estropajo para ¶enjabonar  
+xixyo:xixyo   # persona que fabrica velas ¶ 
+xiʼyo:xiʼyo   # lana  
+xiza:xiza   # viruta encino  
+xiʼefe:xiʼefe   # cinturón  
+xiʼkjä:xiʼkjä   # cáscara de tuna  
+xiʼthä:xiʼthä   # 1. dormilón  
+xiʼtsaʼronjua:xiʼtsaʼronjua   # mujer que se ¶cubre la cabeza con ayate en vez de rebozo ¶ayate xirgo 
+xiʼtsate:xiʼtsate   # bautizante  
+xodyo:xodyo   # judío, israelita  
+xoʼñu:xoʼñu   # desviación  
+xoptsʼu̱di:xoptsʼu̱di   # acahual de puerco ¶ 
+xosthuhu:xosthuhu   # s levantador de ¶maíz (persona que levanta o destapa la planta ¶de maíz que se tapa o se cae 
+xotʼo:xotʼo   # acahual (girasol 
+xoza:xoza   # horcón  
+xozu̱:xozu̱   # tijerilla (gusano 
+xo̱ndithä:xo̱ndithä   # maíz violento (reg.que nace pronto  
+xo̱nisei:xo̱nisei   # cántaro de pulque ¶ 
+xo̱ʼtaza:xo̱ʼtaza   # s leña rajada  
+xudi:xudi   # 1. mañana o pasado, ¶los años que vengan s molestia  
+xumi:xumi   # s jacal  
+xundi:xundi   # canasta grande, ¶chiquihuite  
+xui:xui   # noche  
+xu̱:xu̱   # s leñador “xu” (ruido que se hace con la ¶boca para espantar ave o animal(xu̱ giheno  
+xu̱ngu:xu̱ngu   # ala (de la casa 
+xu̱ni:xu̱ni   # 1. mitad (de un ayate 
+xu̱tha:xu̱tha   # espalda  
+xu̱ʼta:xu̱ʼta   # penca de maguey  
+yaʼbe:yaʼbe   # instrumento de carrizo para ¶tejer  
+yakne:yakne   # bobo, mirón  
+yaʼmdehe:yaʼmdehe   # nadador  
+yaxi:yaxi   # carpintero (persona 
+yenä:yenä   # luna llena  
+yendri:yendri   # 1. girasol  
+yerbamuro:yerbamuro   # hierbamuro ¶(reg.; planta para dolor de estómago 
+yerro:yerro   # hierro  
+yo:yo   # vela, parafina compasión ¶ 
+yodmi:yodmi   # dos reales, veinticinco ¶centavos  
+yohmi:yohmi   # persona de genio voluble ¶¿ 
+yomʼo:yomʼo   # dos mil  
+yoni:yoni   # s persona variable  
+yonthe:yonthe   # 1. persona de dos ¶coronillas o remolinos  
+yosta:yosta   # persona de mirada ¶dominante (que abre mucho los ojos 
+yotitä:yotitä   # jarilla  
+yoxe̱di:yoxe̱di   # 1. el que tiene dos ¶remolinos, el que tiene dos coronillas  
+yoxu̱ni:yoxu̱ni   # dos alas (de la casa 
+yu̱hi:yu̱hi   # escamol (larva de cierta ¶hormiga comestible 
+yu̱hyadi:yu̱hyadi   # poniente, occidente ¶ 
+yu̱mdo:yu̱mdo   # gallina que pone muchos ¶huevos  
+yu̱ni:yu̱ni   # 1. codo oler azotar 
+yu̱tmu:yu̱tmu   # calabacilla venenosa ¶ 
+yu̱thä:yu̱thä   # mazorca de muchos ¶granos  
+yu̱xju̱:yu̱xju̱   # frijol de muchas vainas ¶ 
+ʼyadi:ʼyadi   # s pediche (reg.¶ 
+ʼyafi:ʼyafi   # tlachiquero  
+ʼyaha:ʼyaha   # s vómito  
+ʼyahme:ʼyahme   # el que pide tortilla ¶ 
+ʼyai:ʼyai   # 1. traída de agua acarrear (agua 
+ʼyakate:ʼyakate   # acechador  
+ʼyakhñuni:ʼyakhñuni   # persona que sirve ¶la comida  
+ʼyaksei:ʼyaksei   # persona que saca pulque ¶ 
+ʼyathe:ʼyathe   # persona que saca agua  
+ʼyaza:ʼyaza   # madera podrida, palo ¶podrido  
+ʼyaʼthä:ʼyaʼthä   # persona desvelada  
+ʼye:ʼye   # lluvia  
+ʼyedu:ʼyedu   # 1. grano (en la piel 
+ʼyestʼo:ʼyestʼo   # gorupo, coruco  
+ʼye̱:ʼye̱   # 1. mano, brazo  
+ʼye̱ngansu̱tʼi:ʼye̱ngansu̱tʼi   # arquero  
+ʼye̱ni:ʼye̱ni   # geómetra (una clase de oruga 
+ʼye̱nte:ʼye̱nte   # caballo pajarero; asno ¶pajarero 
+ʼye̱ntʼähme:ʼye̱ntʼähme   # tortillera  
+ʼye̱pahni:ʼye̱pahni   # manga de camisa ¶ 
+ʼye̱stʼä:ʼye̱stʼä   # penca de nopal ¶ 
+ʼye̱tbo̱jä:ʼye̱tbo̱jä   # chofer, conductor ¶ 
+ʼye̱tfi:ʼye̱tfi   # el que quiebra, el que capa ¶magueyes  
+ʼye̱tʼamotsa:ʼye̱tʼamotsa   # canoero  
+ʼye̱za:ʼye̱za   # rama del árbol  
+ʼye̱ʼta:ʼye̱ʼta   # penca de maguey  
+ʼyoda:ʼyoda   # ceja (del ojo 
+ʼyodi:ʼyodi   # experimentada en partos  
+ʼyofadi:ʼyofadi   # prisionero, reo, preso ¶ 
+ʼyofo:ʼyofo   # el que escribe  
+ʼyofri:ʼyofri   # aguja 1. arrear 1. jinete ¶2. arriero  
+ʼyogospi:ʼyogospi   # fogonero (reg.de la lumbre  
+ʼyohyai:ʼyohyai   # tierra temporal, tierra ¶seca  
+ʼyokjä:ʼyokjä   # cortador de tuna  
+ʼyombo:ʼyombo   # quiote seco  
+ʼyomtha:ʼyomtha   # persona que vive en el ¶cerro 
+ʼyoʼmäʼñu:ʼyoʼmäʼñu   # s consejero ¶(a ¶alguien 
+ʼyoʼmtha:ʼyoʼmtha   # desierto  
+ʼyonde:ʼyonde   # el que anda en las tardes ¶ 
+ʼyondithä:ʼyondithä   # maíz seco  
+ʼyone:ʼyone   # quijada  
+ʼyongado:ʼyongado   # piedra seca (piedra ¶que se trama sin mezcla 
+ʼyongaxithi:ʼyongaxithi   # carrizo seco ¶ 
+ʼyonijä:ʼyonijä   # el que va al templo ¶ 
+ʼyonjädo:ʼyonjädo   # barda de piedra ¶suelta (sin mezcla 
+ʼyonju̱:ʼyonju̱   # frijol seco  
+ʼyonza:ʼyonza   # palo seco  
+ʼyoʼñu:ʼyoʼñu   # peatón, caminante  
+ʼyoskuela:ʼyoskuela   # 1. niño de la ¶escuela, estudiante  
+ʼyostʼä:ʼyostʼä   # cortador de nopal  
+ʼyostha:ʼyostha   # 1. cumbrera, ¶travesaño, morillo (palo largo y grueso para ¶sostener los dos techos de una casa 
+ʼyotate:ʼyotate   # técnico  
+ʼyotʼabo:ʼyotʼabo   # quiote seco ¶ 
+ʼyotʼado:ʼyotʼado   # barda sin mezcla ¶ 
+ʼyotʼahmi:ʼyotʼahmi   # cara seca, rostro ¶seco  
+ʼyotʼakämʼyo:ʼyotʼakämʼyo   # cardón seco ¶ 
+ʼyotʼanundju̱:ʼyotʼanundju̱   # arveja seca ¶ 
+ʼyotʼañʼi:ʼyotʼañʼi   # chile seco  
+ʼyotʼathuhme:ʼyotʼathuhme   # pan duro, ¶pan seco  
+ʼyothä:ʼyothä   # olote  
+ʼyothme:ʼyothme   # tortilla seca  
+ʼyoua:ʼyoua   # peatón 1. andar a pie  
+ʼyoxju̱ni:ʼyoxju̱ni   # tortilla seca (del ¶frente 
+ʼyoxui:ʼyoxui   # nocturno  
+ʼyoʼthä:ʼyoʼthä   # s sonámbulo  
+ʼyo̱:ʼyo̱   # murmurador ¶1. sorprenderse  
+ʼyo̱de:ʼyo̱de   # persona obediente  
+ʼyo̱kahmi:ʼyo̱kahmi   # cara delgada  
+ʼyo̱khme:ʼyo̱khme   # tortilla seca, tortilla ¶tiesa  
+ʼyo̱tazofo:ʼyo̱tazofo   # el que obedece al ¶hablársele  
+ʼyo̱tbuhla:ʼyo̱tbuhla   # persona burlista, ¶persona burlona  
+ʼyo̱te:ʼyo̱te   # 1. obediente  
+ʼyo̱tʼaʼbo̱tsʼe:ʼyo̱tʼaʼbo̱tsʼe   # 1. fabricante ¶de canastas  
+ʼyo̱tʼatuhni:ʼyo̱tʼatuhni   # 1. pendenciero ¶ 
+ʼyo̱tʼathoni:ʼyo̱tʼathoni   # persona ¶trabajadora  
+ʼyo̱tʼathuhme:ʼyo̱tʼathuhme   # panadero ¶ 
+ʼyo̱tʼatsʼoki:ʼyo̱tʼatsʼoki   # pecador ¶ 
+ʼyu̱:ʼyu̱   # 1. raíz  
+ʼyu̱ga:ʼyu̱ga   # 1. pescuezo  
+ʼyu̱gapahni:ʼyu̱gapahni   # cuello de ¶camisa  
+ʼyu̱i:ʼyu̱i   # cigarro  
+ʼyu̱mädetho:ʼyu̱mädetho   # raíz ¶pivotante, raíz central  
+ʼyu̱stʼä:ʼyu̱stʼä   # el que planta nopales ¶¡ 
+ʼyu̱tʼaza:ʼyu̱tʼaza   # el que planta ¶árboles  
+ʼyu̱tʼmu:ʼyu̱tʼmu   # calabacilla, calabaza ¶silvestre  
+ʼyu̱za:ʼyu̱za   # raíz de árbol  
+ʼyu̱ʼta:ʼyu̱ʼta   # 1. raíz de maguey  
+ʼyu̱ʼtate:ʼyu̱ʼtate   # persona que aconseja ¶a otra  
+za:za   # 1. árbol  
+zabi:zabi   # 1. jagüey  
+zadu:zadu   # asesino, criminal  
+zafri:zafri   # zacate (de maíz 
+zahua:zahua   # ala (de ave 
+zajua:zajua   # 1. puerco  
+zakthuhni:zakthuhni   # pirul (árbol 
+zamähño:zamähño   # persona a quien le ¶gusta lo bueno 
+zamäku̱hi:zamäku̱hi   # persona a quien le ¶gusta lo sabroso ¶zamäku̱hni s persona que siente cosquillas 
+zamäñʼu:zamäñʼu   # persona a quien le ¶gusta lo dulce 
+zamngo̱:zamngo̱   # carnívoro  
+zamu̱i:zamu̱i   # dolor de estómago, latido 
+zando̱:zando̱   # viejo, anciano  
+zante:zante   # 1. persona maldiciente ¶ 
+zanthe:zanthe   # alga verde oscuro  
+zaʼni:zaʼni   # 1. animal que devora ¶gallinas gallina madura, gallina ¶sazón  
+zastʼä:zastʼä   # 1. mezote de nopal seco ¶ 
+zate:zate   # 1. león  
+zategiʼue:zategiʼue   # 1. tábano  
+zatekʼeñä:zatekʼeñä   # víbora que muerde ¶ 
+zatʼi:zatʼi   # persona mayor, animal muy ¶viejo o macizo  
+zathe:zathe   # árbol que crece donde hay ¶agua  
+zatsʼu̱:zatsʼu̱   # 1. tendón  
+zaxiʼñoi:zaxiʼñoi   # rata grande  
+zaʼthä:zaʼthä   # persona de sueño ligero ¶ 
+zänä:zänä   # s luna  
+ze̱bota:ze̱bota   # cuero viejo, odre viejo 
+ze̱di:ze̱di   # persona fuerte 
+ze̱dutu:ze̱dutu   # ropa acabada, ropa ¶vieja  
+ze̱kaza:ze̱kaza   # cortador de leña  
+ze̱kudu:ze̱kudu   # ropa vieja, hilacho ¶viejo  
+ze̱mhñä:ze̱mhñä   # contradictor  
+ze̱mngo̱:ze̱mngo̱   # trozador de carne  
+ze̱mohi:ze̱mohi   # 1. plato quebrado ¶2. cazuela quebrada  
+ze̱ne:ze̱ne   # 1. persona desbocada (reg.que ofende de palabra  
+ze̱nhyo̱:ze̱nhyo̱   # hombre fuerte, hombre ¶robusto  
+ze̱nijä:ze̱nijä   # templo antiguo  
+ze̱njua:ze̱njua   # 1. rebozo  
+ze̱nza:ze̱nza   # 1. cortador de árbol, ¶leñador  
+ze̱sthi:ze̱sthi   # 1. zapato  
+ze̱ti:ze̱ti   # 1. cosa durable  
+ze̱xjo:ze̱xjo   # calzón  
+ze̱xni:ze̱xni   # sabino (árbol 
+ze̱ya:ze̱ya   # despreciador 
+ze̱ze̱sthi:ze̱ze̱sthi   # 1. huarache ¶desgastado, huarache inservible ¶2. zapato viejo, zapato inservible  
+ze̱ʼhmi:ze̱ʼhmi   # cortador de palma  
+ziʼbe:ziʼbe   # trama  
+Zidada:Zidada   # 1.  
+zidada:zidada   # 1. santo patrón ¶2. papacito  
+zidoro:zidoro   # tortolita, torito, ¶bueyecito, torobuey ¶zijä s persona que es afecta a la tuna  
+zijua:zijua   # animal que come conejos ¶ 
+zikjä:zikjä   # persona afecta a comer tunas ¶ 
+zimbane:zimbane   # compadrito  
+zimdo:zimdo   # comilón de huevos  
+zimngo̱:zimngo̱   # comilón de carne  
+zimʼi:zimʼi   # persona muy afecta al chile ¶ 
+zinänä:zinänä   # 1. luna  
+zindämfri:zindämfri   # tortolita, ¶bueyecito, torobuey ¶zini [ 
+ziʼni:ziʼni   # comilón de gallinas  
+zisei:zisei   # persona muy afecta al pulque ¶ 
+zistemä:zistemä   # rebelde, caprichoso ¶zit 
+zithä:zithä   # animal que come maíz  
+Zithu:Zithu   # 1. diablo,  
+zivinu:zivinu   # tomador de aguardiente ¶trago de aguardiente ¶ 
+zixju̱:zixju̱   # pitahaya (planta cactácea 
+ziʼyu̱i:ziʼyu̱i   # fumador  
+ziʼtfi:ziʼtfi   # animal afecto a beber ¶aguamiel  
+zo:zo   # cosa muy vendible venderse  
+zojri:zojri   # persona que escupe saliva ¶ 
+zomfo:zomfo   # renacuajo  
+zonda:zonda   # s persona de ojos llorosos ¶lagrimear los ojos, llorar ¶los ojos  
+zonse̱he̱:zonse̱he̱   # chillón, llorón  
+zoñä:zoñä   # 1. persona sin sombrero  
+zospi:zospi   # mariposa pequeña que ¶persigue la luz  
+zote:zote   # 1. persona que deja al olvido ¶saludar (compl. indet.mezclado con ¶agua ¶zotsnube en el ojo ¶ 
+zo̱nte:zo̱nte   # visita  
+zo̱tʼmu̱i:zo̱tʼmu̱i   # 1. coraje  
+zubi:zubi   # 1. gachupín  
+zumʼi:zumʼi   # persona que no come chile ¶ 
+zuse̱:zuse̱   # huraño (persona 
+zuse̱he̱:zuse̱he̱   # 1. miedosa (persona 
+zuthandi:zuthandi   # persona de mirada ¶tímida  
+zuʼue:zuʼue   # 1. gusano  
+zuzu:zuzu   # 1. abuela  
+zuzunänä:zuzunänä   # abuela que sirve ¶como madre  
+zuzuto:zuzuto   # mamá de la suegra  
+zu̱fri:zu̱fri   # 1. cerda  
+zu̱gu:zu̱gu   # capullo (de la oruga 
+zu̱ktʼo:zu̱ktʼo   # hierba varuda (reg.paluda  
+zu̱mʼi:zu̱mʼi   # pepenador de chile 
+zu̱nde:zu̱nde   # cresta  
+zu̱nza:zu̱nza   # nevada, nieve  
+zu̱sta:zu̱sta   # perrilla, orzuelo 
+zu̱te:zu̱te   # regañón  
+zu̱thä:zu̱thä   # pepenador de maíz, ¶rebuscador de maíz  
+zu̱xyä:zu̱xyä   # último hijo, última cría en ¶nacer  
