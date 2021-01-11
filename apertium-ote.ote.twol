@@ -15,6 +15,7 @@ Alphabet
  %{ℐ%}:0         ! impersonal verb form
  %{G%}:g %{G%}:k
  %{B%}:b %{B%}:p %{B%}:u
+ %>:0
 ;
 
 Sets
@@ -82,11 +83,11 @@ Cx:Cy <=> %{ℐ%}: %  Ca: _ ;
       matched ;
 
 "Delete non-σ1 ä,i,e before p1 indirect complement"
-Vx:0 <=> Vow: \Vow:+ _ > %{G%}: ;
+Vx:0 <=> Vow: \Vow:+ _ %>: [ %{B%}: | %{G%}: ] ;
      where Vx in ( ä i e ) ;
 
 "Delete h before deleted i,ä before p1 indirect complement"
-h:0 <=> _ [ i: | ä: ] > %{G%}: ;
+h:0 <=> _ [ i: | ä: ] %>: %{G%}: ;
     except
         %{ℐ%}: %  _ \%{P%}: ;
 
