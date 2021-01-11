@@ -6,9 +6,13 @@ Alphabet
  %{y%}:0 %{y%}:y
  %{ñ%}:0 %{ñ%}:ñ ! could be combined with {y}
  %{ʼ%}:0 %{ʼ%}:ʼ
+ %{h%}:0 %{h%}:h
  %{n%}:0 %{n%}:n
  %{m%}:0 %{m%}:m ! could be combined with {n}
- %{🪅%}:0
+ %{🪅%}:0         ! has incorporation
+ %{ꞩ%}:0         ! secondary verb form only if there's incorporation
+ %{Ꞩ%}:0         ! secondary verb form
+ %{ℐ%}:0         ! impersonal verb form
 ;
 
 Sets
@@ -19,7 +23,7 @@ Vow = A E I O U
 Rules
 
 "secondary verb form consonant lenition, except ts"
-Cx:Cy <=> b i %  (ʼ) _ ;
+Cx:Cy <=> b i %{Ꞩ%}: %  ( [ ʼ | %{ʼ%}: ] ) _ ;
       except
             _ s: ;
       where Cx in ( p %{P%} f b t k j )
@@ -27,27 +31,52 @@ Cx:Cy <=> b i %  (ʼ) _ ;
       matched ;
 
 "secondary verb form in ts:z (s)"
-s:0 <=> b i %  (ʼ) t: _ ;
+s:0 <=> b i %{Ꞩ%}: %  (ʼ) t: _ ;
 
 "secondary verb form in ts:z (t)"
-t:z <=> b i %  (ʼ) _ s: ;
+t:z <=> b i %{Ꞩ%}: %  (ʼ) _ s: ;
 
 "secondary verb forms beginning in glottals get palatals h:hy"
-%{y%}:y <=> b i %  h _ ;
+%{y%}:y <=> b i %{Ꞩ%}: %  h _ ;
 
 "secondary verb forms beginning in glottals get palatals ʼ:ʼñ (ñ)"
-%{ñ%}:ñ <=> b i %  %{ʼ%}: _ ;
+%{ñ%}:ñ <=> b i %{Ꞩ%}: %  %{ʼ%}: _ ;
 
 "secondary verb forms beginning in ʼ realise ʼ"
-%{ʼ%}:ʼ <=> b i %  _ ;
+%{ʼ%}:ʼ <=> b i %{Ꞩ%}: %  _ \%{P%}: ;
 
 "secondary verb forms with initial n"
-%{n%}:n <=> b i %  _ ;
+%{n%}:n <=> b i %{Ꞩ%}: %  ( %{ʼ%}: )  _ ;
+            %  %{🪅%}: _ ;
 
 "verbs that incorporate and have a secondary form with an initial nasal have the nasal surface in all persons, not just third person"
-Cx:Cy <=> %  %{🪅%}: _ ;
-      where Cx in ( %{n%} %{m%} )
-            Cy in (   n     m   )
+%{m%}:m <=> %  %{🪅%}: _ ;
+
+!"verbs that incorporate and have a secondary form with an initial nasal have the nasal surface in all persons, not just third person"
+!Cx:Cy <=> %  %{🪅%}: _ ;
+!      where Cx in ( %{n%} %{m%} )
+!            Cy in (   n     m   )
+!      matched ;
+
+
+"impersonal form mappings C1"
+Cx:Cy <=> %{ℐ%}: %  _ \%{P%}: ;
+      where Cx in ( p k x %{ʼ%} ʼ h )
+            Cy in ( f j s   t   t t )
+      matched ;
+
+"impersonal form mappings C1"
+Cx:Cy <=> %{ℐ%}: %  _ Cz: ;
+      where Cx in ( %{ʼ%} )
+            Cy in (   ʼ   )
+            Cz in ( %{P%} )
+      matched ;
+
+"impersonal form mappings C2"
+Cx:Cy <=> %{ℐ%}: %  Ca: _ ;
+      where Ca in ( %{ʼ%}   h     h   %{ʼ%}   t   %{ʼ%} h ʼ )
+            Cx in ( %{n%} %{y%} %{ñ%} %{P%} %{h%} %{y%} u u )
+            Cy in (   ʼ     h     h     b     h     ʼ   h h )
       matched ;
 
 ! Resources:

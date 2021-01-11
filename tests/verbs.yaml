@@ -1,0 +1,137 @@
+Config:
+  hfst:
+    App: hfst-lookup
+    Gen: ../ote.autogen.hfst
+    Morph: ../ote.automorf.hfst
+
+Tests:
+  "[lexc+twol] bi pret forms":
+    bi<aux><pret><p3>+fu̱di<v><iv> : bi mu̱di
+    bi<aux><pret><p3>+honi<v><tv> : bi hyoni
+    bi<aux><pret><p3>+hätsʼi<v><tv> : bi hätsʼi
+    bi<aux><pret><p3>+juadi<v><tv> : bi guadi
+    bi<aux><pret><p3>+ju̱ki<v><tv> : bi gu̱ki
+    bi<aux><pret><p3>+ku̱ni<v><tv> : bi gu̱ni
+    bi<aux><pret><p3>+o̱de<v><tv> : bi ʼo̱de
+    bi<aux><pret><p3>+po̱tsʼe<v><iv> : bi bo̱tsʼe
+    bi<aux><pret><p3>+pädi<v><tv> : bi bädi
+    bi<aux><pret><p3>+peni<v><tv> : bi meni
+    bi<aux><pret><p3>+pahai<v><tv> : bi mpahai
+    bi<aux><pret><p3>+sagi<v><iv> : bi nsagi
+    bi<aux><pret><p3>+tai<v><tv> : bi dai
+    bi<aux><pret><p3>+tehmi<v><tv> : bi dehmi
+    bi<aux><pret><p3>+thädi<v><tv> : bi dhädi
+    bi<aux><pret><p3>+tsa<v><tv> : bi za
+    #bi<aux><pret><p3>+tsa<v><tv> : bi ntsa
+    bi<aux><pret><p3>+thede<v><iv> : bi nthede
+    bi<aux><pret><p3>+thäʼti<v><iv> : bi nthäʼti
+    bi<aux><pret><p3>+tsaya<v><iv> : bi ntsaya
+    bi<aux><pret><p3>+tehmi<v><iv> : bi tehmi
+    bi<aux><pret><p3>+tse̱käza<v><tv> : bi ntse̱käza
+    bi<aux><pret><p3>+tsithe<v><tv> : bi ntsithe
+    bi<aux><pret><p3>+täte<v><iv> : bi ntäte
+    bi<aux><pret><p3>+xo̱ni<v><iv> : bi nxo̱ni
+    bi<aux><pret><p3>+ähä<v><iv> : bi ʼñähä
+    bi<aux><pret><p3>+ʼbai<v><iv> : bi ʼmai
+    bi<aux><pret><p3>+äni<v><tv> : bi ʼnäni
+
+  "[lexc+twol] dá-forms":
+    dá<aux><pret><p1>+fu̱di<v><iv> : dá fu̱di
+    dá<aux><pret><p1>+honi<v><tv> : dá honi
+    dá<aux><pret><p1>+hätsʼi<v><tv> : dá hätsʼi
+    dá<aux><pret><p1>+juadi<v><tv> : dá juadi
+    dá<aux><pret><p1>+ju̱ki<v><tv> : dá ju̱ki
+    dá<aux><pret><p1>+ku̱ni<v><tv> : dá ku̱ni
+    dá<aux><pret><p1>+o̱de<v><tv> : dá o̱de
+    dá<aux><pret><p1>+po̱tsʼe<v><iv> : dá po̱tsʼe
+    dá<aux><pret><p1>+pädi<v><tv> : dá pädi
+    dá<aux><pret><p1>+peni<v><tv> : dá peni
+    dá<aux><pret><p1>+pahai<v><tv> : dá mpahai
+    dá<aux><pret><p1>+sagi<v><iv> : dá sagi
+    dá<aux><pret><p1>+tai<v><tv> : dá tai
+    dá<aux><pret><p1>+tehmi<v><tv> : dá tehmi
+    dá<aux><pret><p1>+thädi<v><tv> : dá thädi
+    dá<aux><pret><p1>+tsa<v><tv> : dá tsa
+    dá<aux><pret><p1>+thede<v><iv> : dá thede
+    dá<aux><pret><p1>+thäʼti<v><iv> : dá thäʼti
+    dá<aux><pret><p1>+tsaya<v><iv> : dá tsaya
+    dá<aux><pret><p1>+tehmi<v><iv> : dá tehmi
+    #dá<aux><pret><p1>+tsa<v><tv> : dá ntsa
+    dá<aux><pret><p1>+tse̱käza<v><tv> : dá ntse̱käza
+    dá<aux><pret><p1>+tsithe<v><tv> : dá ntsithe
+    dá<aux><pret><p1>+täte<v><iv> : dá ntäte
+    dá<aux><pret><p1>+xo̱ni<v><iv> : dá xo̱ni
+    dá<aux><pret><p1>+ähä<v><iv> : dá ähä
+    dá<aux><pret><p1>+ʼbai<v><iv> : dá ʼbai
+
+  "[lexc+twol] gá-forms":
+    gá<aux><pret><p2>+fu̱di<v><iv> : gá fu̱di
+    gá<aux><pret><p2>+honi<v><tv> : gá honi
+    gá<aux><pret><p2>+hätsʼi<v><tv> : gá hätsʼi
+    gá<aux><pret><p2>+juadi<v><tv> : gá juadi
+    gá<aux><pret><p2>+ju̱ki<v><tv> : gá ju̱ki
+    gá<aux><pret><p2>+ku̱ni<v><tv> : gá ku̱ni
+    gá<aux><pret><p2>+o̱de<v><tv> : gá o̱de
+    gá<aux><pret><p2>+po̱tsʼe<v><iv> : gá po̱tsʼe
+    gá<aux><pret><p2>+pädi<v><tv> : gá pädi
+    gá<aux><pret><p2>+peni<v><tv> : gá peni
+    gá<aux><pret><p2>+pahai<v><tv> : gá mpahai
+    gá<aux><pret><p2>+sagi<v><iv> : gá sagi
+    gá<aux><pret><p2>+tai<v><tv> : gá tai
+    gá<aux><pret><p2>+tehmi<v><tv> : gá tehmi
+    gá<aux><pret><p2>+thädi<v><tv> : gá thädi
+    gá<aux><pret><p2>+tsa<v><tv> : gá tsa
+    gá<aux><pret><p2>+thede<v><iv> : gá thede
+    gá<aux><pret><p2>+thäʼti<v><iv> : gá thäʼti
+    gá<aux><pret><p2>+tsaya<v><iv> : gá tsaya
+    gá<aux><pret><p2>+tehmi<v><iv> : gá tehmi
+    #gá<aux><pret><p2>+tsa<v><tv> : gá ntsa
+    gá<aux><pret><p2>+tse̱käza<v><tv> : gá ntse̱käza
+    gá<aux><pret><p2>+tsithe<v><tv> : gá ntsithe
+    gá<aux><pret><p2>+täte<v><iv> : gá ntäte
+    gá<aux><pret><p2>+xo̱ni<v><iv> : gá xo̱ni
+    gá<aux><pret><p2>+ähä<v><iv> : gá ähä
+    gá<aux><pret><p2>+ʼbai<v><iv> : gá ʼbai
+
+  "[lexc+twol] roots":
+    fu̱di<v><iv> : fu̱di
+    honi<v><tv> : honi
+    hätsʼi<v><tv> : hätsʼi
+    juadi<v><tv> : juadi
+    ju̱ki<v><tv> : ju̱ki
+    ku̱ni<v><tv> : ku̱ni
+    o̱de<v><tv> : o̱de
+    po̱tsʼe<v><iv> : po̱tsʼe
+    pädi<v><tv> : pädi
+    peni<v><tv> : peni
+    pahai<v><tv> : pahai
+    sagi<v><iv> : sagi
+    tai<v><tv> : tai
+    tehmi<v><tv> : tehmi
+    thädi<v><tv> : thädi
+    tsa<v><tv> : tsa
+    tsa<v><tv> : tsa
+    thede<v><iv> : thede
+    thäʼti<v><iv> : thäʼti
+    tsaya<v><iv> : tsaya
+    tehmi<v><iv> : tehmi
+    tse̱käza<v><tv> : tse̱käza
+    tsithe<v><tv> : tsithe
+    täte<v><iv> : täte
+    xo̱ni<v><iv> : xo̱ni
+    ähä<v><iv> : ähä
+    ʼbai<v><iv> : ʼbai
+    
+  "[lexc+twol] bi impers forms":
+    bi<aux><pret><impers><p3>+pädi<v><tv> : bi fädi
+    bi<aux><pret><impers><p3>+peni<v><tv> : bi ʼbeni
+    bi<aux><pret><impers><p3>+tai<v><tv> : bi thai
+    bi<aux><pret><impers><p3>+tsa<v><tv> : bi tsʼa
+    bi<aux><pret><impers><p3>+ku̱ni<v><tv> : bi ju̱ni
+    bi<aux><pret><impers><p3>+xofo<v><tv> : bi sofo
+    bi<aux><pret><impers><p3>+o̱de<v><tv> : bi tʼo̱de
+    bi<aux><pret><impers><p3>+äni<v><tv> : bi tʼäni
+    bi<aux><pret><impers><p3>+honi<v><tv> : bi thoni
+    bi<aux><pret><impers><p3>+hätsʼi<v><tv> : bi thätsʼi
+    bi<aux><pret><impers><p3>+huahni<v><tv> : bi thahni
+    bi<aux><pret><impers><p3>+ʼue̱ti<v><tv> : bi the̱ti

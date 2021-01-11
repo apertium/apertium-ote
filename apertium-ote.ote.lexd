@@ -31,12 +31,12 @@ LEXICON Verb-Stems(2)
 
 pädi:pädi					<tv>	# saber
 po̱tsʼe:po̱tsʼe				<iv>	# subir
-peni:{P}eni					<tv>	# lavar
+peni:{ʼ}{P}eni				<tv>	# lavar
 fu̱di:fu̱di					<iv>	# empezar
 tehmi:tehmi					<tv>	# quebrar
 tehmi:{ъ}tehmi				<iv>	# quebrarse
 ʼbai:ʼbai					<iv>	# pararse
-tai:tai						<tv>	# comprar
+tai:t{h}ai					<tv>	# comprar
 thädi:thädi					<tv>	# contestar
 tsa:tsa						<tv>	# mordar
 ku̱ni:ku̱ni					<tv>	# molir
@@ -45,7 +45,7 @@ juadi:juadi					<tv>	# terminar
 o̱de:{ʼ}{y}o̱de				<tv>	# oír
 ähä:{ʼ}{ñ}ähä				<iv>	# dormir
 honi:h{y}oni				<tv>	# buscar
-hätsʼi:h{ñ}atsʼi			<tv>	# llevar
+hätsʼi:h{ñ}ätsʼi			<tv>	# llevar
 thäʼti:{n}thäʼti			<iv>	# molir
 thede:{n}thede				<iv>	# reírse
 tsaya:{n}tsaya				<iv>	# descansar
@@ -56,12 +56,17 @@ tse̱käza:{🪅}{n}tse̱käza	<tv>	# cortar
 pahai:{🪅}{m}pahai			<tv>	# vender
 tsithe:{🪅}{n}tsithe		<tv>	# tomar
 täte:{🪅}{n}täte			<iv>	# vencer ! FIXME: technically tä<v><tv>+te
+xofo:xofo					<tv>	# cosechar
+äni:{ʼ}{n}äni				<tv>	# menear
+huahni:huahni				<tv>	# escoger
+ʼue̱ti:ʼue̱ti					<tv>	# coser
 
 LEXICON Proclitics(2)
 
-dá:dá	<pret><p1>
-gá:gá	<pret><p2>
-bi:bi	<pret><p3>
+dá:dá{ꞩ}	<pret><p1>
+gá:gá{ꞩ}	<pret><p2>
+bi:bi{Ꞩ}	<pret><p3>
+bi:bi{ℐ}	<pret><impers><p3>
 
 LEXICON Noun-Stems
 
