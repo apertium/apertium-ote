@@ -93,6 +93,7 @@ tu:tu							<tv>	# deber
 tsi:tsi						<tv>	# comer
 pe:pe							<tv>	# robar
 ʼra:ʼra						<tv>	# dar
+ʼra:rʼa						<tv>	# dar  ! Dir/LR
 pa:pa							<tv>	# vender
 tähä:tähä					<tv>	# ganar
 mihi:mihi					<tv>	# pedir prestado; agarrar
@@ -109,6 +110,16 @@ dá:dá{ꞩ}	<pret><s_p1>
 gá:gá{ꞩ}	<pret><s_p2>
 bi:bi{Ꞩ}	<pret><s_p3>
 bi:bi{ℐ}	<pret><impers><s_p3>
+
+ga:ga{ꞩ}	<fut><s_p1>
+gi:gi{ꞩ}	<fut><s_p2>
+da:da{Ꞩ}	<fut><s_p3>
+
+dí:dí		<pres><s_p1>
+gí:gí		<pres><s_p1>
+di:di		<pres><s_p1>
+i:i		<pres><s_p1>	# FIXME: what's the difference?
+
 
 ndí:ndí		<copret><s_p1>
 ndrí:ndrí	<copret><prog><s_p1>
@@ -3301,10 +3312,11 @@ LEXICON Determiner-Stems(2)
 
 ra:ra					<def><sg>
 ya:ya					<def><pl>
-ʼna\ ra				<idf><sg>
-nʼa\ ra				<idf><sg>  # Source/Norma
-nʼar					<idf><sg>  # Dir/LR ! Source/Norma
+ʼna\ ra:ʼna\ ra	<idf><sg>
+ʼna\ ra:nʼa\ ra	<idf><sg>  # Dir/LR ! Source/Norma
+ʼna\ ra:nʼar		<idf><sg>  # Dir/LR ! Source/Norma
 ʼra\ ya:ʼra\ ya	<idf><pl>
+ʼra\ ya:rʼa\ ya	<idf><pl>	# Dir/LR
 ʼna\ ya:ʼna\ ya	<idf><pl>
 nuni:nuni			<dem><sg>	# aquel, aquella
 nunä:nunä			<dem><sg>	# este
