@@ -1,6 +1,6 @@
 Alphabet
- A Ä B C D E E̱ F G H I J K L M N Ñ O O̱ P R S T U U̱ W Y Z
- a ä b c d e e̱ f g h i j k l m n ñ o o̱ p r s t u u̱ w y z ʼ
+ A Ä B C D E E̱ F G H I J K L M N Ñ O O̱ P R S T U U̱ W X Y Z
+ a ä b c d e e̱ f g h i j k l m n ñ o o̱ p r s t u u̱ w x y z ʼ
  %{ъ%}:0
  %{P%}:p %{P%}:m
  %{y%}:0 %{y%}:y
