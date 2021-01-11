@@ -4714,6 +4714,9 @@ zu̱xyä:zu̱xyä   # último hijo, última cría en ¶nacer
 
 # manually added:
 nuni:nuni			# pelota
+nde̱snä:nde̱snä		# náhuatl; pollo pinto; búlico
+nde̱snä:nde̱shnä		# náhuatl; pollo pinto; búlico ! Dir/LR
+ñämfo̱:ñämfo̱			# persona de habla española
 
 LEXICON Determiner-Stems(2)
 
@@ -4732,6 +4735,7 @@ nuyu̱:nuyu̱			<dem><pl>	# aquellos, ellos
 nuʼä:nuʼä			<dem><sg>	# aquel
 gatho:gatho			<qnt><sg>	# todo
 gaʼtho:gaʼtho		<qnt><pl>	# todos
+ndunthi:ndunthi	<qnt><pl>	# mucho; cantidad numerosa, abundante; gran parte
 
 LEXICON Pron-Stems(2)
 
@@ -4766,6 +4770,8 @@ desde:desde		# desde
 LEXICON Adv-Stems
 
 nuni:nuni		# allá
+nehe:nehe		# también
+nehe:ʼnehe		# también ! Dir/LR
 
 
 
