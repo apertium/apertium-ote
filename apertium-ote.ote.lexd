@@ -9,6 +9,7 @@ Prepositions
 Pronouns
 Conjunctions
 Adverbs
+Punctuation
 
 PATTERN Verbs
 
@@ -3346,3 +3347,30 @@ desde:desde		# desde
 LEXICON Adv-Stems
 
 nuni:nuni		# allá
+
+
+
+LEXICON Punctuation
+
+.<sent>:.
+..<sent>:..
+...<sent>:...
+;<sent>:;
+\:<sent>:\:
+!<sent>:!
+-<guio>:-
+—<guio>:—
+,<cm>:,
+?<sent>:?
+'<apos>:'
+"<sent>:"
+«<lquot>:«
+»<rquot>:»
+”<rquot>:”
+“<lquot>:“
+(<lpar>:(
+\]<rpar>:\]
+\[<lpar>:\[
+)<rpar>:)
+\\<sent>:\\
+/<sent>:/
