@@ -29,6 +29,7 @@ Rules
 Cx:Cy <=> b i %{Ꞩ%}: %  ( [ ʼ | %{ʼ%}: ] ) _ ;
       except
             _ s: ;
+            _ i: %>: %{B%}: ;   ! avoids conflict with other rule
       where Cx in ( p %{P%} f b t k j )
             Cy in ( b   m   m m d g g )
       matched ;
@@ -91,6 +92,17 @@ h:0 <=> _ [ i: | ä: ] %>: %{G%}: ;
     except
         %{ℐ%}: %  _ \%{P%}: ;
 
+"Verbs in -pi delete p before {B}"
+p:0 <=> _ i: %>: %{B%}: ;
+
+"some contexts for {B}:p"
+%{B%}:p <= p: i: %>: _ ;
+
+"some contexts for {B}:b"
+%{B%}:b <= n: Vow: %>: _ ;
+
+"n:m before {B}"
+n:m <=> _ Vow: %>: %{B%}: ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
