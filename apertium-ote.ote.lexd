@@ -14,9 +14,14 @@ Punctuation
 
 PATTERN Verbs
 
-Proclitics(1) [<aux>:] Proclitics(2): [+:\ ] Verb-Stems(1) [<v>:] Verb-Stems(2):
+Proclitic # proclitics on their own
+(Proclitic [+:\ ])? Verb-Stem Objects?
 
-Proclitics(1) [<aux>:] Proclitics(2): [+:\ ] Verb-Stems(1) [<v>:] Verb-Stems(2): Objects
+PATTERN Proclitic
+
+Proclitics(1) [<aux>:] Proclitics(2):
+
+PATTERN Verb-Stem
 
 Verb-Stems(1) [<v>:] Verb-Stems(2):
 
