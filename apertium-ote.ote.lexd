@@ -9,6 +9,7 @@ Prepositions
 Pronouns
 Conjunctions
 Adverbs
+Adjectives
 Punctuation
 
 PATTERN Verbs
@@ -27,6 +28,10 @@ Noun-Stems [<n>:]
 PATTERN Adverbs
 
 Adv-Stems [<adv>:]
+
+PATTERN Adjectives
+
+Adv-Stems [<adj>:]
 
 PATTERN Determiners
 
@@ -4772,6 +4777,15 @@ LEXICON Adv-Stems
 nuni:nuni		# allá
 nehe:nehe		# también
 nehe:ʼnehe		# también ! Dir/LR
+tsʼu̱:tsʼu̱		# un poco
+
+LEXICON Adj-Stems
+
+dänga:dänga		# grande
+notsi:notsi		# pequeño, chico
+tʼu̱ki:tʼu̱ki		# chico, pequeño
+tsani:tsani		# chico, pequeño
+tsʼu̱:tsʼu̱		# pequeño, delgado
 
 
 
