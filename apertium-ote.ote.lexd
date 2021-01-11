@@ -6,10 +6,15 @@ Verbs
 Nouns
 Determiners
 Prepositions
+Pronouns
+Conjunctions
+Adverbs
 
 PATTERN Verbs
 
 Proclitics(1) [<aux>:] Proclitics(2): [+:\ ] Verb-Stems(1) [<v>:] Verb-Stems(2):
+
+Proclitics(1) [<aux>:] Proclitics(2): [+:\ ] Verb-Stems(1) [<v>:] Verb-Stems(2): Objects
 
 Verb-Stems(1) [<v>:] Verb-Stems(2):
 
@@ -18,9 +23,21 @@ PATTERN Nouns
 
 Noun-Stems [<n>:]
 
+PATTERN Adverbs
+
+Adv-Stems [<adv>:]
+
 PATTERN Determiners
 
 Determiner-Stems(1) [<det>:] Determiner-Stems(2):
+
+PATTERN Pronouns
+
+Pron-Stems(1) [<prn>:] Pron-Stems(2):
+
+PATTERN Conjunctions
+
+Conj-Stems(1) Conj-Stems(2):
 
 PATTERN Prepositions
 
@@ -60,13 +77,73 @@ xofo:xofo					<tv>	# cosechar
 äni:{ʼ}{n}äni				<tv>	# menear
 huahni:huahni				<tv>	# escoger
 ʼue̱ti:ʼue̱ti					<tv>	# coser
+# FIXME: verbs below this line haven't been checked
+#        for morphophonological alternations
+su:su							<tv>	# cuidar ! FIXME: check <tv>
+ho:ho							<tv>	# matar
+tsani:tsani					<tv>	# maldecir
+tso̱ni:tso̱ni					<tv>	# visitar
+u̱ni:u̱ni						<tv>	# lastimar
+te̱ni:te̱ni					<tv>	# seguir
+e̱ni:{ʼ}e̱ni					<iv>	# echar fuera
+enä:enä						<tv>	# decir
+tsogi:tsogi					<tv>	# dejar
+tu:tu							<tv>	# deber
+tsi:tsi						<tv>	# comer
+pe:pe							<tv>	# robar
+ʼra:ʼra						<tv>	# dar
+pa:pa							<tv>	# vender
+tähä:tähä					<tv>	# ganar
+mihi:mihi					<tv>	# pedir prestado; agarrar
+toca:toca					<tv>	# tocar
+pa:pa							<tv>	# vender
+epi:epi						<tv>	# convenir
+xipi:xipi					<tv>	# decir
+ne:ne							<tv>	# querer, desear; apetecer
+nuni:nuni					<iv>	# encogerse
 
 LEXICON Proclitics(2)
 
-dá:dá{ꞩ}	<pret><p1>
-gá:gá{ꞩ}	<pret><p2>
-bi:bi{Ꞩ}	<pret><p3>
-bi:bi{ℐ}	<pret><impers><p3>
+dá:dá{ꞩ}	<pret><s_p1>
+gá:gá{ꞩ}	<pret><s_p2>
+bi:bi{Ꞩ}	<pret><s_p3>
+bi:bi{ℐ}	<pret><impers><s_p3>
+
+ndí:ndí		<copret><s_p1>
+ndrí:ndrí	<copret><prog><s_p1>
+ndra:ndra	<copret><prog><s_p1>
+ndra:ndra	<copret><os><s_p1>
+
+mbí:mbí		<copret><os><s_p3>		# 3a pers del copretérito, en otro sitio
+mbrí:mbrí	<copret><os><prog><s_p3>
+mbrí:mbrí	<copret><subj><s_p3i>	# 3.a pers. act. indet. del copretérito, modo subjuntivo
+mi:mi			<copret><s_p3>				# 3a pers del copretérito
+mrí:mrí		<copret><prog><s_p3>
+mrí:mrí		<copret><s_p3i>			# 3.a pers. act. indet. del copretérito, modo subjuntivo
+
+stí:stí		<pres><prox><s_p1>
+xkí:xkí		<pres><prox><s_p2>
+sti:sti		<pres><prox><s_p3>
+stá:stá		<pret><prox><s_p1>
+xká:xká		<pret><prox><s_p2>
+xa:xa			<pret><prox><s_p3>
+xka:xka		<fut><prox><s_p1>
+xki:xki		<fut><prox><s_p2>
+sta:sta		<fut><prox><s_p3>
+stį:stį		<pret><ant><prox><s_p1>
+xkí:xkí		<pret><ant><prox><s_p3>
+
+
+
+LEXICON Objects
+
+<o_p1>:>{G}agi
+<o_p1>:>{G}i       # Dir/LR
+<o_p2>:>ʼaʼi
+<o_p2>:>ʼi         # Dir/LR
+<o_p3>:>{B}abi
+<o_p3>:>{B}i       # Dir/LR
+
 
 LEXICON Noun-Stems
 
@@ -1581,6 +1658,7 @@ ngo̱tho:ngo̱tho   # pulpa (carne sin hueso
 ngo̱tsʼi:ngo̱tsʼi   # encía  
 ngo̱ze̱xjo:ngo̱ze̱xjo   # persona que se pone ¶calzones  
 ngu:ngu   # 1. casa adv como que  
+ngu:nguu  # Dir/LR  ! Source/Norma
 nguani:nguani   # cuesta, subida, ¶pendiente, ladera, inclinada  
 nguatra:nguatra   # 1. cuartilla (moneda ¶antigua equivalente a tres centavos 
 nguatʼi:nguatʼi   # resguardo (reg. 
@@ -3215,14 +3293,37 @@ zu̱te:zu̱te   # regañón
 zu̱thä:zu̱thä   # pepenador de maíz, ¶rebuscador de maíz  
 zu̱xyä:zu̱xyä   # último hijo, última cría en ¶nacer  
 
+# manually added:
+nuni:nuni			# pelota
 
 LEXICON Determiner-Stems(2)
 
 ra:ra					<def><sg>
 ya:ya					<def><pl>
 ʼna\ ra				<idf><sg>
+nʼa\ ra				<idf><sg>  # Source/Norma
+nʼar					<idf><sg>  # Dir/LR ! Source/Norma
 ʼra\ ya:ʼra\ ya	<idf><pl>
 ʼna\ ya:ʼna\ ya	<idf><pl>
+nuni:nuni			<dem><sg>	# aquel, aquella
+nunä:nunä			<dem><sg>	# este
+nuya:nuya			<dem><pl>	# estos
+nuyu̱:nuyu̱			<dem><pl>	# aquellos, ellos
+nuʼä:nuʼä			<dem><sg>	# aquel
+gatho:gatho			<qnt><sg>	# todo
+gaʼtho:gaʼtho		<qnt><pl>	# todos
+
+LEXICON Pron-Stems(2)
+
+toʼo:toʼo			<itg>			# quién
+nunä:nunä			<dem><sg>	# éste
+nunä:nunä			<dem><pl>	# éstos
+nuʼä:nuʼä			<dem><sg>	# aquél
+
+LEXICON Conj-Stems(2)
+
+toʼo:toʼo			<cnjcoo>		# quien
+nuʼä:nuʼä			<cnjcoo>		# que
 
 LEXICON Prep-Stems
 
@@ -3241,3 +3342,7 @@ dega:dega		# de
 ga:ga				# de
 asta:asta		# hasta
 desde:desde		# desde
+
+LEXICON Adv-Stems
+
+nuni:nuni		# allá

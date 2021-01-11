@@ -13,12 +13,14 @@ Alphabet
  %{ꞩ%}:0         ! secondary verb form only if there's incorporation
  %{Ꞩ%}:0         ! secondary verb form
  %{ℐ%}:0         ! impersonal verb form
+ %{G%}:g %{G%}:k
+ %{B%}:b %{B%}:p %{B%}:u
 ;
 
 Sets
 
-Vow = A E I O U
-      a e i o u ;
+Vow = A Ä E E̱ I O O̱ U U̱
+      a ä e e̱ i o o̱ u u̱ ;
 
 Rules
 
@@ -78,6 +80,16 @@ Cx:Cy <=> %{ℐ%}: %  Ca: _ ;
             Cx in ( %{n%} %{y%} %{ñ%} %{P%} %{h%} %{y%} u u )
             Cy in (   ʼ     h     h     b     h     ʼ   h h )
       matched ;
+
+"Delete non-σ1 ä,i,e before p1 indirect complement"
+Vx:0 <=> Vow: \Vow:+ _ > %{G%}: ;
+     where Vx in ( ä i e ) ;
+
+"Delete h before deleted i,ä before p1 indirect complement"
+h:0 <=> _ [ i: | ä: ] > %{G%}: ;
+    except
+        %{ℐ%}: %  _ \%{P%}: ;
+
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
