@@ -115,6 +115,7 @@ ne:ne							<tv>	# querer, desear; apetecer
 nuni:nuni					<iv>	# encogerse
 bʼe̱pi:bʼe̱pi					<tv>	# faltar (a alguien); ordenar, mandar; incitar, instigar
 # FIXME: bʼe̱ki - me falta; bʼe̱ʼi - te falta
+mä:{h}mä						<tv>	# decir
 
 # AUTOMATICALLY ADDED:
 
@@ -706,7 +707,7 @@ mpareha:mpareha	 <tv>    # emparejar ¶
 mpasia:mpasia	 <iv>    # <iv> pasearse ¶2. s paseo  
 mpaʼti:mpaʼti	 <iv>    # <iv> calentar ¶2. s calentada  
 mpähi:mpähi	 <iv>    # adormecer  
-mpe̱fi:mpe̱fi	 <iv>    # trabajar herramienta  
+mpe̱fi:mpe̱fi	 <iv>    # trabajar; herramienta  
 mpe̱i:mpe̱i	 <iv>    # 1. pandearse, bambolearse ¶2. torcerse ¶mpe̱mbo s el que se sube en los quiotes 
 mpe̱nkuí:mpe̱nkuí	 <iv>    # ser compañero de, ¶acompañarse  
 mpitsʼi:mpitsʼi	 <iv>    # acostarse boca arriba ¶ 
@@ -1464,7 +1465,7 @@ xo̱tsʼe:xo̱tsʼe	 <iv>    # despegar
 xo̱ʼhmi:xo̱ʼhmi	 <iv>    # rajar palma  
 xo̱ʼte:xo̱ʼte	 <tv>    # 1. rajar (leña 
 xo̱ʼtse:xo̱ʼtse	 <tv>    # 1. despegar  
-xu:xu	 <iv>    # 1. rendir  
+xu:xu	 <iv>    # 1. rendir; multiplicarse
 xuni:xuni	 <tv>    # pixcar (preparar el nixtamalpixcar (compl. indet. 
 xustʼi:xustʼi	 <tv>    # moler 
 xutʼi:xutʼi	 <iv>    # <iv> deshacerse  
@@ -1523,6 +1524,10 @@ zu̱tsʼi:zu̱tsʼi	 <tv>    # soliviar, alzar
 
 LEXICON Proclitics(2)
 
+# <nlc> = nonlocal ("de otro sitio")
+# <dist> = distal/distanced ("alejamiento")
+# <prox> = proximate ("próximo")
+
 dá:dá{ꞩ}	<pret><s_p1>
 gá:gá{ꞩ}	<pret><s_p2>
 bi:bi{Ꞩ}	<pret><s_p3>
@@ -1541,10 +1546,10 @@ i:i		<pres><s_p1>	# FIXME: what's the difference?
 ndí:ndí		<copret><s_p1>
 ndrí:ndrí	<copret><prog><s_p1>
 ndra:ndra	<copret><prog><s_p1>
-ndra:ndra	<copret><os><s_p1>
+ndra:ndra	<copret><nlc><s_p1>
 
-mbí:mbí		<copret><os><s_p3>		# 3a pers del copretérito, en otro sitio
-mbrí:mbrí	<copret><os><prog><s_p3>
+mbí:mbí		<copret><nlc><s_p3>		# 3a pers del copretérito, en otro sitio
+mbrí:mbrí	<copret><nlc><prog><s_p3>
 mbrí:mbrí	<copret><subj><s_p3i>	# 3.a pers. act. indet. del copretérito, modo subjuntivo
 mi:mi			<copret><s_p3>				# 3a pers del copretérito
 mrí:mrí		<copret><prog><s_p3>
@@ -1561,6 +1566,23 @@ xki:xki		<fut><prox><s_p2>
 sta:sta		<fut><prox><s_p3>
 stį:stį		<pret><ant><prox><s_p1>
 xkí:xkí		<pret><ant><prox><s_p3>
+
+
+brí:brí{ℐ}	<pres><prog><nlc><s_p3>
+brá:brá{ℐ}	<pret><prog><nlc><s_p3>
+dra:dra		<fut><prog><nlc><s_p3>
+mbrí:mbrí	<impf><prog><nlc><s_p3>
+mbrá:mbrá	<perf><prog><nlc><s_p3>
+
+drá:drá		<pres><dist><s_p1>
+grí:grí		<pres><dist><s_p2>
+dra:dra		<pres><dist><s_p3>
+ndrá:ndrá	<impf><dist><s_p1>
+ngrá:ngrá	<impf><dist><s_p2>
+ndra:ndra	<impf><dist><s_p3>
+grá:grá		<fut><dist><s_p1>
+grí:grí		<fut><dist><s_p2>
+drá:drá		<fut><dist><s_p3>
 
 
 
@@ -4756,14 +4778,18 @@ nuʼä:nuʼä			<dem><sg>	# aquél
 
 LEXICON Conj-Stems(2)
 
-toʼo:toʼo			<cnjcoo>		# quien
-nuʼä:nuʼä			<cnjcoo>		# que
+toʼo:toʼo			<cnjsub>		# quien
+nuʼä:nuʼä			<cnjsub>		# que
+ngeʼä:ngeʼä			<cnjsub>		# porque
+ngetho:ngetho		<cnjsub>		# porque
+po\ rá\ ngeʼä:po\ rá\ ngeʼä	<cnjsub>	# por causa de, oir culpa de
 
 LEXICON Prep-Stems
 
 mbo:mbo			# dentro de
 ngaʼti:ngaʼti	# bajo, abajo de
 nge:nge			# cerca de
+po\ rá\ nge:po\ rá\ nge	# por, para
 nsi:nsi			# sin
 nsinke:nsinke	# sin
 pa:pa				# para
