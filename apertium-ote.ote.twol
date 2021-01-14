@@ -83,9 +83,9 @@ Cx:Cy <=> %{ℐ%}: %  _ Cz: ;
 
 "impersonal form mappings C2"
 Cx:Cy <=> %{ℐ%}: %  Ca: _ ;
-      where Ca in ( %{ʼ%}   h     h   %{ʼ%}   t   %{ʼ%} h ʼ )
-            Cx in ( %{n%} %{y%} %{ñ%} %{P%} %{h%} %{y%} u u )
-            Cy in (   ʼ     h     h     b     h     ʼ   h h )
+      where Ca in ( %{ʼ%} %{ʼ%}   h     h   %{ʼ%}   t   %{ʼ%} h ʼ )
+            Cx in ( %{n%} %{ñ%} %{y%} %{ñ%} %{P%} %{h%} %{y%} u u )
+            Cy in (   ʼ     t     h     h     b     h     ʼ   h h )
       matched ;
 
 "Delete non-σ1 ä,i,e before p1 indirect complement"

@@ -34,6 +34,7 @@ Tests:
     bi<aux><pret><s_p3>+ähä<v><iv> : bi ʼñähä
     bi<aux><pret><s_p3>+ʼbai<v><iv> : bi ʼmai
     bi<aux><pret><s_p3>+äni<v><tv> : bi ʼnäni
+    bi<aux><pret><s_p3>+embi<v><tv> : bi ʼñembi
 
   "[lexc+twol] dá-forms":
     dá<aux><pret><s_p1>+fu̱di<v><iv> : dá fu̱di
@@ -121,6 +122,7 @@ Tests:
     xo̱ni<v><iv> : xo̱ni
     ähä<v><iv> : ähä
     ʼbai<v><iv> : ʼbai
+    embi<v><tv> : embi
     
   "[lexc+twol] bi impers forms":
     bi<aux><pret><impers><s_p3>+pädi<v><tv> : bi fädi
@@ -135,3 +137,4 @@ Tests:
     bi<aux><pret><impers><s_p3>+hätsʼi<v><tv> : bi thätsʼi
     bi<aux><pret><impers><s_p3>+huahni<v><tv> : bi thahni
     bi<aux><pret><impers><s_p3>+ʼue̱ti<v><tv> : bi the̱ti
+    bi<aux><pret><impers><s_p3>+embi<v><tv> : bi tʼembi

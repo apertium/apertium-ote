@@ -12,6 +12,7 @@ Adverbs
 Adjectives
 Propernouns
 Punctuation
+Number
 
 PATTERN Verbs
 
@@ -131,6 +132,7 @@ mä:{h}mä						<tv>	# decir
 ko̱nti:ko̱nti					<tv>	# negar
 tsunti:tsunti				<tv>	# prohibir
 bʼe̱nga:bʼe̱nga				<iv>	# replegarse
+embi:{ʼ}{ñ}embi			<tv>	# decir
 
 # AUTOMATICALLY ADDED:
 
@@ -5067,6 +5069,7 @@ Tsʼe̱yʼe̱hmu:Tsʼeyʼehmu	<ant><m>	# Motecuhzoma	! Dir/LR
 Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱mu		<ant><m>	# Motecuhzoma	! Dir/LR
 Mʼonda:Mʼonda				<top>		# México
 México:México				<top>		# México
+Jesu							<ant><m>	# Jesús
 
 LEXICON Numeral
 0
@@ -5081,8 +5084,8 @@ LEXICON Numeral
 9
 
 PATTERN Number
-Numeral+
-Numeral+ ([.]|[,]) Numeral+
+Numeral+ [<num>:]
+Numeral+ ([.]|[,]) Numeral+ [<num>:]
 
 LEXICON Punctuation
 
