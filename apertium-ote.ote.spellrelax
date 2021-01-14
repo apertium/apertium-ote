@@ -1,34 +1,27 @@
 [
 	! merge apostrophes
-	[ ?* [ ʼ -> [ %' | %’ | %` | %´ | %‘ | %ʻ ] | ʼ ] ?* ] .o.
+	[ ?* [ ʼ (->) [ %' | %’ | %` | %´ | %‘ | %ʻ ] ] ?* ] .o.
 
 	! accept missing or alternative diacritics
-	[ ?* [ á -> á | á | a ] ?* ] .o.
-	[ ?* [ Á -> Á | Á | A ] ?* ] .o.
-	[ ?* [ í -> í | í | i ] ?* ] .o.
-	[ ?* [ Í -> Í | Í | I ] ?* ] .o.
-	[ ?* [ ä -> ä | ä | a | a̱ ] ?* ] .o.
-	[ ?* [ Ä -> Ä | Ä | A | A̱ ] ?* ] .o.
-	[ ?* [ ú -> ú | ú | u ] ?* ] .o.
-	[ ?* [ Ú -> Ú | Ú | U ] ?* ] .o.
+	[ ?* [ á (->) [ a | á ] ] ?* ] .o.
+	[ ?* [ Á (->) [ A | Á ] ] ?* ] .o.
+	[ ?* [ í (->) [ i | í ] ] ?* ] .o.
+	[ ?* [ Í (->) [ I | Í ] ] ?* ] .o.
+	[ ?* [ ä (->) [ a | ä | a̱ ] ] ?* ] .o.
+	[ ?* [ Ä (->) [ A | Ä | A̱ ] ] ?* ] .o.
+	[ ?* [ ú (->) [ u | ú ] ] ?* ] .o.
+	[ ?* [ Ú (->) [ U | Ú ] ] ?* ] .o.
 
 	! FIXME: allow diacritics when none are in transducer? :(
 
-! (doesn't seem to be needed for now)
-! accept non-macron-below forms
-! e̱	e	ɛ
-! o̱	o	ø
-! u̱	u	ʉ
-
 	! alternative characters
-	[ ?* [ e̱ -> e̱ | ɛ ] ?* ] .o.
-	[ ?* [ o̱ -> o̱ | ø ] ?* ] .o.
-	[ ?* [ u̱ -> u̱ | ʉ ] ?* ] .o.
+	! (currently doesn't seem to need to accept non-macron-below versions)
+	[ ?* [ e̱ (->) ɛ ] ?* ] .o.
+	[ ?* [ o̱ (->) ø ] ?* ] .o.
+	[ ?* [ u̱ (->) ʉ ] ?* ] .o.
 
-	! ʼC as Cʼ
-	! [ 0:ʼ [ b | k | m | ñ | t | r | y ] ʼ:0 ?* ]
-	! [ [ 0:ʼ [ b | k | m | ñ | t | r | y ] ʼ:0 | ʼ [ b | k | m | ñ | t | r | y ] ] ?* ]
-	 [ ( ʼ:0 [ b | k | m | ñ | t | r | y ] 0:ʼ ) ?* ]
+	! accept Cʼ for ʼC
+	[ ( ʼ:0 [ b | k | m | ñ | t | r | y ] 0:ʼ ) ?* ]
 
 	! c as ch
 	! [ ?* c [ 0 -> 0 | h ] ?* ]
