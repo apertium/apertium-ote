@@ -2814,7 +2814,6 @@ mfe̱i:mfe̱i   # 1. tunda
 mfe̱tate:mfe̱tate   # acción de arremedar 
 mfe̱tʼi:mfe̱tʼi   # vareada ¶mfe̱ts aleteada  
 mfe̱tsi:mfe̱tsi   # chispiadera (reg.chisquero  
-mfidi:mfidi   # s cama  
 mfixʼye̱:mfixʼye̱   # empalme de manos  
 mfiʼtsi:mfiʼtsi   # carona estar juntos, estar ¶contiguos  
 mfoʼmi:mfoʼmi   # 1. jorongo  
@@ -4759,6 +4758,9 @@ nde̱snä:nde̱snä		# náhuatl; pollo pinto; búlico
 nde̱snä:nde̱shnä		# náhuatl; pollo pinto; búlico ! Dir/LR
 ñämfo̱:ñämfo̱			# persona de habla española
 nthintʼantʼofo:nthintʼantʼofo	# introducción
+fidi:fidi	# cama  
+fidi:fidi	# lecho
+
 
 LEXICON Determiner-Stems(2)
 
@@ -5035,6 +5037,7 @@ zi:zi	# 1. pequeño
 LEXICON NP-Stems(2)
 
 Yucatán:Yucatán	<top>
+Cortés:Cortés		<ant>
 
 LEXICON Punctuation
 
