@@ -24,5 +24,9 @@
 	[ ( ʼ:0 [ b | k | m | ñ | t | r | y ] 0:ʼ ) ?* ] .o.
 
 	! accept c as ts
-	[ ?* [ [ t s ] (->) c ] ?* ]
+	[ ?* [ [ t s ] (->) c ] ?* ] .o.
+
+	! accept gu and qu as g and k before i/í/e
+	[ ?* ( [ g (->) [ g u ] ] [ i | í | e ] ) ?* ] .o.
+	[ ?* ( [ k (->) [ q u ] ] [ i | í | e ] ) ?* ]
 ]

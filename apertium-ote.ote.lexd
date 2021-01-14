@@ -4804,7 +4804,8 @@ LEXICON Pron-Stems(2)
 toʼo:toʼo			<itg>			# quién
 nunä:nunä			<dem><sg>	# éste
 nunä:nunä			<dem><pl>	# éstos
-nuʼä:nuʼä			<dem><sg>	# aquél
+núʼä:núʼä			<dem><sg>	# aquél
+núʼu̱:núʼu̱			<dem><pl>	# aquellos, esos
 
 LEXICON Conj-Stems(2)
 
@@ -5066,6 +5067,22 @@ Tsʼe̱yʼe̱hmu:Tsʼeyʼehmu	<ant><m>	# Motecuhzoma	! Dir/LR
 Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱mu		<ant><m>	# Motecuhzoma	! Dir/LR
 Mʼonda:Mʼonda				<top>		# México
 México:México				<top>		# México
+
+LEXICON Numeral
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+PATTERN Number
+Numeral+
+Numeral+ ([.]|[,]) Numeral+
 
 LEXICON Punctuation
 
