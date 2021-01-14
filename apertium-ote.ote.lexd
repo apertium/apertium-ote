@@ -5055,8 +5055,10 @@ zi:zi	# 1. pequeño
 
 LEXICON NP-Stems(2)
 
-Yucatán:Yucatán	<top>
-Cortés:Cortés		<ant>
+Yucatán:Yucatán			<top>
+Cortés:Cortés				<ant><m>
+Cuauhtémoc:Cuauhtémoc	<ant><m>
+Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱hmu	<ant><m>
 
 LEXICON Punctuation
 
