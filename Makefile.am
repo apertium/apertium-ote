@@ -4,6 +4,8 @@
 
 LANG1=ote
 BASENAME=apertium-$(LANG1)
+VAR1=Bible
+VAR2=INALI
 
 TARGETS_COMMON =			\
 	$(LANG1).automorf.hfst		\
@@ -11,6 +13,7 @@ TARGETS_COMMON =			\
 	$(LANG1).automorf.att.gz	\
 	$(LANG1).autogen.hfst		\
 	$(LANG1).autogen.bin		\
+	$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).autoconv.hfst \
 	$(LANG1).autogen.att.gz		\
 	$(LANG1).autopgen.bin		\
 	$(LANG1).prob                   \
@@ -72,6 +75,18 @@ $(LANG1).automorf.bin: $(LANG1).automorf.att.gz .deps/.d
 
 $(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	lt-comp lr $< $@
+
+# Ortho
+
+$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).autoconv.hfst: .deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).conv.hfst
+	hfst-fst2fst -w $< -o $@
+	
+.deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).conv.hfst: .deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).phon.hfst .deps/$(LANG1).spellrelax.hfst
+	hfst-invert .deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).phon.hfst | hfst-compose -1 - -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert -o $@
+
+.deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).phon.hfst: $(BASENAME).$(LANG1)_$(VAR1).phon
+	hfst-lexc $< -o $@
+
 
 ###############################################################################
 ## Debugging transducers (for testvoc)

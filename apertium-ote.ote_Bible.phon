@@ -1,0 +1,49 @@
+LEXICON Root
+
+LEXICON Loop
+
+    Graph ;
+    # ;
+
+LEXICON Graph
+
+a:a Loop ; ! 
+á:á Loop ; ! 
+à:à Loop ; ! 
+b:b Loop ; ! 
+c:c Loop ; ! 
+d:d Loop ; ! 
+e:e Loop ; ! 
+é:é Loop ; ! 
+è:è Loop ; ! 
+ɛ:ɛ Loop ; ! 
+f:f Loop ; ! 
+g:g Loop ; ! 
+h:h Loop ; ! 
+i:i Loop ; ! 
+í:í Loop ; ! 
+j:j Loop ; ! 
+k:k Loop ; ! 
+l:l Loop ; ! 
+m:m Loop ; ! 
+n:n Loop ; ! 
+ñ:ñ Loop ; ! 
+o:o Loop ; ! 
+ó:ó Loop ; ! 
+ø:ø Loop ; ! 
+p:p Loop ; ! 
+q:q Loop ; ! 
+r:r Loop ; ! 
+s:s Loop ; ! 
+t:t Loop ; ! 
+u:u Loop ; ! 
+ú:ú Loop ; ! 
+ù:ù Loop ; ! 
+û:û Loop ; ! 
+ü:ü Loop ; ! 
+ʉ:u̱ Loop ; ! Diff
+v:v Loop ; ! 
+x:x Loop ; ! 
+y:y Loop ; ! 
+z:z Loop ; ! 
+ʼ:ʼ Loop ; ! 
