@@ -5069,7 +5069,14 @@ Tsʼe̱yʼe̱hmu:Tsʼeyʼehmu	<ant><m>	# Motecuhzoma	! Dir/LR
 Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱mu		<ant><m>	# Motecuhzoma	! Dir/LR
 Mʼonda:Mʼonda				<top>		# México
 México:México				<top>		# México
-Jesu							<ant><m>	# Jesús
+Jesu:Jesu					<ant><m>	# Jesús
+Jesucristo:Jesucristo	<ant><m>	# 
+Abrá:Abrá					<ant><m> # Abrahám:Abrahám
+Davi:Davi					<ant><m>	# David
+Judá:Judá					<ant><m>	# Judá
+Isaac:Isaac					<ant><m>	# Isaac
+Aram:Aram					<top>		# Aramea (?)
+Salomó:Salomó				<ant><m>	# Salomón
 
 LEXICON Numeral
 0
