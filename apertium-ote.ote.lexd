@@ -130,6 +130,7 @@ nuni:nuni					<iv>	# encogerse
 mä:{h}mä						<tv>	# decir
 ko̱nti:ko̱nti					<tv>	# negar
 tsunti:tsunti				<tv>	# prohibir
+bʼe̱nga:bʼe̱nga				<iv>	# replegarse
 
 # AUTOMATICALLY ADDED:
 
@@ -4769,8 +4770,9 @@ nde̱snä:nde̱snä		# náhuatl; pollo pinto; búlico
 nde̱snä:nde̱shnä		# náhuatl; pollo pinto; búlico ! Dir/LR
 ñämfo̱:ñämfo̱			# persona de habla española
 nthintʼantʼofo:nthintʼantʼofo	# introducción
-fidi:fidi	# cama  
-fidi:fidi	# lecho
+fidi:fidi			# cama  
+fidi:fidi			# lecho
+ñähñu:ñähñu			# Hñähñu
 
 
 LEXICON Determiner-Stems(2)
@@ -4812,6 +4814,7 @@ ngeʼä:ngeʼä			<cnjsub>		# porque
 ngetho:ngetho		<cnjsub>		# porque
 po\ rá\ ngeʼä:po\ rá\ ngeʼä	<cnjsub>	# por causa de, oir culpa de
 ngu:ngu				<cnjadv>		# como, como que
+ko:ko					<cnjcoo>		# y
 
 LEXICON Prep-Stems
 
@@ -5055,12 +5058,14 @@ zi:zi	# 1. pequeño
 
 LEXICON NP-Stems(2)
 
-Yucatán:Yucatán			<top>
-Cortés:Cortés				<ant><m>
-Cuauhtémoc:Cuauhtémoc	<ant><m>
-Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱hmu	<ant><m>
-Tsʼe̱yʼe̱hmu:Tsʼeyʼehmu	<ant><m>	# Dir/LR
-Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱mu		<ant><m>	# Dir/LR
+Yucatán:Yucatán			<top>		# Yucatán
+Cortés:Cortés				<ant><m>	# Cortés
+Cuauhtémoc:Cuauhtémoc	<ant><m>	# Cuauhtémoc
+Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱hmu	<ant><m>	# Motecuhzoma
+Tsʼe̱yʼe̱hmu:Tsʼeyʼehmu	<ant><m>	# Motecuhzoma	! Dir/LR
+Tsʼe̱yʼe̱hmu:Tsʼe̱yʼe̱mu		<ant><m>	# Motecuhzoma	! Dir/LR
+Mʼonda:Mʼonda				<top>		# México
+México:México				<top>		# México
 
 LEXICON Punctuation
 

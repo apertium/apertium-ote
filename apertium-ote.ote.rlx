@@ -8,11 +8,10 @@ LIST Aux = aux ;
 LIST Adj = adj ;
 LIST N = n ;
 LIST Det = det ;
+LIST Prep = pr ;
 
 
 SECTION
-# If there is a singular noun to the right, I cannot be a verb or noun.
-REMOVE (n) OR (v) IF (1 (n s)) ;
 
 # e.g. ya
 SELECT Adv IF
@@ -25,6 +24,11 @@ SELECT Det IF
 	(1 N or Adj)
 ;
 
+# e.g. ko
+REMOVE N IF
+	(0 N or Prep)
+	(1 N or Det)
+;
 
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
 SELECT $$Case IF (1 (cnjcoo) LINK 1C $$Case) ;

@@ -20,9 +20,9 @@
 	[ ?* [ o̱ (->) ø ] ?* ] .o.
 	[ ?* [ u̱ (->) ʉ ] ?* ] .o.
 
-	! accept Cʼ for ʼC
-	[ ( ʼ:0 [ b | k | m | ñ | t | r | y ] 0:ʼ ) ?* ]
+	! accept initial Cʼ for ʼC
+	[ ( ʼ:0 [ b | k | m | ñ | t | r | y ] 0:ʼ ) ?* ] .o.
 
-	! c as ch
-	! [ ?* c [ 0 -> 0 | h ] ?* ]
+	! accept c as ts
+	[ ?* [ [ t s ] (->) c ] ?* ]
 ]
