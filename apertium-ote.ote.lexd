@@ -4788,6 +4788,7 @@ nunä:nunä			<dem><sg>	# este
 nuya:nuya			<dem><pl>	# estos
 nuyu̱:nuyu̱			<dem><pl>	# aquellos, ellos
 nuʼä:nuʼä			<dem><sg>	# aquel
+nuʼu̱:nuʼu̱			<dem><pl>	# aquellos, esos
 gatho:gatho			<qnt><sg>	# todo
 gaʼtho:gaʼtho		<qnt><pl>	# todos
 ndunthi:ndunthi	<qnt><pl>	# mucho; cantidad numerosa, abundante; gran parte
@@ -4969,11 +4970,11 @@ ntsʼo:ntsʼo	# adj sucio, mugroso
 ntsʼuni:ntsʼuni	# 1. delicado  
 ntsʼu̱:ntsʼu̱	# finito, pequeño  
 ntsʼu̱tʼi:ntsʼu̱tʼi	# 1. delgado  
-nunä:nunä	# adj este  
-nuya:nuya	# adj estos  
-nuyu̱:nuyu̱	# aquellos, ellos (designando ¶los que están a la vista, pero no al alcance 
-nuʼä:nuʼä	# adj aquel rel que  
-nuʼu̱:nuʼu̱	# adj aquellos, esos  
+#nunä:nunä	# adj este  
+#nuya:nuya	# adj estos  
+#nuyu̱:nuyu̱	# aquellos, ellos (designando ¶los que están a la vista, pero no al alcance 
+#nuʼä:nuʼä	# adj aquel rel que  
+#nuʼu̱:nuʼu̱	# adj aquellos, esos  
 nxaha:nxaha	# 1. húmedo s bañista  
 nxä:nxä	# adj apestoso, malolienta  
 nxe:nxe	# 1. extendido  
