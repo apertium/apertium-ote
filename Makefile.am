@@ -51,7 +51,7 @@ $(LANG1).autogen.hfst: .deps/$(LANG1).RL.hfst
 	hfst-regexp2fst -S -o $@ < $<
 
 $(LANG1).automorf.hfst: .deps/$(LANG1).LR.hfst .deps/$(LANG1).spellrelax.hfst
-	hfst-compose -1 $< -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert | hfst-minimise | hfst-fst2fst -O -o $@
+	hfst-compose-intersect -1 $< -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert | hfst-minimise | hfst-fst2fst -O -o $@
 
 spellrelaxtsv.hfst: .deps/$(LANG1).LR.hfst $(BASENAME).$(LANG1).spellrelax
 	hfst-invert $< | hfst-expand-equivalences -T $(BASENAME).$(LANG1).spellrelax | hfst-fst2fst -O -o $@
