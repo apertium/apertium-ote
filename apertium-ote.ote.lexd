@@ -16,7 +16,7 @@ Punctuation
 PATTERN Verbs
 
 Proclitic # proclitics on their own
-(Proclitic [+:\ ])? Verb-Stem Objects?
+(Proclitic [+:\ ])? Verb-Stem Objects? Verb-Pl?
 
 PATTERN Proclitic
 
@@ -25,6 +25,11 @@ PATTERN Proclitic
 PATTERN Verb-Stem
 
 Verb-Stems(1) [<v>:] Verb-Stems(2):
+
+LEXICON Verb-Pl
+
+<s_pl>:>hu̱
+<s_pl>:>{⌥}hu̱    # Dir/LR
 
 
 PATTERN Nouns
@@ -1598,11 +1603,17 @@ drá:drá		<fut><dist><s_p3>
 LEXICON Objects
 
 <o_p1>:>{G}agi
+<o_p1>:>{⌥}{G}agi  # Dir/LR
 <o_p1>:>{G}i       # Dir/LR
+<o_p1>:>{⌥}{G}i    # Dir/LR
 <o_p2>:>ʼaʼi
 <o_p2>:>ʼi         # Dir/LR
 <o_p3>:>{B}abi
+<o_p3>:>{⌥}{B}abi  # Dir/LR
+<o_p3>:>{B}äbi     # Dir/LR   ! FIXME: maybe indirect object????
+<o_p3>:>{⌥}{B}äbi  # Dir/LR   ! FIXME: maybe indirect object????
 <o_p3>:>{B}i       # Dir/LR
+<o_p3>:>{⌥}{B}i       # Dir/LR
 
 
 LEXICON Noun-Stems
@@ -4781,6 +4792,9 @@ gatho:gatho			<qnt><sg>	# todo
 gaʼtho:gaʼtho		<qnt><pl>	# todos
 ndunthi:ndunthi	<qnt><pl>	# mucho; cantidad numerosa, abundante; gran parte
 
+mä:mä					<pos>			# mi, nuestro
+rá:rá					<pos>			# su(yo) 
+
 LEXICON Pron-Stems(2)
 
 toʼo:toʼo			<itg>			# quién
@@ -4795,6 +4809,7 @@ nuʼä:nuʼä			<cnjsub>		# que
 ngeʼä:ngeʼä			<cnjsub>		# porque
 ngetho:ngetho		<cnjsub>		# porque
 po\ rá\ ngeʼä:po\ rá\ ngeʼä	<cnjsub>	# por causa de, oir culpa de
+ngu:ngu				<cnjadv>		# como, como que
 
 LEXICON Prep-Stems
 
@@ -4821,6 +4836,7 @@ nuni:nuni		# allá
 nehe:nehe		# también
 nehe:ʼnehe		# también ! Dir/LR
 tsʼu̱:tsʼu̱		# un poco
+ya:ya				# ya
 
 LEXICON Adj-Stems
 
@@ -4879,7 +4895,7 @@ ku̱hi:ku̱hi	# adj sabroso
 kʼangi:kʼangi	# verde  
 kʼastʼi:kʼastʼi	# adj amarillo  
 le̱nkʼu:le̱nkʼu	# chico  
-mä:mä	# pos mío; nuestro ((mä́, mámás aux ir (a hacer algo1. decir  
+#mä:mä	# pos mío; nuestro ((mä́, mámás aux ir (a hacer algo1. decir  
 mädä:mädä	# mayor (de edad 
 mädenthebe:mädenthebe	# cincuenta, ¶medio ciento  
 mähängu:mähängu	# ¿cuánto más? ¶ 
@@ -4995,7 +5011,6 @@ nzuñʼye̱:nzuñʼye̱	# manco
 ñʼuxi:ñʼuxi	# 1. salado  
 ñʼu̱:ñʼu̱	# adj doloroso  
 ochenta:ochenta	# ochenta ¶ 
-rá:rá	# pos suyo (posesión singular 
 rayado:rayado	# adj rayado  
 ri:ri	# pos tuyo, suyo  
 ʼramänʼañʼo:ʼramänʼañʼo	# diferente ¶uno por uno  

@@ -15,6 +15,7 @@ Alphabet
  %{ℐ%}:0         ! impersonal verb form
  %{G%}:g %{G%}:k
  %{B%}:b %{B%}:p %{B%}:u
+ %{⌥%}:0         ! triggers optional phonology
  %>:0
 ;
 
@@ -88,7 +89,8 @@ Cx:Cy <=> %{ℐ%}: %  Ca: _ ;
       matched ;
 
 "Delete non-σ1 ä,i,e before p1 indirect complement"
-Vx:0 <=> Vow: \Vow:+ _ %>: [ %{B%}: | %{G%}: ] ;
+Vx:0 <=> Vow: \Vow:+ _ %>: %{⌥%}: [ %{B%}: | %{G%}: ] ;
+         Vow: \Vow:+ _ %>: %{⌥%}: h u̱ ;
      where Vx in ( ä i e ) ;
 
 "Delete h before deleted i,ä before p1 indirect complement"
@@ -103,7 +105,7 @@ p:0 <=> _ i: %>: %{B%}: ;
 %{B%}:p <= p: i: %>: _ ;
 
 "some contexts for {B}:b"
-%{B%}:b <= n: Vow: %>: _ ;
+%{B%}:b <= n: Vow: %>: %{⌥%}: _ ;
            :m/:0* %>: _ ;
 
 "n:m before {B}"
