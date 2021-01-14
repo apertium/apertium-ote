@@ -5,6 +5,7 @@ DELIMITERS = "<.>" ;
 LIST Case = (n s) (n p) ; # A set that matches either a Noun Singular or a Noun Plural
 LIST Adv = adv ;
 LIST Aux = aux ;
+LIST Adj = adj ;
 LIST N = n ;
 LIST Det = det ;
 
@@ -21,7 +22,7 @@ SELECT Adv IF
 # e.g. ya
 SELECT Det IF
 	(0 Det or Adv) 
-	(1 N)
+	(1 N or Adj)
 ;
 
 
