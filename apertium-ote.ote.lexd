@@ -10,6 +10,7 @@ Pronouns
 Conjunctions
 Adverbs
 Adjectives
+Propernouns
 Punctuation
 
 PATTERN Verbs
@@ -19,7 +20,7 @@ Proclitic # proclitics on their own
 
 PATTERN Proclitic
 
-Proclitics(1) [<aux>:] Proclitics(2):
+[<neg>:hin]? Proclitics(1) [<aux>:] Proclitics(2):
 
 PATTERN Verb-Stem
 
@@ -53,6 +54,12 @@ Conj-Stems(1) Conj-Stems(2):
 PATTERN Prepositions
 
 Prep-Stems [<pr>:]
+
+PATTERN Propernouns
+
+NP-Stems(1) [<np>:] NP-Stems(2):
+
+
 
 
 LEXICON Verb-Stems(2)
@@ -4751,17 +4758,18 @@ nuni:nuni			# pelota
 nde̱snä:nde̱snä		# náhuatl; pollo pinto; búlico
 nde̱snä:nde̱shnä		# náhuatl; pollo pinto; búlico ! Dir/LR
 ñämfo̱:ñämfo̱			# persona de habla española
+nthintʼantʼofo:nthintʼantʼofo	# introducción
 
 LEXICON Determiner-Stems(2)
 
 ra:ra					<def><sg>
 ya:ya					<def><pl>
-ʼna\ ra:ʼna\ ra	<idf><sg>
-ʼna\ ra:nʼa\ ra	<idf><sg>  # Dir/LR ! Source/Norma
-ʼna\ ra:nʼar		<idf><sg>  # Dir/LR ! Source/Norma
-ʼra\ ya:ʼra\ ya	<idf><pl>
-ʼra\ ya:rʼa\ ya	<idf><pl>	# Dir/LR
-ʼna\ ya:ʼna\ ya	<idf><pl>
+ʼna\ ra:ʼna\ ra	<ind><sg>
+#ʼna\ ra:nʼa\ ra	<ind><sg>  # Dir/LR ! Source/Norma
+ʼna\ ra:nʼar		<ind><sg>  # Dir/LR ! Source/Norma
+ʼra\ ya:ʼra\ ya	<ind><pl>
+ʼra\ ya:rʼa\ ya	<ind><pl>	# Dir/LR
+ʼna\ ya:ʼna\ ya	<ind><pl>
 nuni:nuni			<dem><sg>	# aquel, aquella
 nunä:nunä			<dem><sg>	# este
 nuya:nuya			<dem><pl>	# estos
@@ -4819,6 +4827,7 @@ notsi:notsi		# pequeño, chico
 tʼu̱ki:tʼu̱ki		# chico, pequeño
 tsani:tsani		# chico, pequeño
 tsʼu̱:tsʼu̱		# pequeño, delgado
+ntsʼä:ntsʼä    # puntiagudo 
 
 # Automatically added:
 antiua:antiua	# adj antiguo  
@@ -5023,6 +5032,9 @@ yoto:yoto	# adj siete ¶2. s siete
 ʼyotʼi:ʼyotʼi	# seco ¶ 
 zi:zi	# 1. pequeño  
 
+LEXICON NP-Stems(2)
+
+Yucatán:Yucatán	<top>
 
 LEXICON Punctuation
 
