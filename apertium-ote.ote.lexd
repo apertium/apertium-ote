@@ -133,6 +133,7 @@ ko̱nti:ko̱nti					<tv>	# negar
 tsunti:tsunti				<tv>	# prohibir
 bʼe̱nga:bʼe̱nga				<iv>	# replegarse
 embi:{ʼ}{ñ}embi			<tv>	# decir
+ge:ge							<iv>	# ser; grunir
 
 # AUTOMATICALLY ADDED:
 
@@ -4775,6 +4776,7 @@ nthintʼantʼofo:nthintʼantʼofo	# introducción
 fidi:fidi			# cama  
 fidi:fidi			# lecho
 ñähñu:ñähñu			# Hñähñu
+ajuä:ajuä			# dios
 
 
 LEXICON Determiner-Stems(2)
@@ -4818,6 +4820,7 @@ ngetho:ngetho		<cnjsub>		# porque
 po\ rá\ ngeʼä:po\ rá\ ngeʼä	<cnjsub>	# por causa de, oir culpa de
 ngu:ngu				<cnjadv>		# como, como que
 ko:ko					<cnjcoo>		# y
+ge:ge					<cnjsub>		# que
 
 LEXICON Prep-Stems
 
@@ -4845,6 +4848,7 @@ nehe:nehe		# también
 nehe:ʼnehe		# también ! Dir/LR
 tsʼu̱:tsʼu̱		# un poco
 ya:ya				# ya
+geʼbu̱:geʼbu̱		# entonces
 
 LEXICON Adj-Stems
 
@@ -5077,6 +5081,8 @@ Judá:Judá					<ant><m>	# Judá
 Isaac:Isaac					<ant><m>	# Isaac
 Aram:Aram					<top>		# Aramea (?)
 Salomó:Salomó				<ant><m>	# Salomón
+Bondo:Bondo					<top>		# Tenochtitlán
+Xuua:Xuua					<ant><m>	# Juan
 
 LEXICON Numeral
 0
