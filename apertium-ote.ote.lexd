@@ -5151,13 +5151,13 @@ Numeral+ ([.]|[,]) Numeral+ [<num>:]
 PATTERN Numbers
 
 Num-Lex [<num>:]
-:Num-Lex :Num-Conj :Num-SecondLex Num-Lex: [<num>:] Num-Conj Num-SecondLex: [<num>:]
+:Num-Lex :Num-Conj :Num-SecondLex Num-Lex: [<num>:] Num-Conj [\+:] Num-SecondLex: [<num>:]
 
 LEXICON Num-Conj
 # tambien con espacios
 
-+mä<cnjcoo>:ma		# Source/Breve
-+mä<cnjcoo>:mä		# Source/Dict
+\+mä<cnjcoo>:ma		# Source/Breve
+\+mä<cnjcoo>:mä		# Source/Dict
 
 LEXICON Num-Lex
 
