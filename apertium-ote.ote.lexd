@@ -5151,7 +5151,7 @@ Numeral+ ([.]|[,]) Numeral+ [<num>:]
 PATTERN Numbers
 
 Num-Lex [<num>:]
-:Num-Lex :Num-Conj :Num-Lex Num-Lex: [<num>:] Num-Conj Num-Lex: [<num>:]
+:Num-Lex(1) :Num-Conj :Num-Lex(1) Num-Lex(1): [<num>:] Num-Conj Num-Lex(1): [<num>:]
 
 LEXICON Num-Conj
 # tambien con espacios
@@ -5159,7 +5159,7 @@ LEXICON Num-Conj
 +mä<cnjcoo>:ma		# Source/Breve
 +mä<cnjcoo>:mä		# Source/Dict
 
-LEXICON Num-Lex
+LEXICON Num-Lex(1)
 
 ʼna:ʼna			# uno
 yoho:yoho		# dos
