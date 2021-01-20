@@ -35,7 +35,7 @@ LEXICON Verb-Pl
 
 PATTERN Nouns
 
-Noun-Stems [<n>:]
+Noun-Stems [<n>:] Noun-Poss?
 
 PATTERN Adverbs
 
@@ -4778,6 +4778,18 @@ fidi:fidi			# lecho
 ñähñu:ñähñu			# Hñähñu
 ajuä:ajuä			# dios
 
+LEXICON Noun-Poss
+
+#<px3sgprx>:		# (with rä)
+<px3sgdst>:ʼä		# (with rä)
+<px3plprx>:yu		# (with yä)
+<px3pldst>:ʼu		# (with yä)
+<px1plexcl>:ui		# (with ma) mío y tuyo / (with ri) tuyo y mío
+<px1pli31>:bʼe		# (with ma) mío y de él
+<px1plincl>:hu̱		# (with ma) de todos nosotros
+<px2pl>:hu̱			# (with ri) de ustedes
+
+
 
 LEXICON Determiner-Stems(2)
 
@@ -4789,12 +4801,16 @@ ya:ya					<def><pl>
 ʼra\ ya:ʼra\ ya	<ind><pl>
 ʼra\ ya:rʼa\ ya	<ind><pl>	# Dir/LR
 ʼna\ ya:ʼna\ ya	<ind><pl>
-nuni:nuni			<dem><sg>	# aquel, aquella
+
 nunä:nunä			<dem><sg>	# este
-nuya:nuya			<dem><pl>	# estos
-nuyu̱:nuyu̱			<dem><pl>	# aquellos, ellos
+nuna:nuna			<dem><sg>	# este ! Dir/LR Dir/RL Source/Breve
+nuni:nuni			<dem><sg>	# ese (o: aquel, aquella)
 nuʼä:nuʼä			<dem><sg>	# aquel
-nuʼu̱:nuʼu̱			<dem><pl>	# aquellos, esos
+
+nuya:nuya			<dem><pl>	# estos
+nuyu̱:nuyu̱			<dem><prx><pl>	# esos (o: aquellos, ellos)
+nuʼu̱:nuʼu̱			<dem><dst><pl>	# aquellos (o: aquellos, esos)
+
 gatho:gatho			<qnt><sg>	# todo
 gaʼtho:gaʼtho		<qnt><pl>	# todos
 ndunthi:ndunthi	<qnt><pl>	# mucho; cantidad numerosa, abundante; gran parte
@@ -4803,13 +4819,42 @@ mä:mä					<pos>			# mi, nuestro
 rá:rá					<pos>			# su(yo) 
 yá:yá					<pos>			# su, sus
 
+ma:ma					<pos>			# mi ! Dir/LR Dir/RL Source/Breve
+ri:ri					<pos>			# tu
+rá:rä					<pos>			# su ! Source/Breve          ! Dir/LR
+yá:yä					<pos>			# su (their) ! Source/Breve  ! Dir/LR
+
 LEXICON Pron-Stems(2)
 
 toʼo:toʼo			<itg>			# quién
 nunä:nunä			<dem><sg>	# éste
 nunä:nunä			<dem><pl>	# éstos
-núʼä:núʼä			<dem><sg>	# aquél
-núʼu̱:núʼu̱			<dem><pl>	# aquellos, esos
+núʼä:núʼä			<dem><dst><sg>	# aquél
+núʼu̱:núʼu̱			<dem><dst><pl>	# aquellos, esos
+
+nuga:nuga			<pers><p1><sg>	# yo
+nuʼi:nuʼi			<pers><p2><sg>	# tú
+nuʼä:nuʼä			<pers><p3><sg><dst>	# él (aquél)
+nuni:nuni			<pers><p3><sg><prx>	# él (eso)
+
+nugaui:nugaui		<pers><p1><pl><i12>	# yo y tú
+nuʼibʼe:nuʼibʼe	<pers><p1><pl><i21>	# tú y yo
+nuʼäga:nuʼäga		<pers><p1><pl><i31>	# él y yo
+nuju̱:nuju̱			<pers><p1><pl><incl>	# todos nosotros
+nuʼähu̱:nuʼähu̱		<pers><p2><pl>			# ustedes
+nuʼu̱:nuʼu̱			<pers><p3><pl><dst>	# ellos (aquéllos)
+nuyu̱:nuyu̱			<pers><p3><pl><prx>	# ellos (esos)
+
+
+go\ geke:go\ geke		<pers><tn><p1><sg>	# yo
+go\ geʼe:go\ geʼe		<pers><tn><p2><sg>	# tú
+go\ geʼä:go\ geʼä		<pers><tn><p3><sg>	# él/ella
+
+go\ gekje:go\ gekje		<pers><tn><p1><pl><excl>	# nosotros (sin tí)
+go\ gekju̱:go\ gekju̱		<pers><tn><p1><pl><i21>		# tú y yo
+go\ gatho\ gihu̱:go\ gatho\ gihu̱		<pers><tn><p1><pl><incl>	# todos nosotros
+go\ geʼähu̱:go\ geʼähu̱	<pers><tn><p2><pl>			# ustedes
+go\ geʼu̱:go\ geʼu̱			<pers><tn><p3><pl>			# ellos
 
 LEXICON Conj-Stems(2)
 
