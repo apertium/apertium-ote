@@ -12,7 +12,8 @@ Adverbs
 Adjectives
 Propernouns
 Punctuation
-Number
+Numerals
+Numbers
 
 PATTERN Verbs
 
@@ -1556,8 +1557,8 @@ gi:gi{ꞩ}	<fut><s_p2>
 da:da{Ꞩ}	<fut><s_p3>
 
 dí:dí		<pres><s_p1>
-gí:gí		<pres><s_p1>
-di:di		<pres><s_p1>
+gí:gí		<pres><s_p2>
+di:di		<pres><s_p1>	# ! Dir/LR
 i:i		<pres><s_p1>	# FIXME: what's the difference?
 
 
@@ -5141,9 +5142,29 @@ LEXICON Numeral
 8
 9
 
-PATTERN Number
+PATTERN Numerals
 Numeral+ [<num>:]
 Numeral+ ([.]|[,]) Numeral+ [<num>:]
+
+PATTERN Numbers
+
+Num-Lex [<num>:]
+
+LEXICON Num-Lex
+
+nʼa:nʼa			# uno
+yoho:yoho		# dos
+hñu:hñu			# tres
+goho:goho		# cuatro
+ku̱tʼa:ku̱tʼa		# cinco
+rʼato:rʼato		# seis
+yoto:yoto		# siete
+hñäto:hñäto		# ocho
+gu̱to:gu̱to		# nueve
+rʼe̱tʼa:rʼe̱tʼa	# diez
+nʼate:nʼate		# veinte
+nthebe:nthebe	# hundred
+mʼo:mʼo			# mil
 
 LEXICON Punctuation
 
