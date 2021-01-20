@@ -4867,6 +4867,8 @@ po\ rá\ ngeʼä:po\ rá\ ngeʼä	<cnjsub>	# por causa de, oir culpa de
 ngu:ngu				<cnjadv>		# como, como que
 ko:ko					<cnjcoo>		# y
 ge:ge					<cnjsub>		# que
+mä:ma					<cnjcoo>		# más (con los números) ! Dir/LR Source/Breve
+mä:mä					<cnjcoo>		# más (con los números) ! Source/Dict
 
 LEXICON Prep-Stems
 
@@ -5079,9 +5081,9 @@ ri:ri	# pos tuyo, suyo
 ʼrayoho:ʼrayoho	# dos a cada quien 
 ʼraʼyo:ʼraʼyo	# nuevo s primeriza (mujer o ¶animal hembra que pare el primer hijo 
 ʼraʼyoʼbu̱i:ʼraʼyoʼbu̱i	# primogénito ¶ 
-ʼre̱tʼa:ʼre̱tʼa	# diez  
-ʼre̱tʼamähñu:ʼre̱tʼamähñu	# trece  
-ʼre̱tʼamäʼra:ʼre̱tʼamäʼra	# once  
+#ʼre̱tʼa:ʼre̱tʼa	# diez  
+#ʼre̱tʼamähñu:ʼre̱tʼamähñu	# trece  
+#ʼre̱tʼamäʼra:ʼre̱tʼamäʼra	# once  
 sangi:sangi	# corto (tamaño de ropa 
 se̱ya:se̱ya	# malagradecido resentir  
 sontʼi:sontʼi	# prisco  
@@ -5149,20 +5151,27 @@ Numeral+ ([.]|[,]) Numeral+ [<num>:]
 PATTERN Numbers
 
 Num-Lex [<num>:]
+:Num-Lex :Num-Conj :Num-Lex Num-Lex: [<num>:] Num-Conj Num-Lex: [<num>:]
+
+LEXICON Num-Conj
+# tambien con espacios
+
++mä<cnjcoo>:ma		# Source/Breve
++mä<cnjcoo>:mä		# Source/Dict
 
 LEXICON Num-Lex
 
-nʼa:nʼa			# uno
+ʼna:ʼna			# uno
 yoho:yoho		# dos
 hñu:hñu			# tres
 goho:goho		# cuatro
 ku̱tʼa:ku̱tʼa		# cinco
-rʼato:rʼato		# seis
+ʼrato:rʼato		# seis
 yoto:yoto		# siete
 hñäto:hñäto		# ocho
 gu̱to:gu̱to		# nueve
-rʼe̱tʼa:rʼe̱tʼa	# diez
-nʼate:nʼate		# veinte
+ʼre̱tʼa:rʼe̱tʼa	# diez
+ʼnate:nʼate		# veinte
 nthebe:nthebe	# hundred
 mʼo:mʼo			# mil
 

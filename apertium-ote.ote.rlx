@@ -7,8 +7,11 @@ LIST Adv = adv ;
 LIST Aux = aux ;
 LIST Adj = adj ;
 LIST N = n ;
+LIST V = v ;
 LIST Det = det ;
 LIST Prep = pr ;
+LIST Num = num ;
+LIST Cnjcoo = cnjcoo ;
 
 
 SECTION
@@ -28,6 +31,17 @@ SELECT Det IF
 REMOVE N IF
 	(0 N or Prep)
 	(1 N or Det)
+;
+
+# e.g. ma/mä
+SELECT V IF
+	(-1 Aux)
+;
+
+# e.g. ma/mä
+SELECT Cnjcoo IF
+	(-1 Num)
+	(1 Num)
 ;
 
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
