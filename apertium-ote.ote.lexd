@@ -5151,7 +5151,7 @@ Numeral+ ([.]|[,]) Numeral+ [<num>:]
 PATTERN Numbers
 
 Num-Lex [<num>:]
-:Num-Lex(1) :Num-Conj :Num-Lex(1) Num-Lex(1): [<num>:] Num-Conj Num-Lex(1): [<num>:]
+:Num-Lex(1) :Num-Conj :Num-SecondLex(1) Num-Lex(1): [<num>:] Num-Conj Num-SecondLex(1): [<num>:]
 
 LEXICON Num-Conj
 # tambien con espacios
@@ -5174,6 +5174,8 @@ gu̱to:gu̱to		# nueve
 ʼnate:nʼate		# veinte
 nthebe:nthebe	# hundred
 mʼo:mʼo			# mil
+
+ALIAS Num-Lex Num-SecondLex
 
 LEXICON Punctuation
 
