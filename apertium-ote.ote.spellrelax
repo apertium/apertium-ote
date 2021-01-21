@@ -7,7 +7,7 @@
 	[ ?* [ Á (->) [ A | Á ] ] ?* ] .o.
 	[ ?* [ í (->) [ i | í ] ] ?* ] .o.
 	[ ?* [ Í (->) [ I | Í ] ] ?* ] .o.
-	[ ?* [ ä (->) [ a | ä | a̱ ] ] ?* ] .o.
+	[ ?* [ ä (->) [ a | ä | a̱ | à ] ] ?* ] .o.
 	[ ?* [ Ä (->) [ A | Ä | A̱ ] ] ?* ] .o.
 	[ ?* [ ú (->) [ u | ú ] ] ?* ] .o.
 	[ ?* [ Ú (->) [ U | Ú ] ] ?* ] .o.
@@ -18,7 +18,8 @@
 	! (currently doesn't seem to need to accept non-macron-below versions)
 	[ ?* [ e̱ (->) ɛ ] ?* ] .o.
 	[ ?* [ o̱ (->) ø ] ?* ] .o.
-	[ ?* [ u̱ (->) ʉ ] ?* ] .o.
+	[ ?* [ u̱ (->) [ ʉ | û ] ] ?* ] .o.
+	[ ?* [ ú̱ (->) û ] ?* ] .o.
 
 	! accept initial Cʼ for ʼC
 	[ ( ʼ:0 [ b | k | m | ñ | n | t | r | y ] 0:ʼ ) ?* ] .o.
@@ -33,5 +34,9 @@
 
 	! accept gu and qu as g and k before i/í/e
 	[ ?* ( [ g (->) [ g u ] ] [ i | í | e ] ) ?* ] .o.
-	[ ?* ( [ k (->) [ q u ] ] [ i | í | e ] ) ?* ]
+	[ ?* ( [ k (->) [ q u ] ] [ i | í | e ] ) ?* ] .o.
+
+	! accept c as k before a/á (etc.?)
+	[ ?* ( [ k (->) c ] [ a | á ] ) ?* ]
+
 ]

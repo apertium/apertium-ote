@@ -14,6 +14,7 @@ Propernouns
 Punctuation
 Numerals
 Numbers
+Interjections
 
 PATTERN Verbs
 
@@ -37,7 +38,7 @@ LEXICON Verb-Pl
 
 PATTERN Nouns
 
-Noun-Stems [<n>:] Noun-Poss?
+Noun-Stems [<n>:] Noun-Poss? [<pl>:hu̱]?
 
 PATTERN Adverbs
 
@@ -104,6 +105,10 @@ xofo:xofo					<tv>	# cosechar
 äni:{ʼ}{n}äni				<tv>	# menear
 huahni:huahni				<tv>	# escoger
 ʼue̱ti:ʼue̱ti					<tv>	# coser
+embi:{ʼ}{ñ}embi			<tv>	# decir
+ehe:{ʼ}{ñ}ehe				<iv>	# venir  
+ʼbu̱i:ʼbu̱i					<iv>	# haber; vivir; radicar; estar
+
 # FIXME: verbs below this line haven't been checked
 #        for morphophonological alternations
 su:su							<tv>	# cuidar ! FIXME: check <tv>
@@ -135,10 +140,9 @@ mä:{h}mä						<tv>	# decir
 ko̱nti:ko̱nti					<tv>	# negar
 tsunti:tsunti				<tv>	# prohibir
 bʼe̱nga:bʼe̱nga				<iv>	# replegarse
-embi:{ʼ}{ñ}embi			<tv>	# decir
 ge:ge							<iv>	# ser; grunir
-ehe:{ʼ}{ñ}ehe				<iv>	# venir  
 ñá:ñá							<iv>	# hablar
+te:te							<iv>	# vivir; crecer
 
 # AUTOMATICALLY ADDED:
 
@@ -4786,8 +4790,11 @@ fidi:fidi			# lecho
 ajuä:ajuä			# dios
 xi:xi					# hoja; pelo; cáscara; pluma
 bähtsí:bähtsí		# niño  ! Source/train
+bähtsí:bätsi		# niño  ! Source/dict
 ʼyo:ʼyo				# perro
 ʼyo:ʼyóʼ				# perro ! Dir/LR Source/train
+te:te					# vida; alma
+bʼe̱datsi:bʼe̱datsi	# sobrino
 
 LEXICON Noun-Poss
 
@@ -4799,6 +4806,7 @@ LEXICON Noun-Poss
 <px1pli31>:bʼe		# (with ma) mío y de él
 <px1plincl>:hu̱		# (with ma) de todos nosotros
 <px2pl>:hu̱			# (with ri) de ustedes
+<px1sg>:ʼi			# mi
 
 
 
@@ -4817,6 +4825,10 @@ ya:ya					<def><pl>
 ʼna\ ya:ʼna\ ya	<ind><pl>
 ʼna\ ya:ʼnaya		<ind><pl>	# Dir/LR
 
+
+nura:nura			<def><sg>	# (enfático)
+nura:nu\ ra			<def><sg>	# (enfático)  ! Dir/LR
+
 nunä:nunä			<dem><sg>	# este
 nuna:nuna			<dem><sg>	# este ! Dir/LR Dir/RL Source/Breve
 nuni:nuni			<dem><sg>	# ese (o: aquel, aquella)
@@ -4831,6 +4843,7 @@ gaʼtho:gaʼtho		<qnt><pl>	# todos
 ndunthi:ndunthi	<qnt><pl>	# mucho; cantidad numerosa, abundante; gran parte
 
 mä:mä					<pos>			# mi, nuestro
+mä:ma					<pos>			# mi, nuestro  ! Dir/LR
 rá:rá					<pos>			# su(yo) 
 yá:yá					<pos>			# su, sus
 
@@ -4842,10 +4855,13 @@ yá:yä					<pos>			# su (their) ! Source/Breve  ! Dir/LR
 LEXICON Pron-Stems(2)
 
 toʼo:toʼo			<itg>			# quién
+toʼo:tóʼo			<itg>			# quién  ! Dir/LR Source/biblia
 nunä:nunä			<dem><sg>	# éste
 nunä:nunä			<dem><pl>	# éstos
 núʼä:núʼä			<dem><dst><sg>	# aquél
 núʼu̱:núʼu̱			<dem><dst><pl>	# aquellos, esos
+te:te					<itg>			# qué
+te:té					<itg>			# qué		! Dir/LR FIXME: CHECK
 
 nuga:nuga			<pers><p1><sg>	# yo
 nuʼi:nuʼi			<pers><p2><sg>	# tú
@@ -4896,6 +4912,9 @@ ko:ko					<cnjcoo>		# y
 ge:ge					<cnjsub>		# que
 mä:ma					<cnjcoo>		# más (con los números) ! Dir/LR Source/Breve
 mä:mä					<cnjcoo>		# más (con los números) ! Source/Dict
+y:y					<cnjcoo>		# y
+nuʼbu̱:nuʼbu̱			<cnjsub>		# si, cuando
+nuʼbu̱:nubʼu̱			<cnjsub>		# si, cuando ! Dir/LR Source/train
 
 LEXICON Prep-Stems
 
@@ -4931,6 +4950,8 @@ gepu̱:gepu̱		# allí, ahí
 xi:xi				# emphasises adj/adv/verb; '¿y quéʔ'
 ʼnepu̱:nepu̱		# luego, después	! Dir/LR
 ʼnepu̱:ʼnepu̱		# luego, después
+nuʼbú̱:nuʼbú̱		# entonces
+ʼñenä:ʼñenä		# parece; como que
 
 LEXICON Adj-Stems
 
@@ -4942,6 +4963,7 @@ tsani:tsani		# chico, pequeño
 tsʼu̱:tsʼu̱		# pequeño, delgado
 ntsʼä:ntsʼä    # puntiagudo 
 ndeznä:ndeznä	# mexicas, náhuatl mexicano
+mäka:mäka		# santo
 
 # Automatically added:
 antiua:antiua	# adj antiguo  
@@ -5210,6 +5232,14 @@ nthebe:nthebe	# hundred
 mʼo:mʼo			# mil
 
 ALIAS Num-Lex Num-SecondLex
+
+PATTERN Interjections
+
+Ij-Stems [<ij>:]
+
+LEXICON Ij-Stems
+
+oh:oh
 
 LEXICON Punctuation
 

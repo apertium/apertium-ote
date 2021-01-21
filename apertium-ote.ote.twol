@@ -27,7 +27,7 @@ Vow = A Ä E E̱ I O O̱ U U̱
 Rules
 
 "secondary verb form consonant lenition, except ts"
-Cx:Cy <=> b i %{Ꞩ%}: [ %  | %>: ] ( [ ʼ | %{ʼ%}: ] ) _ ;
+Cx:Cy <=> %{Ꞩ%}: [ %  | %>: ] ( [ ʼ | %{ʼ%}: ] ) _ ;
       except
             _ s: ;
             _ i: %>: %{B%}: ;   ! avoids conflict with other rule
