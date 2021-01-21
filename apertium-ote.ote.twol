@@ -27,7 +27,7 @@ Vow = A Ä E E̱ I O O̱ U U̱
 Rules
 
 "secondary verb form consonant lenition, except ts"
-Cx:Cy <=> b i %{Ꞩ%}: %  ( [ ʼ | %{ʼ%}: ] ) _ ;
+Cx:Cy <=> b i %{Ꞩ%}: [ %  | %>: ] ( [ ʼ | %{ʼ%}: ] ) _ ;
       except
             _ s: ;
             _ i: %>: %{B%}: ;   ! avoids conflict with other rule
@@ -36,53 +36,53 @@ Cx:Cy <=> b i %{Ꞩ%}: %  ( [ ʼ | %{ʼ%}: ] ) _ ;
       matched ;
 
 "secondary verb form in ts:z (s)"
-s:0 <=> %{Ꞩ%}: %  (ʼ) t: _ ;
+s:0 <=> %{Ꞩ%}: [ %  | %>: ] (ʼ) t: _ ;
 
 "secondary verb form in ts:z (t)"
-t:z <=> %{Ꞩ%}: %  (ʼ) _ s: ;
+t:z <=> %{Ꞩ%}: [ %  | %>: ] (ʼ) _ s: ;
 
 "secondary verb forms beginning in glottals get palatals h:hy"
-%{y%}:y <=> %{Ꞩ%}: %  h _ ;
+%{y%}:y <=> %{Ꞩ%}: [ %  | %>: ] h _ ;
 
 "secondary verb forms beginning in glottals get palatals ʼ:ʼñ (ñ)"
-%{ñ%}:ñ <=> %{Ꞩ%}: %  %{ʼ%}: _ ;
+%{ñ%}:ñ <=> %{Ꞩ%}: [ %  | %>: ] %{ʼ%}: _ ;
 
 "secondary verb forms beginning in ʼ realise ʼ"
-%{ʼ%}:ʼ <=> %{Ꞩ%}: %  _ \%{P%}: ;
+%{ʼ%}:ʼ <=> %{Ꞩ%}: [ %  | %>: ] _ \%{P%}: ;
 
 ! FIXME: CHECK: this is just a guess
 "secondary verb forms beginning in h realise h"
-%{h%}:h <=> %{Ꞩ%}: %  _ \%{P%}: ;
+%{h%}:h <=> %{Ꞩ%}: [ %  | %>: ] _ \%{P%}: ;
 
 "secondary verb forms with initial n"
-%{n%}:n <=> %{Ꞩ%}: %  ( %{ʼ%}: )  _ ;
-            %  %{🪅%}: _ ;
+%{n%}:n <=> %{Ꞩ%}: [ %  | %>: ] ( %{ʼ%}: )  _ ;
+            [ %  | %>: ] %{🪅%}: _ ;
 
 "verbs that incorporate and have a secondary form with an initial nasal have the nasal surface in all persons, not just third person"
-%{m%}:m <=> %  %{🪅%}: _ ;
+%{m%}:m <=> [ %  | %>: ] %{🪅%}: _ ;
 
 !"verbs that incorporate and have a secondary form with an initial nasal have the nasal surface in all persons, not just third person"
-!Cx:Cy <=> %  %{🪅%}: _ ;
+!Cx:Cy <=> [ %  | %>: ] %{🪅%}: _ ;
 !      where Cx in ( %{n%} %{m%} )
 !            Cy in (   n     m   )
 !      matched ;
 
 
 "impersonal form mappings C1"
-Cx:Cy <=> %{ℐ%}: %  _ \%{P%}: ;
+Cx:Cy <=> %{ℐ%}: [ %  | %>: ] _ \%{P%}: ;
       where Cx in ( p k x %{ʼ%} ʼ h )
             Cy in ( f j s   t   t t )
       matched ;
 
 "impersonal form mappings C1"
-Cx:Cy <=> %{ℐ%}: %  _ Cz: ;
+Cx:Cy <=> %{ℐ%}: [ %  | %>: ] _ Cz: ;
       where Cx in ( %{ʼ%} )
             Cy in (   ʼ   )
             Cz in ( %{P%} )
       matched ;
 
 "impersonal form mappings C2"
-Cx:Cy <=> %{ℐ%}: %  Ca: _ ;
+Cx:Cy <=> %{ℐ%}: [ %  | %>: ] Ca: _ ;
       where Ca in ( %{ʼ%} %{ʼ%}   h     h   %{ʼ%}   t   %{ʼ%} h ʼ )
             Cx in ( %{n%} %{ñ%} %{y%} %{ñ%} %{P%} %{h%} %{y%} u u )
             Cy in (   ʼ     t     h     h     b     h     ʼ   h h )
@@ -96,7 +96,7 @@ Vx:0 <=> Vow: \Vow:+ _ %>: %{⌥%}: [ %{B%}: | %{G%}: ] ;
 "Delete h before deleted i,ä before p1 indirect complement"
 h:0 <=> _ [ i: | ä: ] %>: %{G%}: ;
     except
-        %{ℐ%}: %  _ \%{P%}: ;
+        %{ℐ%}: [ %  | %>: ] _ \%{P%}: ;
 
 "Verbs in -pi delete p before {B}"
 p:0 <=> _ i: %>: %{B%}: ;

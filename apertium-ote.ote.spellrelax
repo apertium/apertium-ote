@@ -25,6 +25,9 @@
 	! after a space too
 	[ ( ?+ %  ʼ:0 [ b | k | m | ñ | n | t | r | y ] 0:ʼ ) ?* ] .o.
 
+	! accept wV as uV (ignoring V part for now)
+	[ ?* [ u (->) w ] ?* ] .o.
+
 	! accept c as ts
 	[ ?* [ [ t s ] (->) c ] ?* ] .o.
 

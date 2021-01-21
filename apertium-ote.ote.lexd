@@ -19,6 +19,7 @@ PATTERN Verbs
 
 Proclitic # proclitics on their own
 (Proclitic [+:\ ])? Verb-Stem Objects? Verb-Pl?
+(Proclitic [+:>])? Verb-Stem Objects? Verb-Pl?		# Dir/LR  ! Source/train
 
 PATTERN Proclitic
 
@@ -81,6 +82,7 @@ tehmi:{ъ}tehmi				<iv>	# quebrarse
 tai:t{h}ai					<tv>	# comprar
 thädi:thädi					<tv>	# contestar
 tsa:tsa						<tv>	# mordar
+tsa:tsá						<tv>	# mordar ! Source/train
 ku̱ni:ku̱ni					<tv>	# molir
 ju̱ki:ju̱ki					<tv>	# sacar
 juadi:juadi					<tv>	# terminar
@@ -136,6 +138,7 @@ bʼe̱nga:bʼe̱nga				<iv>	# replegarse
 embi:{ʼ}{ñ}embi			<tv>	# decir
 ge:ge							<iv>	# ser; grunir
 ehe:{ʼ}{ñ}ehe				<iv>	# venir  
+ñá:ñá							<iv>	# hablar
 
 # AUTOMATICALLY ADDED:
 
@@ -4399,6 +4402,7 @@ uza:uza   # palo dulce (planta
 ʼuestʼä:ʼuestʼä   # gusano de nopal  
 ʼue̱di:ʼue̱di   # costurero  
 ʼue̱ne:ʼue̱ne   # 1. niño pequeño  
+ʼue̱ne:ʼuene   # bebé  ! Dir/LR
 u̱da:u̱da   # 1. dolor de ojos  
 u̱gi:u̱gi   # dolor  
 u̱hmi:u̱hmi   # gesto de la cara  
@@ -4781,6 +4785,9 @@ fidi:fidi			# lecho
 ñähñu:ñähñu			# Hñähñu
 ajuä:ajuä			# dios
 xi:xi					# hoja; pelo; cáscara; pluma
+bähtsí:bähtsí		# niño  ! Source/train
+ʼyo:ʼyo				# perro
+ʼyo:ʼyóʼ				# perro ! Dir/LR Source/train
 
 LEXICON Noun-Poss
 
@@ -4800,6 +4807,7 @@ LEXICON Determiner-Stems(2)
 ra:ra					<def><sg>
 ya:ya					<def><pl>
 ʼna\ ra:ʼna\ ra	<ind><sg>
+ʼna\ ra:na\ ra		<ind><sg>	# Dir/LR ! Source/train
 #ʼna\ ra:nʼa\ ra	<ind><sg>  # Dir/LR ! Source/Norma
 ʼna\ ra:nʼar		<ind><sg>  # Dir/LR ! Source/Norma
 ʼna\ ra:ʼnara		<ind><sg>  # Dir/LR
