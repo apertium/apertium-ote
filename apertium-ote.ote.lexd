@@ -4799,9 +4799,12 @@ ya:ya					<def><pl>
 ʼna\ ra:ʼna\ ra	<ind><sg>
 #ʼna\ ra:nʼa\ ra	<ind><sg>  # Dir/LR ! Source/Norma
 ʼna\ ra:nʼar		<ind><sg>  # Dir/LR ! Source/Norma
+ʼna\ ra:ʼnara		<ind><sg>  # Dir/LR
 ʼra\ ya:ʼra\ ya	<ind><pl>
 ʼra\ ya:rʼa\ ya	<ind><pl>	# Dir/LR
+ʼra\ ya:ʼraya		<ind><pl>	# Dir/LR
 ʼna\ ya:ʼna\ ya	<ind><pl>
+ʼna\ ya:ʼnaya		<ind><pl>	# Dir/LR
 
 nunä:nunä			<dem><sg>	# este
 nuna:nuna			<dem><sg>	# este ! Dir/LR Dir/RL Source/Breve
@@ -4847,15 +4850,27 @@ nuʼu̱:nuʼu̱			<pers><p3><pl><dst>	# ellos (aquéllos)
 nuyu̱:nuyu̱			<pers><p3><pl><prx>	# ellos (esos)
 
 
-go\ geke:go\ geke		<pers><tn><p1><sg>	# yo
-go\ geʼe:go\ geʼe		<pers><tn><p2><sg>	# tú
-go\ geʼä:go\ geʼä		<pers><tn><p3><sg>	# él/ella
+geke:geke		<pers><p1><sg>	# yo
+geʼe:geʼe		<pers><p2><sg>	# tú			Source/Breve
+geʼä:geʼä		<pers><p3><sg>	# él/ella	Source/Breve
 
-go\ gekje:go\ gekje		<pers><tn><p1><pl><excl>	# nosotros (sin tí)
-go\ gekju̱:go\ gekju̱		<pers><tn><p1><pl><i21>		# tú y yo
-go\ gatho\ gihu̱:go\ gatho\ gihu̱		<pers><tn><p1><pl><incl>	# todos nosotros
-go\ geʼähu̱:go\ geʼähu̱	<pers><tn><p2><pl>			# ustedes
-go\ geʼu̱:go\ geʼu̱			<pers><tn><p3><pl>			# ellos
+gekje:gekje		<pers><p1><pl><excl>	# nosotros (sin tí)
+gekju̱:gekju̱		<pers><p1><pl><i21>		# tú y yo
+gatho\ gihu̱:gatho\ gihu̱		<pers><p1><pl><incl>	# todos nosotros
+geʼähu̱:geʼähu̱		<pers><p2><pl>			# ustedes
+geʼähu̱:geʼahu̱		<pers><p2><pl>			# ustedes ! Dir/LR  Source/Breve
+geʼu̱:geʼu̱			<pers><p3><pl>			# ellos
+
+
+geke:go\ geke		<pers><tn><p1><sg>	# yo
+geʼe:go\ geʼe		<pers><tn><p2><sg>	# tú
+geʼä:go\ geʼä		<pers><tn><p3><sg>	# él/ella
+
+gekje:go\ gekje		<pers><tn><p1><pl><excl>	# nosotros (sin tí)
+gekju̱:go\ gekju̱		<pers><tn><p1><pl><i21>		# tú y yo
+gatho\ gihu̱:go\ gatho\ gihu̱		<pers><tn><p1><pl><incl>	# todos nosotros
+geʼähu̱:go\ geʼähu̱		<pers><tn><p2><pl>			# ustedes
+geʼu̱:go\ geʼu̱			<pers><tn><p3><pl>			# ellos
 
 LEXICON Conj-Stems(2)
 
@@ -4863,6 +4878,7 @@ toʼo:toʼo			<cnjsub>		# quien
 nuʼä:nuʼä			<cnjsub>		# que
 ngeʼä:ngeʼä			<cnjsub>		# porque
 ngetho:ngetho		<cnjsub>		# porque
+nubu̱:nubu̱			<cnjsub>		# si
 po\ rá\ ngeʼä:po\ rá\ ngeʼä	<cnjsub>	# por causa de, oir culpa de
 ngu:ngu				<cnjadv>		# como, como que
 ko:ko					<cnjcoo>		# y
@@ -4897,6 +4913,10 @@ nehe:ʼnehe		# también ! Dir/LR
 tsʼu̱:tsʼu̱		# un poco
 ya:ya				# ya
 geʼbu̱:geʼbu̱		# entonces
+njabu̱:njabu̱		# así
+habu̱:habu̱		# donde, adonde, dónde, adónde
+getbu̱:getbu̱		# cerca
+gepu̱:gepu̱		# allí, ahí
 
 LEXICON Adj-Stems
 
@@ -4923,7 +4943,7 @@ däta:däta	# 1. grande 1. cabeza grande 1. girasol
 doñä:doñä	# achatado, romo ¶(herramienta, cuchillo 
 entho:entho	# bueno, hermoso  
 gaʼtho:gaʼtho	# todos  
-gepu̱:gepu̱	# 1. bueno allí, ahí ¿ 
+gepu̱:gepu̱	# bueno
 goho:goho	# cuatro  
 gohoʼrate:gohoʼrate	# ochenta  
 gu̱to:gu̱to	# nueve  
