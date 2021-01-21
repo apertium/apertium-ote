@@ -135,6 +135,7 @@ tsunti:tsunti				<tv>	# prohibir
 bʼe̱nga:bʼe̱nga				<iv>	# replegarse
 embi:{ʼ}{ñ}embi			<tv>	# decir
 ge:ge							<iv>	# ser; grunir
+ehe:{ʼ}{ñ}ehe				<iv>	# venir  
 
 # AUTOMATICALLY ADDED:
 
@@ -1561,6 +1562,7 @@ gí:gí		<pres><s_p2>
 di:di		<pres><s_p1>	# ! Dir/LR
 i:i		<pres><s_p1>	# FIXME: what's the difference?
 
+dí:di{Ꞩ}	<perf><s_p1>	# FIXME: CHECK
 
 ndí:ndí		<copret><s_p1>
 ndrí:ndrí	<copret><prog><s_p1>
@@ -2070,7 +2072,7 @@ du̱zu̱:du̱zu̱   # s rabón, rabo cortado
 du̱ʼthi:du̱ʼthi   # cortador de mezquite  
 eda:eda   # anciano  
 efe:efe   # efés (reg.(una planta que ¶hay en el monte que produce vainas y la pepita ¶es comestible 
-ehe:ehe   # venida, llegada 1. venir  
+#ehe:ehe   # venida, llegada 1. venir  
 enero:enero   # enero  
 eʼyo:eʼyo   # limpiatuna (planta 
 eʼsfoho:eʼsfoho   # cangrejo, escarabajo ¶pelotero  

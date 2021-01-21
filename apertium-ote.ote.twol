@@ -36,26 +36,26 @@ Cx:Cy <=> b i %{Ꞩ%}: %  ( [ ʼ | %{ʼ%}: ] ) _ ;
       matched ;
 
 "secondary verb form in ts:z (s)"
-s:0 <=> b i %{Ꞩ%}: %  (ʼ) t: _ ;
+s:0 <=> %{Ꞩ%}: %  (ʼ) t: _ ;
 
 "secondary verb form in ts:z (t)"
-t:z <=> b i %{Ꞩ%}: %  (ʼ) _ s: ;
+t:z <=> %{Ꞩ%}: %  (ʼ) _ s: ;
 
 "secondary verb forms beginning in glottals get palatals h:hy"
-%{y%}:y <=> b i %{Ꞩ%}: %  h _ ;
+%{y%}:y <=> %{Ꞩ%}: %  h _ ;
 
 "secondary verb forms beginning in glottals get palatals ʼ:ʼñ (ñ)"
-%{ñ%}:ñ <=> b i %{Ꞩ%}: %  %{ʼ%}: _ ;
+%{ñ%}:ñ <=> %{Ꞩ%}: %  %{ʼ%}: _ ;
 
 "secondary verb forms beginning in ʼ realise ʼ"
-%{ʼ%}:ʼ <=> b i %{Ꞩ%}: %  _ \%{P%}: ;
+%{ʼ%}:ʼ <=> %{Ꞩ%}: %  _ \%{P%}: ;
 
 ! FIXME: CHECK: this is just a guess
 "secondary verb forms beginning in h realise h"
-%{h%}:h <=> b i %{Ꞩ%}: %  _ \%{P%}: ;
+%{h%}:h <=> %{Ꞩ%}: %  _ \%{P%}: ;
 
 "secondary verb forms with initial n"
-%{n%}:n <=> b i %{Ꞩ%}: %  ( %{ʼ%}: )  _ ;
+%{n%}:n <=> %{Ꞩ%}: %  ( %{ʼ%}: )  _ ;
             %  %{🪅%}: _ ;
 
 "verbs that incorporate and have a secondary form with an initial nasal have the nasal surface in all persons, not just third person"

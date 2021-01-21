@@ -1,6 +1,8 @@
 # Firstly, we need to define what tags should be considered sentence delimiters. For this example, only full stop is set as delimiter.
 DELIMITERS = "<.>" ;
 
+SUBREADINGS = RTL ; # right-to-left (main reading on the right)
+
 # We can define sets for common tag clusters
 LIST Case = (n s) (n p) ; # A set that matches either a Noun Singular or a Noun Plural
 LIST Adv = adv ;
@@ -44,8 +46,19 @@ SELECT Cnjcoo IF
 	(1 Num)
 ;
 
-# If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
-SELECT $$Case IF (1 (cnjcoo) LINK 1C $$Case) ;
+## If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
+#SELECT $$Case IF (1 (cnjcoo) LINK 1C $$Case) ;
+
+
+SECTION
+# word-specific stuff
+
+SELECT ("ehe") IF
+	(0 ("ehe"i) + V OR ("ʼñehe"i) + V)
+	(1 ("<nuni>") + Adv)
+;
+
+"ʼñehe" REMOVE ("ehe") ;
 
 # Resources:
 # http://visl.sdu.dk/cg3.html
