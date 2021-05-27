@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium ote], [0.1.0], [jonathan.north.washington@gmail.com], [apertium-ote], [http://wiki.apertium.org/wiki/Apertium-ote])
+AC_INIT([Apertium ote], [0.1.0], [jonathan.north.washington@gmail.com], [apertium-ote], [https://wiki.apertium.org/wiki/Apertium-ote])
 AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
