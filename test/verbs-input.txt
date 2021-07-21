@@ -1,0 +1,125 @@
+# [lexc+twol] bi pret forms
+bi mu̱di
+bi hyoni
+bi hätsʼi
+bi guadi
+bi gu̱ki
+bi gu̱ni
+bi ʼo̱de
+bi bo̱tsʼe
+bi bädi
+bi meni
+bi mpahai
+bi nsagi
+bi dai
+bi dehmi
+bi dhädi
+bi za
+bi nthede
+bi nthäʼti
+bi ntsaya
+bi tehmi
+bi ntse̱käza
+bi ntsithe
+bi ntäte
+bi nxo̱ni
+bi ʼñähä
+bi ʼmai
+bi ʼnäni
+bi ʼñembi
+# [lexc+twol] dá-forms
+dá fu̱di
+dá honi
+dá hätsʼi
+dá juadi
+dá ju̱ki
+dá ku̱ni
+dá o̱de
+dá po̱tsʼe
+dá pädi
+dá peni
+dá mpahai
+dá sagi
+dá tai
+dá tehmi
+dá thädi
+dá tsa
+dá thede
+dá thäʼti
+dá tsaya
+dá tehmi
+dá ntse̱käza
+dá ntsithe
+dá ntäte
+dá xo̱ni
+dá ähä
+dá ʼbai
+# [lexc+twol] gá-forms
+gá fu̱di
+gá honi
+gá hätsʼi
+gá juadi
+gá ju̱ki
+gá ku̱ni
+gá o̱de
+gá po̱tsʼe
+gá pädi
+gá peni
+gá mpahai
+gá sagi
+gá tai
+gá tehmi
+gá thädi
+gá tsa
+gá thede
+gá thäʼti
+gá tsaya
+gá tehmi
+gá ntse̱käza
+gá ntsithe
+gá ntäte
+gá xo̱ni
+gá ähä
+gá ʼbai
+# [lexc+twol] roots
+fu̱di
+honi
+hätsʼi
+juadi
+ju̱ki
+ku̱ni
+o̱de
+po̱tsʼe
+pädi
+peni
+pahai
+sagi
+tai
+tehmi
+thädi
+tsa
+thede
+thäʼti
+tsaya
+tehmi
+tse̱käza
+tsithe
+täte
+xo̱ni
+ähä
+ʼbai
+embi
+# [lexc+twol] bi impers forms
+bi fädi
+bi ʼbeni
+bi thai
+bi tsʼa
+bi ju̱ni
+bi sofo
+bi tʼo̱de
+bi tʼäni
+bi thoni
+bi thätsʼi
+bi thahni
+bi the̱ti
+bi tʼembi

@@ -80,7 +80,7 @@ $(LANG1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 
 $(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).autoconv.hfst: .deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).conv.hfst
 	hfst-fst2fst -w $< -o $@
-	
+
 .deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).conv.hfst: .deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).phon.hfst .deps/$(LANG1).spellrelax.hfst
 	hfst-invert .deps/$(LANG1)_$(VAR1)-$(LANG1)_$(VAR2).phon.hfst | hfst-compose -1 - -2 .deps/$(LANG1).spellrelax.hfst | hfst-invert -o $@
 
@@ -199,8 +199,6 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "TODO test sentence" | apertium -d . ote-morph | tee .test-mt
-	@echo "TODO test analysis results" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test
+
 SHELL=/bin/bash -o pipefail

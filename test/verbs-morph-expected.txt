@@ -1,0 +1,234 @@
+[-9Te61hKUmUs#0] ^ku̱ni/ku̱ni<v><tv>$
+[/-9Te61hKUmUs]
+[0Fsbt9BhRBie#0] ^gá thede/gá<aux><pret><s_p2>+thede<v><iv>$
+[/0Fsbt9BhRBie]
+[0S2tuAQxCKNj#0] ^sagi/sagi<n>/sagi<v><iv>$
+[/0S2tuAQxCKNj]
+[0hfiYoTFLBru#0] ^bi ntäte/bi<aux><pret><impers><s_p3>+täte<v><iv>/bi<aux><pret><s_p3>+täte<v><iv>$
+[/0hfiYoTFLBru]
+[0lA6_10kwtDr#0] ^dá peni/dá<aux><pret><s_p1>+peni<v><tv>$
+[/0lA6_10kwtDr]
+[17qjGZ9B5zPF#0] ^dá juadi/dá<aux><pret><s_p1>+juadi<v><tv>$
+[/17qjGZ9B5zPF]
+[1RhtnPqkQtky#0] ^gá honi/gá<aux><pret><s_p2>+honi<v><tv>$
+[/1RhtnPqkQtky]
+[1TEamlIifR7n#0] ^bi ʼbeni/bi<aux><pret><impers><s_p3>+peni<v><tv>$
+[/1TEamlIifR7n]
+[24tXNZL3rdfV#0] ^bi bädi/bi<aux><pret><s_p3>+pädi<v><tv>$
+[/24tXNZL3rdfV]
+[28h1cI9Q603U#0] ^ähä/ähä<v><iv>$
+[/28h1cI9Q603U]
+[2TQRY7eYZv7I#0] ^juadi/juadi<adj>/juadi<v><tv>$
+[/2TQRY7eYZv7I]
+[42-AQHDjw2EV#0] ^bi za/bi<aux><pret><s_p3>+tsa<v><tv>$
+[/42-AQHDjw2EV]
+[55qrufOK34rn#0] ^pahai/pahai<v><tv>$
+[/55qrufOK34rn]
+[5Q_NJ_QH7-kb#0] ^bi gu̱ki/bi<aux><pret><s_p3>+ju̱ki<v><tv>/bi<aux><pret><s_p3>+ju̱<v><iv><o_p1>/bi<aux><pret><s_p3>+ku̱ki<v><tv>/bi<aux><pret><s_p3>+ku̱<v><iv><o_p1>$
+[/5Q_NJ_QH7-kb]
+[5kQ8F9KUZgeF#0] ^honi/honi<v><tv>$
+[/5kQ8F9KUZgeF]
+[7jjOVoX3c3wD#0] ^bi meni/bi<aux><pret><s_p3>+beni<v><tv>/bi<aux><pret><s_p3>+peni<v><tv>$
+[/7jjOVoX3c3wD]
+[7z3oYI6UEofC#0] ^bi guadi/bi<aux><pret><s_p3>+juadi<v><tv>/bi<aux><pret><s_p3>+kadi<v><tv>$
+[/7z3oYI6UEofC]
+[8VOwqvKFVHaR#0] ^täte/täte<v><iv>/täte<v><tv>$
+[/8VOwqvKFVHaR]
+[8kAhfH7N8-1A#0] ^bi dehmi/bi<aux><pret><s_p3>+tehmi<v><tv>$
+[/8kAhfH7N8-1A]
+[9N3RlcqwRDDU#0] ^tai/tai<n>/tai<v><tv>$
+[/9N3RlcqwRDDU]
+[9tCZ9qc07K56#0] ^dá tsaya/dá<aux><pret><s_p1>+tsaya<v><iv>$
+[/9tCZ9qc07K56]
+[AA-xQWujzmkm#0] ^gá mpahai/gá<aux><pret><s_p2>+pahai<v><tv>$
+[/AA-xQWujzmkm]
+[B5NALvytBF4I#0] ^bi dhädi/bi<aux><pret><s_p3>+thädi<v><iv>/bi<aux><pret><s_p3>+thädi<v><tv>$
+[/B5NALvytBF4I]
+[BAlgtQSRi63U#0] ^bi mu̱di/bi<aux><pret><s_p3>+fu̱di<v><iv>$
+[/BAlgtQSRi63U]
+[BiOxdgHmRGMf#0] ^thäʼti/thäʼti<v><iv>/thäʼti<v><tv>$
+[/BiOxdgHmRGMf]
+[CJire8sfv8mJ#0] ^gá pädi/gá<aux><pret><s_p2>+pädi<v><tv>$
+[/CJire8sfv8mJ]
+[CVvS307OoL6O#0] ^gá thädi/gá<aux><pret><s_p2>+thädi<v><iv>/gá<aux><pret><s_p2>+thädi<v><tv>$
+[/CVvS307OoL6O]
+[CjbH9JFmbCIk#0] ^dá xo̱ni/dá<aux><pret><s_p1>+xo̱ni<v><iv>$
+[/CjbH9JFmbCIk]
+[Dfmsooxjevg5#0] ^bi thahni/bi<aux><pret><impers><s_p3>+huahni<v><tv>$
+[/Dfmsooxjevg5]
+[EDsD6qwV6NMA#0] ^bi mpahai/bi<aux><pret><impers><s_p3>+pahai<v><tv>/bi<aux><pret><s_p3>+pahai<v><tv>$
+[/EDsD6qwV6NMA]
+[ERIKBxiPVas_#0] ^gá ntse̱käza/gá<aux><pret><s_p2>+tse̱käza<v><tv>$
+[/ERIKBxiPVas_]
+[Eowjam4B4fYC#0] ^bi ʼñähä/bi<aux><pret><s_p3>+ähä<v><iv>$
+[/Eowjam4B4fYC]
+[FSDWQtC3cjKo#0] ^gá thäʼti/gá<aux><pret><s_p2>+thäʼti<v><iv>/gá<aux><pret><s_p2>+thäʼti<v><tv>$
+[/FSDWQtC3cjKo]
+[FmM5XG-q4y3C#0] ^gá tehmi/gá<aux><pret><s_p2>+tehmi<v><iv>/gá<aux><pret><s_p2>+tehmi<v><tv>$
+[/FmM5XG-q4y3C]
+[GnoFr2qjscrO#0] ^dá thädi/dá<aux><pret><s_p1>+thädi<v><iv>/dá<aux><pret><s_p1>+thädi<v><tv>$
+[/GnoFr2qjscrO]
+[HRrARcXexEmZ#0] ^gá ntäte/gá<aux><pret><s_p2>+täte<v><iv>$
+[/HRrARcXexEmZ]
+[IVK5pqIvBMHh#0] ^gá ʼbai/gá<aux><pret><s_p2>+ʼbai<v><iv>$
+[/IVK5pqIvBMHh]
+[Jgbo6FtV8dIu#0] ^bi ntse̱käza/bi<aux><pret><impers><s_p3>+tse̱käza<v><tv>/bi<aux><pret><s_p3>+tse̱käza<v><tv>$
+[/Jgbo6FtV8dIu]
+[JiDI8UcqRxfX#0] ^tsithe/tsithe<v><iv>/tsithe<v><tv>$
+[/JiDI8UcqRxfX]
+[KD_baD8BhXSI#0] ^bi ntsithe/bi<aux><pret><impers><s_p3>+tsithe<v><tv>/bi<aux><pret><s_p3>+tsithe<v><tv>$
+[/KD_baD8BhXSI]
+[Klz7VBzN2ERy#0] ^bi ʼnäni/bi<aux><pret><s_p3>+äni<v><tv>$
+[/Klz7VBzN2ERy]
+[KnC1paj0Trqi#0] ^gá tsa/gá<aux><pret><s_p2>+tsa<v><tv>$
+[/KnC1paj0Trqi]
+[LLM3K2aZ98HL#0] ^bi nxo̱ni/bi<aux><pret><s_p3>+xo̱ni<v><iv>$
+[/LLM3K2aZ98HL]
+[LSpGTtCLKy44#0] ^gá ku̱ni/gá<aux><pret><s_p2>+ku̱ni<v><tv>$
+[/LSpGTtCLKy44]
+[LgstBKyyVhpM#0] ^bi hyoni/bi<aux><pret><s_p3>+honi<v><tv>$
+[/LgstBKyyVhpM]
+[N9AkMm0r4nys#0] ^dá o̱de/dá<aux><pret><s_p1>+o̱de<v><tv>$
+[/N9AkMm0r4nys]
+[OIqqfFtEw666#0] ^po̱tsʼe/po̱tsʼe<v><iv>/po̱tsʼe<v><tv>$
+[/OIqqfFtEw666]
+[P3yi8yA03G32#0] ^tse̱käza/tse̱käza<v><tv>$
+[/P3yi8yA03G32]
+[PPJwUB2M6PEs#0] ^bi nthede/bi<aux><pret><s_p3>+thede<v><iv>$
+[/PPJwUB2M6PEs]
+[Pw8qbWoRpdif#0] ^gá tsaya/gá<aux><pret><s_p2>+tsaya<v><iv>$
+[/Pw8qbWoRpdif]
+[Qox5TzobyR-x#0] ^bi dai/bi<aux><pret><s_p3>+tai<v><tv>$
+[/Qox5TzobyR-x]
+[QtejvTOyS7Vc#0] ^gá xo̱ni/gá<aux><pret><s_p2>+xo̱ni<v><iv>$
+[/QtejvTOyS7Vc]
+[QuwvxSbnOdfX#0] ^dá ntse̱käza/dá<aux><pret><s_p1>+tse̱käza<v><tv>$
+[/QuwvxSbnOdfX]
+[R7nGIVGvEQB9#0] ^gá sagi/gá<aux><pret><s_p2>+sagi<v><iv>$
+[/R7nGIVGvEQB9]
+[R9nV9pH3nksm#0] ^bi gu̱ni/bi<aux><pret><impers><s_p3>+gu̱ni<v><tv>/bi<aux><pret><s_p3>+gu̱ni<v><tv>/bi<aux><pret><s_p3>+ju̱ni<v><tv>/bi<aux><pret><s_p3>+ku̱ni<v><tv>$
+[/R9nV9pH3nksm]
+[RkL1jecRXr6w#0] ^dá thede/dá<aux><pret><s_p1>+thede<v><iv>$
+[/RkL1jecRXr6w]
+[Rz71ft2aDSta#0] ^bi bo̱tsʼe/bi<aux><pret><s_p3>+po̱tsʼe<v><iv>/bi<aux><pret><s_p3>+po̱tsʼe<v><tv>$
+[/Rz71ft2aDSta]
+[SFcxKFNVHJtV#0] ^pädi/pädi<v><tv>$
+[/SFcxKFNVHJtV]
+[T3K9voqmdDES#0] ^gá hätsʼi/gá<aux><pret><s_p2>+hätsʼi<v><tv>$
+[/T3K9voqmdDES]
+[Y_saUwwcevAh#0] ^peni/peni<v><tv>$
+[/Y_saUwwcevAh]
+[ZJkYG8a-k2BZ#0] ^embi/ei<v><tv><o_p3>/embi<v><tv>$
+[/ZJkYG8a-k2BZ]
+[_5FUZomVwkmu#0] ^tsaya/tsaya<v><iv>$
+[/_5FUZomVwkmu]
+[_Mp29cLMkh2X#0] ^ju̱ki/ju̱ki<v><tv>/ju̱<v><iv><o_p1>$
+[/_Mp29cLMkh2X]
+[_XOkQ7N4n_ol#0] ^dá tehmi/dá<aux><pret><s_p1>+tehmi<v><iv>/dá<aux><pret><s_p1>+tehmi<v><tv>$
+[/_XOkQ7N4n_ol]
+[_Z_Z_Tj-12SB#0] ^bi ju̱ni/bi<aux><pret><impers><s_p3>+ju̱ni<v><tv>/bi<aux><pret><impers><s_p3>+ku̱ni<v><tv>$
+[/_Z_Z_Tj-12SB]
+[_sQFhaWZcjYU#0] ^dá fu̱di/dá<aux><pret><s_p1>+fu̱di<v><iv>$
+[/_sQFhaWZcjYU]
+[a1LaZLV-DBnz#0] ^bi tʼo̱de/bi<aux><pret><impers><s_p3>+o̱de<v><tv>$
+[/a1LaZLV-DBnz]
+[aP0Nq9oK0YBQ#0] ^dá thäʼti/dá<aux><pret><s_p1>+thäʼti<v><iv>/dá<aux><pret><s_p1>+thäʼti<v><tv>$
+[/aP0Nq9oK0YBQ]
+[aRbenl_NwMhn#0] ^tsa/tsa<n>/tsa<v><tv>$
+[/aRbenl_NwMhn]
+[bOUnuvFewNJG#0] ^bi ʼñembi/bi<aux><pret><s_p3>+embi<v><tv>$
+[/bOUnuvFewNJG]
+[buvjhHHKV8Qm#0] ^dá ntäte/dá<aux><pret><s_p1>+täte<v><iv>$
+[/buvjhHHKV8Qm]
+[byCQmNdgQ0_U#0] ^fu̱di/fu̱di<v><iv>$
+[/byCQmNdgQ0_U]
+[cAQOdsnTc75F#0] ^bi ʼmai/bi<aux><pret><s_p3>+ʼbai<v><iv>$
+[/cAQOdsnTc75F]
+[cWDavdxWVFVt#0] ^gá fu̱di/gá<aux><pret><s_p2>+fu̱di<v><iv>$
+[/cWDavdxWVFVt]
+[cbFIEnM89Vu4#0] ^bi fädi/bi<aux><pret><impers><s_p3>+pädi<v><tv>$
+[/cbFIEnM89Vu4]
+[cjLiR_vXD2Q8#0] ^dá sagi/dá<aux><pret><s_p1>+sagi<v><iv>$
+[/cjLiR_vXD2Q8]
+[cjqRg4jLGmHZ#0] ^dá honi/dá<aux><pret><s_p1>+honi<v><tv>$
+[/cjqRg4jLGmHZ]
+[cskzVRj1lfX-#0] ^dá ntsithe/dá<aux><pret><s_p1>+tsithe<v><tv>$
+[/cskzVRj1lfX-]
+[e3ozr1qwKHFX#0] ^bi sofo/bi<aux><pret><impers><s_p3>+xofo<v><tv>$
+[/e3ozr1qwKHFX]
+[eQ9qc5IPFbFY#0] ^bi thai/bi<aux><pret><impers><s_p3>+tai<v><tv>/bi<aux><pret><impers><s_p3>+ʼuäi<v><iv>$
+[/eQ9qc5IPFbFY]
+[fdOowm10MJ5p#0] ^gá ähä/gá<aux><pret><s_p2>+ähä<v><iv>$
+[/fdOowm10MJ5p]
+[h7ezoK16GWqA#0] ^dá tsa/dá<aux><pret><s_p1>+tsa<v><tv>$
+[/h7ezoK16GWqA]
+[h7kOYL1xq_3i#0] ^bi/bi<aux><pret><impers><s_p3>/bi<aux><pret><s_p3>$ ^tʼembi/*tʼembi$
+[/h7kOYL1xq_3i]
+[h_hvVLEB8Imz#0] ^thede/thede<v><iv>$
+[/h_hvVLEB8Imz]
+[hlTe5kOquLxx#0] ^bi hätsʼi/bi<aux><pret><s_p3>+hätsʼi<v><tv>$
+[/hlTe5kOquLxx]
+[j4Q9gMQyZUwd#0] ^o̱de/o̱de<v><tv>$
+[/j4Q9gMQyZUwd]
+[jcNhacbDLbUC#0] ^bi thätsʼi/bi<aux><pret><impers><s_p3>+huätsʼi<v><tv>/bi<aux><pret><impers><s_p3>+hätsʼi<v><tv>/bi<aux><pret><impers><s_p3>+ʼuätsʼi<v><iv>$
+[/jcNhacbDLbUC]
+[kz_7CqHJMVha#0] ^dá tai/dá<aux><pret><s_p1>+tai<v><tv>$
+[/kz_7CqHJMVha]
+[l_qZ831UZJNw#0] ^gá tai/gá<aux><pret><s_p2>+tai<v><tv>$
+[/l_qZ831UZJNw]
+[liKYdcxKP6gW#0] ^dá ʼbai/dá<aux><pret><s_p1>+ʼbai<v><iv>$
+[/liKYdcxKP6gW]
+[m0BnaNVTSVua#0] ^bi ʼo̱de/bi<aux><pret><s_p3>+o̱de<v><tv>$
+[/m0BnaNVTSVua]
+[maLXrqmWCjy-#0] ^bi thoni/bi<aux><pret><impers><s_p3>+honi<v><tv>$
+[/maLXrqmWCjy-]
+[mmddp-q4_tvB#0] ^dá hätsʼi/dá<aux><pret><s_p1>+hätsʼi<v><tv>$
+[/mmddp-q4_tvB]
+[mp3o9af4KOgJ#0] ^thädi/thädi<v><iv>/thädi<v><tv>$
+[/mp3o9af4KOgJ]
+[nZGPucKiIuA1#0] ^dá po̱tsʼe/dá<aux><pret><s_p1>+po̱tsʼe<v><iv>/dá<aux><pret><s_p1>+po̱tsʼe<v><tv>$
+[/nZGPucKiIuA1]
+[oLpj4evZaTcG#0] ^gá o̱de/gá<aux><pret><s_p2>+o̱de<v><tv>$
+[/oLpj4evZaTcG]
+[pgXsDH08a6pR#0] ^bi the̱ti/bi<aux><pret><impers><s_p3>+hue̱ti<v><iv>/bi<aux><pret><impers><s_p3>+the̱ti<v><tv>/bi<aux><pret><impers><s_p3>+ʼue̱ti<v><tv>$
+[/pgXsDH08a6pR]
+[pwkr8tzqNrPU#0] ^bi ntsaya/bi<aux><pret><s_p3>+tsaya<v><iv>$
+[/pwkr8tzqNrPU]
+[qLuQwiBiU5ai#0] ^bi tsʼa/bi<aux><pret><impers><s_p3>+tsʼä<v><tv>$
+[/qLuQwiBiU5ai]
+[qwiVMFWfV7-p#0] ^gá peni/gá<aux><pret><s_p2>+peni<v><tv>$
+[/qwiVMFWfV7-p]
+[r0MtOBwYs1jC#0] ^dá ku̱ni/dá<aux><pret><s_p1>+ku̱ni<v><tv>$
+[/r0MtOBwYs1jC]
+[rBBW4S8dUSIE#0] ^dá mpahai/dá<aux><pret><s_p1>+pahai<v><tv>$
+[/rBBW4S8dUSIE]
+[razR1-TWSGjC#0] ^gá po̱tsʼe/gá<aux><pret><s_p2>+po̱tsʼe<v><iv>/gá<aux><pret><s_p2>+po̱tsʼe<v><tv>$
+[/razR1-TWSGjC]
+[scOxqAyByr0r#0] ^gá ntsithe/gá<aux><pret><s_p2>+tsithe<v><tv>$
+[/scOxqAyByr0r]
+[tzGMCZ4hmCpJ#0] ^bi nthäʼti/bi<aux><pret><s_p3>+thäʼti<v><iv>$
+[/tzGMCZ4hmCpJ]
+[vjR19qf57zSA#0] ^dá ähä/dá<aux><pret><s_p1>+ähä<v><iv>$
+[/vjR19qf57zSA]
+[vqoAitHy8fLu#0] ^gá juadi/gá<aux><pret><s_p2>+juadi<v><tv>$
+[/vqoAitHy8fLu]
+[wSg-3bOEz3c_#0] ^bi nsagi/bi<aux><pret><s_p3>+sagi<v><iv>$
+[/wSg-3bOEz3c_]
+[wqJfPJo-sNV2#0] ^ʼbai/ʼbai<n>/ʼbai<v><iv>$
+[/wqJfPJo-sNV2]
+[wyGg8fUavThM#0] ^hätsʼi/hätsʼi<v><tv>$
+[/wyGg8fUavThM]
+[xbx0gCUrlETJ#0] ^dá ju̱ki/dá<aux><pret><s_p1>+ju̱ki<v><tv>/dá<aux><pret><s_p1>+ju̱<v><iv><o_p1>$
+[/xbx0gCUrlETJ]
+[yUMmchOEoaeA#0] ^bi tʼäni/bi<aux><pret><impers><s_p3>+äni<v><tv>$
+[/yUMmchOEoaeA]
+[yasojLJ2Vlmv#0] ^bi tehmi/bi<aux><pret><impers><s_p3>+tehmi<v><iv>/bi<aux><pret><impers><s_p3>+tehmi<v><tv>/bi<aux><pret><s_p3>+tehmi<v><iv>$
+[/yasojLJ2Vlmv]
+[zBlUfDc4wcy9#0] ^xo̱ni/xo̱ni<v><iv>$
+[/zBlUfDc4wcy9]
+[zK4LrAZVvpw_#0] ^dá pädi/dá<aux><pret><s_p1>+pädi<v><tv>$
+[/zK4LrAZVvpw_]
+[zZijxN0ihPrz#0] ^gá ju̱ki/gá<aux><pret><s_p2>+ju̱ki<v><tv>/gá<aux><pret><s_p2>+ju̱<v><iv><o_p1>$
+[/zZijxN0ihPrz]
+[zhZk9gL_zgfG#0] ^tehmi/tehmi<v><iv>/tehmi<v><tv>$
+[/zhZk9gL_zgfG]

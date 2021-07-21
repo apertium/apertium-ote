@@ -1,0 +1,10 @@
+{
+  "verbs": {
+    "input": "verbs-input.txt",
+    "mode": "ote-morph"
+  },
+  "verbs-gen": {
+    "input": "verbs-gen-input.txt",
+    "mode": "ote-gener"
+  }
+}
